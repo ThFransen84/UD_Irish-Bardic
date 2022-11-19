@@ -7,7 +7,7 @@
 2	mhallacht	mallacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 3	ort	ar	ADP	_	Number=Sing|Person=2	2	obl:prep	_	_
 4	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
-5	shaoghail	saol	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	nmod	_	_
+5	shaoghail	saol	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	nmod	_	_
 6	mairg	marg	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 7	nach	nach	PART	_	Form=Indirect|PartType=Vb|Polarity=Neg|PronType=Rel	8	mark:prt	_	_
 8	ttuig	tuig	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	2	acl:relcl	_	_
