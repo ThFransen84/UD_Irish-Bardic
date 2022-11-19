@@ -12,7 +12,7 @@
 7	nach	nach	PART	_	Form=Indirect|PartType=Vb|Polarity=Neg|PronType=Rel	8	mark:prt	_	_
 8	ttuig	tuig	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	6	acl:relcl	_	_
 9	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
-10	robhaoghail	ró-bhaol	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
+10	robhaoghail	ró-bhaol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	_
 11-12	sgo	_	_	_	_	_	_	_	_
 11	ós	ó	SCONJ	_	VerbForm=Cop	13	mark	_	_
 12	go	go	PART	_	PartType=Cmpl	13	mark:prt	_	_
