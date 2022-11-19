@@ -10,7 +10,7 @@
 5	shaoghail	saol	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	nmod	_	_
 6	mairg	marg	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	_
 7	nach	nach	PART	_	Form=Indirect|PartType=Vb|Polarity=Neg|PronType=Rel	8	mark:prt	_	_
-8	ttuig	tuig	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	2	acl:relcl	_	_
+8	ttuig	tuig	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	6	acl:relcl	_	_
 9	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
 10	robhaoghail	ró-bhaol	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
 11-12	sgo	_	_	_	_	_	_	_	_
