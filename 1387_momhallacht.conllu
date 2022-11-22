@@ -60,7 +60,7 @@
 22	ccrioch	críoch	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	20	obj	_	_
 23	fa	faoi	ADP	_	_	24	case	_	_
 24	dheireadh	deireadh	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	6	punct	_	_
+25	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 3
 # text = Iomdha flaith as feasach linn iomdha airdrígh dob inghill ria ngein Chriosd tarla ar do mhuin sdo thrasgrais síos go talmain.
