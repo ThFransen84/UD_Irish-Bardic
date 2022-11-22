@@ -1,7 +1,7 @@
 # newdoc
 # newpar
 # sent_id = 1
-# text = Mo mhallacht ort a shaoghail mairg nach ttuig do robhaoghail sgo ccuire féin i ccéill dúin nach díol gradhaighthe t'fhortún.
+# text = Mo mhallacht ort a shaoghail mairg nach ttuig do robhaoghail 'sgo ccuire féin i ccéill dúin nach díol gradhaighthe t'fhortún.
 # text_standard = Mo mhallacht ort a shaoil mairg nach dtuigeann do ró-bhaoil ós go gcuireann tú féin i gcéill dúinn nach díol gráite d'fhortún.
 1	Mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
 2	mhallacht	mallacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
@@ -13,7 +13,7 @@
 8	ttuig	tuig	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	6	acl:relcl	_	_
 9	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
 10	robhaoghail	ró-bhaol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	_
-11-12	sgo	_	_	_	_	_	_	_	_
+11-12	'sgo	_	_	_	_	_	_	_	_
 11	ós	ó	SCONJ	_	VerbForm=Cop	13	mark	_	_
 12	go	go	PART	_	PartType=Cmpl	13	mark:prt	_	_
 13	ccuire	cuir	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	advcl	_	_
@@ -24,7 +24,7 @@
 18	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	19	cop	_	_
 19	díol	díol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	acl:relcl	_	_
 20	gradhaighthe	grá	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
-21	t'	do	ADP	_	_	22	case	_	SpaceAfter=No
+21	t'	do	DET	_	Number=Sing|Person=2|Poss=Yes	22	case	_	SpaceAfter=No
 22	fhortún	fortún	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	_
 
