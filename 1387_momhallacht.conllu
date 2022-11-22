@@ -35,7 +35,7 @@
 # see ga_idt-ud-test.conllu #25
 # ga_cadhan-ud-test.conllu #17
 1	Giodh	cé	SCONJ	_	_	2	mark	_	_
-2	iomdha	iomaí	ADJ	_	Degree=Pos	0	root	_	_
+2	iomdha	iomaí	ADJ	_	Degree=Pos	20	advcl	_	_
 3	Rí	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4-5	ara	_	_	_	_	_	_	_	_
 4	ar	ar	ADP	_	Form=Indirect|PronType=Rel	3	nsubj	_	_
@@ -55,7 +55,7 @@
 17	fésda	féasta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
 18	is	agus	CCONJ	_	_	19	cc	_	_
 19	fleadh	fleá	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
-20	fechtar	féach	VERB	_	Mood=Ind|Person=0|Tense=Pres	6	conj	_	_
+20	fechtar	féach	VERB	_	Mood=Ind|Person=0|Tense=Pres	0	root	_	_
 21	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	22	nmod:poss	_	_
 22	ccrioch	críoch	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	20	obj	_	_
 23	fa	faoi	ADP	_	_	24	case	_	_
