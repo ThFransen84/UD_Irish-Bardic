@@ -33,7 +33,7 @@
 # text_standard = Cé iomaí Rí ara raibh meas fuair uait rí agus flaitheas is dá dtug tú muirn féasta agus fleá féachtar a gcríoch faoi dheireadh.
 # Cé gur (?) with iomdha or Rí root? ('Though (it is) many a king who received ...')
 # see ga_idt-ud-test.conllu #25
-1	Giodh	cé	SCONJ	_	_	5	mark	_	_
+1	Giodh	cé	SCONJ	_	_	2	mark	_	_
 2	iomdha	iomaí	ADJ	_	Degree=Pos	0	root	_	_
 3	Rí	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
 4	ara	ara	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
