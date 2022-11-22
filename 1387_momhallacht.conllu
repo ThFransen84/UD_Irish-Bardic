@@ -37,7 +37,7 @@
 1	Giodh	cé	SCONJ	_	_	2	mark	_	_
 2	iomdha	iomaí	ADJ	_	Degree=Pos	0	root	_	_
 3	Rí	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-4	ara	ar	PART	_	Form=Indirect|PronType=Rel	3	obl	_	_
+4	ara	ar	PART	_	Form=Indirect|PronType=Rel	5	obl	_	_
 5	raibh	bí	VERB	_	Mood=Ind|Tense=Past	3	acl:rel	_	_
 6	meas	meas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 7	fúair	fuar	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
