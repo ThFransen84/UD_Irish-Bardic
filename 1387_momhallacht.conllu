@@ -49,8 +49,8 @@
 12	flaithes	flaitheas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
 13-14	sda	_	_	_	_	_	_	_	_
 13	is	agus	CCONJ	_	_	15	cc	_	_
-14	dá	dá	SCONJ	_	_	15	mark	_	_
-15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	5	advcl	_	_
+14	dá	do	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	15	obl	_	_
+15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	10	acl:relcl	_	_
 16	muirn	muirn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	_
 17	fésda	féasta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
 18	is	agus	CCONJ	_	_	19	cc	_	_
