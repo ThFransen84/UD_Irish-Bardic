@@ -42,7 +42,7 @@
 5	a	a	PRON	_	PronType=Rel	3	nmod	_	_
 6	raibh	bí	VERB	_	Mood=Ind|Tense=Past	5	acl:rel	_	_
 7	meas	meas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-8	fúair	fuar	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+8	fúair	fuar	VERB	_	Mood=Ind|Tense=Past	3	acl:relc	_	_
 9	uait	ó	ADP	_	Number=Sing|Person=2	8	obl:prep	_	_
 10	righe	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
 11	agus	agus	CCONJ	_	_	12	cc	_	_
