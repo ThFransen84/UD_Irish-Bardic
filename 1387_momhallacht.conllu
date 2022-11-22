@@ -34,6 +34,8 @@
 # Cé gur (?) with iomdha root? ('Though (it is) many a king who received ...')
 # see ga_idt-ud-test.conllu #25
 # ga_cadhan-ud-test.conllu #17
+# dá ttugais ... dá = ADP?? ('to whom you gave ...')
+# see ga_idt-ud-test.conllu #244&439
 1	Giodh	cé	SCONJ	_	_	2	mark	_	_
 2	iomdha	iomaí	ADJ	_	Degree=Pos	20	advcl	_	_
 3	Rí	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
