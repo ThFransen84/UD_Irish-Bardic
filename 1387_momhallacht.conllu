@@ -79,7 +79,7 @@
 10	ria	roimh	ADP	_	_	11	case	_	_
 11	ngein	gin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nmod	_	_
 12	Chriosd	Críost	PROPN	_	Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	nmod	_	_
-13	tarla	tarlaigh	VERB	_	Form=Len|Mood=Ind|Tense=Past	4	csubj:cop	_	_
+13	tarla	tarlaigh	VERB	_	Form=Len|Mood=Ind|Tense=Past	4	parataxis	_	_
 14	ar	ar	ADP	_	_	16	case	_	_
 15	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
 16	mhuin	muin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obl	_	_
