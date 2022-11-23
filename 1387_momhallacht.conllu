@@ -137,10 +137,10 @@
 16	fúairseat	faigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	parataxis	_	_
 17	seal	seal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	obj	_	_
 18-19	cait	_	_	_	_	_	_	_	_
-18	cá	cá	ADV	_	PronType=Int	21	advmod	_	_
-19	háit	áit	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	21	nmod	_	_
+18	cá	cá	ADV	_	PronType=Int	19	advmod	_	_
+19	háit	áit	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	1	parataxis	_	_
 20	nar	i	PART	_	Form=Indirect|PronType=Rel|Tense=Past	21	obl	_	_
-21	gabhsat	gabh	VERB	_	Form=Len|Mood=Ind|Number=Plur|Person=3|Tense=Past	16	acl:relcl	_	_
+21	gabhsat	gabh	VERB	_	Form=Len|Mood=Ind|Number=Plur|Person=3|Tense=Past	19	acl:relcl	_	_
 22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 6
