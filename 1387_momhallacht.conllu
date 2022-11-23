@@ -133,13 +133,13 @@
 12	is	agus	CCONJ	_	_	13	cc	_	_
 13	pearsa	Peirseach	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	_
 14	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	15	cop	_	_
-15	lag	lag	ADJ	_	Degree=Pos	11	advcl:relcl	_	_
+15	lag	lag	ADJ	_	Degree=Pos	11	acl:relcl	_	_
 16	fúairseat	faigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	parataxis	_	_
 17	seal	seal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	obj	_	_
 18-19	cait	_	_	_	_	_	_	_	_
 18	cá	cá	ADV	_	PronType=Int	21	advmod	_	_
 19	háit	áit	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	21	nmod	_	_
-20	nar	i	ADP	_	Number=Plur|Person=1|Poss=Yes	21	case	_	_
+20	nar	i	PART	_	Form=Indirect|PronType=Rel|Tense=Past	21	obl	_	_
 21	gabhsat	gabh	VERB	_	Form=Len|Mood=Ind|Number=Plur|Person=3|Tense=Past	16	acl:relcl	_	_
 22	.	.	PUNCT	_	_	1	punct	_	_
 
