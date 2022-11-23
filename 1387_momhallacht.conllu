@@ -29,7 +29,7 @@
 23	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 2
-# text = Giodh iomdha Rí ara raibh meas fúair uait righe agus flaithes sda ttugais muirn fésda is fleadh fechtar a ccrioch fa dheireadh.
+# text = Giodh iomdha Rí ara raibh meas fúair uait righe agus flaithes 'sda ttugais muirn fésda is fleadh fechtar a ccrioch fa dheireadh.
 # text_standard = Cé iomaí Rí ara raibh meas fuair uait rí agus flaitheas is dá dtug tú muirn féasta agus fleá féachtar a gcríoch faoi dheireadh.
 # Cé gur (?) with iomdha root? ('Though (it is) many a king who received ...')
 # see ga_idt-ud-test.conllu #25
@@ -49,7 +49,7 @@
 10	righe	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	_
 11	agus	agus	CCONJ	_	_	12	cc	_	_
 12	flaithes	flaitheas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
-13-14	sda	_	_	_	_	_	_	_	_
+13-14	'sda	_	_	_	_	_	_	_	_
 13	is	agus	CCONJ	_	_	15	cc	_	_
 14	dá	do	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	15	obl	_	_
 15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	3	acl:relcl	_	_
@@ -65,7 +65,7 @@
 25	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 3
-# text = Iomdha flaith as feasach linn iomdha airdrígh dob inghill ria ngein Chriosd tarla ar do mhuin sdo thrasgrais síos go talmain.
+# text = Iomdha flaith as feasach linn iomdha airdrígh dob inghill ria ngein Chriosd tarla ar do mhuin 'sdo thrasgrais síos go talmain.
 # text_standard = Iomaí flaith is feasach linn iomaí ardrí ba inghill roimh ghin Chríost tharla ar do mhuin is threascair tú síos go talamh.
 1	Iomdha	iomaí	ADJ	_	Degree=Pos	0	root	_	_
 2	flaith	flaith	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
@@ -83,12 +83,12 @@
 14	ar	ar	ADP	_	_	16	case	_	_
 15	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
 16	mhuin	muin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obl	_	_
-17	sdo	agus	CCONJ	_	_	18	cc	_	_
+17	'sdo	agus	CCONJ	_	_	18	cc	_	_
 18	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
 19	síos	síos	ADV	_	_	18	advmod	_	_
 20	go	go	ADP	_	_	21	case	_	_
 21	talmain	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	2	punct	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 4
 # text = Riogha is monairc an domhain ó ata a n-íul nar n-urchomhair mas fiadhna stairthe na ndrong dearbhaid gor fior a n-abrom.
