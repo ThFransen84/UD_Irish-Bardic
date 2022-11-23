@@ -129,12 +129,12 @@
 8	seal	seal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	_
 9	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	10	cop	_	_
 10	roibeag	ró-bheag	ADJ	_	Degree=Pos	8	acl:relcl	_	_
-11	callacdha	Caildéach	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	parataxis	_	_
+11	callacdha	Caildéach	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
 12	is	agus	CCONJ	_	_	13	cc	_	_
 13	pearsa	Peirseach	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	_
 14	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	15	cop	_	_
 15	lag	lag	ADJ	_	Degree=Pos	10	csubj:cop	_	_
-16	fúairseat	faigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	15	csubj:cleft	_	_
+16	fúairseat	faigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	15	parataxis	_	_
 17	seal	seal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	obj	_	_
 18-19	cait	_	_	_	_	_	_	_	_
 18	cá	cá	ADV	_	PronType=Int	21	advmod	_	_
