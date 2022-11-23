@@ -103,13 +103,13 @@
 8	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	nmod:poss	_	_
 9	n-íul	iúl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 10	nar	i	ADP	_	Number=Plur|Person=1|Poss=Yes	11	case	_	_
-11	n-urchomhair	urchomhair	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	7	nmod	_	_
+11	n-urchomhair	urchomhair	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	7	obl	_	_
 12	mas	má	SCONJ	_	VerbForm=Cop	13	mark	_	_
 13	fiadhna	fianaí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	advcl	_	_
 14	stairthe	stair	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	_
 15	na	na	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	ndrong	drong	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
-17	dearbhaid	dearbhaigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	acl:relcl	_	_
+17	dearbhaid	dearbhaigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	parataxis	_	_
 18	gor	is	AUX	_	Tense=Pres|VerbForm=Cop	19	cop	_	_
 19	fior	fíor	ADJ	_	Degree=Pos	17	ccomp	_	_
 20	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	21	mark:prt	_	_
