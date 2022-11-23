@@ -75,7 +75,7 @@
 6	iomdha	iomaí	ADJ	_	Degree=Pos	1	parataxis	_	_
 7	airdrígh	ardrí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 8	dob	is	AUX	_	PronType=Rel|Tense=Past|VerbForm=Cop	9	cop	_	_
-9	inghill	inghill	ADJ	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	inghill	inghill	ADJ	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	_
 10	ria	roimh	ADP	_	_	11	case	_	_
 11	ngein	gin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nmod	_	_
 12	Chriosd	Críost	PROPN	_	Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	nmod	_	_
