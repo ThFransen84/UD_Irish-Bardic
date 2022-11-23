@@ -70,7 +70,7 @@
 1	Iomdha	iomaí	ADJ	_	Degree=Pos	0	root	_	_
 2	flaith	flaith	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	as	is	AUX	_	Tense=Pres|VerbForm=Cop	4	cop	_	_
-4	feasach	feasach	ADJ	_	Degree=Pos	2	parataxis	_	_
+4	feasach	feasach	ADJ	_	Degree=Pos	1	parataxis	_	_
 5	linn	le	ADP	_	Number=Plur|Person=1	4	obl:prep	_	_
 6	iomdha	iomaí	ADJ	_	Degree=Pos	7	amod	_	_
 7	airdrígh	ardrí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
