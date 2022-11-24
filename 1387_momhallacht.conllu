@@ -93,7 +93,7 @@
 # sent_id = 4
 # text = Riogha is monairc an domhain ó ata a n-íul nar n-urchomhair mas fiadhna stairthe na ndrong dearbhaid gor fior a n-abrom.
 # text_standard = Ríthe is monarcaí an domhain ó atá a n-iúl inár n-urchomhair más fianaithe startha na ndrong dearbhaíonn siad gur fíor a ndeirim.
-1	Riogha	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+1	Riogha	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	dislocated	_	_
 2	is	agus	CCONJ	_	_	1	cc	_	_
 3	monairc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
 4	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -109,7 +109,7 @@
 14	stairthe	stair	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	_
 15	na	na	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	ndrong	drong	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
-17	dearbhaid	dearbhaigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	parataxis	_	_
+17	dearbhaid	dearbhaigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
 18	gor	is	AUX	_	Tense=Pres|VerbForm=Cop	19	cop	_	_
 19	fior	fíor	ADJ	_	Degree=Pos	17	ccomp	_	_
 20	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	21	mark:prt	_	_
