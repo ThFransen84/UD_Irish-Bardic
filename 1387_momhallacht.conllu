@@ -167,8 +167,8 @@
 16	roinert	ró-neart	ADJ	_	Degree=Pos	13	conj	_	_
 17	nír	is	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Cop	18	cop	_	_
 18	chian	cian	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-19	a	a	PART	_	PartType=Inf	20	mark	_	_
-20	ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	_
+19	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
+20	ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	csubj:cop	_	_
 21-22	ód	_	_	_	_	_	_	_	_
 21	ó	ó	ADP	_	_	23	case	_	_
 22	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	23	nmod:poss	_	_
