@@ -223,7 +223,7 @@
 18	gach	gach	DET	_	Definite=Def	19	det	_	_
 19	sódh	só	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	obj	_	_
 20	a	a	PART	_	PartType=Inf	21	mark	_	_
-21	chur	cur	NOUN	_	Form=Len|VerbForm=Inf	16	xcomp	_	_
+21	chur	cur	NOUN	_	Form=Len|VerbForm=Inf	14	xcomp	_	_
 22	faoi	faoi	ADP	_	_	24	case	_	_
 23	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	24	det	_	_
 24	roth	roth	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	_
