@@ -215,7 +215,7 @@
 10	rotha	roth	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
 11	a	a	PART	_	PartType=Voc	12	case:voc	_	_
 12	shaoghail	saol	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	_
-13	nach	is	AUX	_	Mood=Int|Polarity=Neg|Tense=Pres|VerbForm=Cop	14	cop	_	_
+13	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	14	cop	_	_
 14	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
 15	a	a	PART	_	PartType=Inf	16	mark	_	_
 16	dheireadh	deireadh	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	parataxis	_	_
