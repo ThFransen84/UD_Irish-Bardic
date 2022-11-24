@@ -194,7 +194,7 @@
 13	domhain	domhan	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	_
 14	lais	le	ADP	_	Gender=Masc|Number=Sing|Person=3	11	obl:prep	_	_
 15	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	16	nmod:poss	_	_
-16	shaoghal	saol	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	nmod	_	_
+16	shaoghal	saol	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	_
 17	créd	cé	PRON	_	PronType=Int	0	root	_	_
 18	far	faoi	PART	_	Form=Indirect|PronType=Rel|Tense=Past	17	obl	_	_
 19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	17	acl:relcl	_	_
