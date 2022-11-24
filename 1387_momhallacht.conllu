@@ -144,7 +144,7 @@
 22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 6
-# text = Alaxandair monarc mór céidEmpir Grég na nglanshlogh ger mhór a mhes sa roinert nír chian a ré ód mharcoigheacht.
+# text = Alaxandair monarc mór céidEmpir Grég na nglanshlogh ger mhór a mhes 'sa roinert nír chian a ré ód mharcoigheacht.
 # text_standard = Alastar monarc mór céad Impire Gréagach na nglansluaite cé gur mhór a mheas is a ró-neart níor chian a ré ó do mharcaíocht.
 1	Alaxandair	Alastar	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	dislocated	_	_
 2	monarc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
@@ -161,7 +161,7 @@
 11	mhór	mór	ADJ	_	Degree=Pos|Form=Len	18	advcl	_	_
 12	a	a	ADP	_	Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
 13	mhes	meas	NOUN	_	Form=Len|VerbForm=Inf	11	csubj:cop	_	_
-14-15	sa	_	_	_	_	_	_	_	_
+14-15	'sa	_	_	_	_	_	_	_	_
 14	is	agus	CCONJ	_	_	16	cc	_	_
 15	a	a	ADP	_	Number=Sing|Person=3|Poss=Yes	16	nmod:poss	_	_
 16	roinert	ró-neart	ADJ	_	Degree=Pos	13	conj	_	_
@@ -197,8 +197,8 @@
 16	shaoghal	saol	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	nmod	_	_
 17	créd	céard	PRON	_	PronType=Int	2	parataxis	_	_
 18	far	faoi	PART	_	PronType=Rel	19	mark:prt	_	_
-19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	17	acl:relcl	_	_
-20	.	.	PUNCT	_	_	2	punct	_	_
+19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = 8
 # text = Nir eirigh neach thiar no thoir ar druim do rotha a shaoghail nach é a dheireadh iar gach sódh a chur faoi an roth fa dhubrón.
