@@ -178,7 +178,7 @@
 # sent_id = 7
 # text = Iulius Cesair go n-agh ceidImpeir reil na Romhán ar ngabail an domhain lais a shaoghal créd far thrasgrais .
 # text_standard = Iúil Caesar go n-ágh céad Impire réil na Rómhánach ar ngabháil an domhain leis a shaol céard faoinar threascair tú.
-1	Iulius	Iúil	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	root	_	_
+1	Iulius	Iúil	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	flat:name	_	_
 2	Cesair	Caesar	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	go	go	ADP	_	_	4	case	_	_
 4	n-agh	ágh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
