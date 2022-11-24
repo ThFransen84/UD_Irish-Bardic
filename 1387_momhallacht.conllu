@@ -147,14 +147,14 @@
 # text = Alaxandair monarc mór céidEmpir Grég na nglanshlogh ger mhór a mhes sa roinert nír chian a ré ód mharcoigheacht.
 # text_standard = Alastar monarc mór céad Impire Gréagach na nglansluaite cé gur mhór a mheas is a ró-neart níor chian a ré ó do mharcaíocht.
 1	Alaxandair	Alastar	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	dislocated	_	_
-2	monarc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
+2	monarc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
 3	mór	mór	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 4-5	céidEmpir	_	_	_	_	_	_	_	_
 4	céad	céad	NUM	_	NumType=Card	5	nummod	_	_
-5	Impire	impire	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
-6	Grég	Gréagach	ADJ	_	Case=Nom|Number=Sing	5	amod	_	_
+5	Impire	impire	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+6	Grég	Gréagach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nmod	_	_
 7	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	nglanshlogh	nglansluaite	ADJ	_	VerbForm=Part	5	amod	_	_
+8	nglanshlogh	glanshlua	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
 9-10	ger	_	_	_	_	_	_	_	_
 9	cé	cé	SCONJ	_	_	11	mark	_	_
 10	gur	is	AUX	_	Tense=Past|VerbForm=Cop	11	cop	_	_
