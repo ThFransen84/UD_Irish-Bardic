@@ -196,7 +196,7 @@
 15	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	16	nmod:poss	_	_
 16	shaoghal	saol	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	nmod	_	_
 17	créd	céard	PRON	_	PronType=Int	2	parataxis	_	_
-18	far	faoi	PART	_	PronType=Rel	19	mark:prt	_	_
+18	far	faoi	PART	_	Form=Indirect|PronType=Rel|Tense=Past	19	obl	_	_
 19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
 20	.	.	PUNCT	_	_	19	punct	_	_
 
