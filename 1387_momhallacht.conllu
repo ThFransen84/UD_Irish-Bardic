@@ -173,7 +173,7 @@
 21	ó	ó	ADP	_	_	23	case	_	_
 22	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	23	nmod:poss	_	_
 23	mharcoigheacht	marcaíocht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	_
+24	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 7
 # text = Iulius Cesair go n-agh ceidImpeir reil na Romhán ar ngabail an domhain lais a shaoghal créd far thrasgrais .
