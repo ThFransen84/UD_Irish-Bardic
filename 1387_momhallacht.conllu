@@ -146,7 +146,7 @@
 # sent_id = 6
 # text = Alaxandair monarc mór céidEmpir Grég na nglanshlogh ger mhór a mhes sa roinert nír chian a ré ód mharcoigheacht.
 # text_standard = Alastar monarc mór céad Impire Gréagach na nglansluaite cé gur mhór a mheas is a ró-neart níor chian a ré ó do mharcaíocht.
-1	Alaxandair	Alastar	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+1	Alaxandair	Alastar	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	dislocated	_	_
 2	monarc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
 3	mór	mór	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 4-5	céidEmpir	_	_	_	_	_	_	_	_
@@ -166,7 +166,7 @@
 15	a	a	PART	_	PartType=Inf	16	mark	_	_
 16	roinert	ró-neart	ADJ	_	Degree=Pos	13	conj	_	_
 17	nír	is	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Cop	18	cop	_	_
-18	chian	cian	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	obj	_	_
+18	chian	cian	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 19	a	a	PART	_	PartType=Inf	20	mark	_	_
 20	ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	_
 21-22	ód	_	_	_	_	_	_	_	_
