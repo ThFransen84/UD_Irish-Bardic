@@ -158,7 +158,7 @@
 9-10	ger	_	_	_	_	_	_	_	_
 9	cé	cé	SCONJ	_	_	11	mark	_	_
 10	gur	is	AUX	_	Tense=Past|VerbForm=Cop	11	cop	_	_
-11	mhór	mór	ADJ	_	Degree=Pos|Form=Len	1	advcl	_	_
+11	mhór	mór	ADJ	_	Degree=Pos|Form=Len	18	advcl	_	_
 12	a	a	PART	_	PartType=Inf	13	mark	_	_
 13	mhes	meas	NOUN	_	Form=Len|VerbForm=Inf	11	csubj:cop	_	_
 14-15	sa	_	_	_	_	_	_	_	_
