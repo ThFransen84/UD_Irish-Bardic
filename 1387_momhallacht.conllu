@@ -184,7 +184,7 @@
 4	n-agh	ágh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
 5-6	ceidImpeir	_	_	_	_	_	_	_	_
 5	céad	céad	NUM	_	NumType=Card	6	nummod	_	_
-6	Impire	impire	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	_
+6	Impire	impire	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
 7	reil	réal	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
 8	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	Romhán	Rómhánach	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	amod	_	_
