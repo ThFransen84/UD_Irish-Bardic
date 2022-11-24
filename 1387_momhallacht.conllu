@@ -117,7 +117,7 @@
 22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 5
-# text = Riogha na nAssardha is mead tugais doib seal nar roibeag callacdha is pearsa nar lag fúairseat seal cait nar gabhsat .
+# text = Riogha na nAssardha is mead tugais doib seal nar roibeag callacdha is pearsa nar lag fúairseat seal cait 'nar gabhsat .
 # text_standard = Ríthe na nAisiriach is Méideach thug tú dóibh seal nár ró-bheag Caildéigh is Peirsigh nár lag fuair siad seal cá háit inár ghabh siad.
 1	Riogha	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 2	na	na	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
@@ -139,14 +139,14 @@
 18-19	cait	_	_	_	_	_	_	_	_
 18	cá	cá	ADV	_	PronType=Int	19	advmod	_	_
 19	háit	áit	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	1	parataxis	_	_
-20	nar	i	PART	_	Form=Indirect|PronType=Rel|Tense=Past	21	obl	_	_
+20	'nar	i	PART	_	Form=Indirect|PronType=Rel|Tense=Past	21	obl	_	_
 21	gabhsat	gabh	VERB	_	Form=Len|Mood=Ind|Number=Plur|Person=3|Tense=Past	19	acl:relcl	_	_
 22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 6
 # text = Alaxandair monarc mór céidEmpir Grég na nglanshlogh ger mhór a mhes sa roinert nír chian a ré ód mharcoigheacht.
 # text_standard = Alastar monarc mór céad Impire Gréagach na nglansluaite cé gur mhór a mheas is a ró-neart níor chian a ré ó do mharcaíocht.
-1	Alaxandair	Alas	VERB	_	Mood=Ind|Person=0|Tense=Pres	0	root	_	_
+1	Alaxandair	Alastar	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 2	monarc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
 3	mór	mór	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 4-5	céidEmpir	_	_	_	_	_	_	_	_
