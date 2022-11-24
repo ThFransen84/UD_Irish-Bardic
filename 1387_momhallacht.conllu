@@ -221,7 +221,7 @@
 16	dheireadh	deireadh	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	14	nsubj	_	_
 17	iar	iar	ADP	_	_	21	nmod	_	_
 18	gach	gach	DET	_	Definite=Def	19	det	_	_
-19	sódh	só	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	obj	_	_
+19	sódh	só	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	advmod	_	_
 20	a	a	PART	_	PartType=Inf	21	mark	_	_
 21	chur	cur	NOUN	_	Form=Len|VerbForm=Inf	14	xcomp	_	_
 22	faoi	faoi	ADP	_	_	24	case	_	_
