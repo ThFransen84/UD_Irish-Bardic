@@ -114,7 +114,7 @@
 19	fior	fíor	ADJ	_	Degree=Pos	17	ccomp	_	_
 20	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	21	mark:prt	_	_
 21	n-abrom	abair	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	19	csubj:cleft	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	1	punct	_	_
+22	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = 5
 # text = Riogha na nAssardha is mead tugais doib seal nar roibeag callacdha is pearsa nar lag fúairseat seal cait 'nar gabhsat .
