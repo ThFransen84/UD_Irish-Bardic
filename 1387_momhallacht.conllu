@@ -241,7 +241,7 @@
 5	seach	seach	NOUN	_	Number=Sing	8	obl	_	_
 6	dhíot	de	ADP	_	Number=Sing|Person=2	0	root	_	_
 7	as	is	AUX	_	Tense=Pres|VerbForm=Cop	8	cop	_	_
-8	beite	beite	ADJ	_	VerbForm=Part	6	acl:relcl	_	_
+8	beite	beite	ADJ	_	VerbForm=Part	6	csubj:cleft	_	_
 9	dhóibh	do	ADP	_	Number=Plur|Person=3	8	obl:prep	_	_
 10	buidheach	buíoch	ADJ	_	Degree=Pos	8	xcomp:pred	_	_
 11	ní	ní	PART	_	PartType=Vb|Polarity=Neg	12	advmod	_	_
