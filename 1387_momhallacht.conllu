@@ -238,7 +238,7 @@
 2	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	tshaogail	saol	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
 4	ima	faoi	ADP	_	_	5	case	_	_
-5	seach	seach	NOUN	_	Number=Sing	8	obl	_	_
+5	seach	seach	NOUN	_	Number=Sing	6	obl	_	_
 6	dhíot	de	ADP	_	Number=Sing|Person=2	0	root	_	_
 7	as	is	AUX	_	Tense=Pres|VerbForm=Cop	8	cop	_	_
 8	beite	beite	ADJ	_	VerbForm=Part	6	csubj:cleft	_	_
