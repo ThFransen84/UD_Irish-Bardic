@@ -251,7 +251,7 @@
 15-16	dot	_	_	_	_	_	_	_	_
 15	do	do	ADP	_	_	17	case	_	_
 16	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	17	nmod:poss	_	_
-17	mhaoin	maoin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	20	nmod	_	_
+17	mhaoin	maoin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	12	nmod	_	_
 18-19	sní	_	_	_	_	_	_	_	_
 18	is	agus	CCONJ	_	_	20	cc	_	_
 19	ní	ní	PART	_	PartType=Vb|Polarity=Neg	20	advmod	_	_
