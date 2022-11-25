@@ -259,7 +259,7 @@
 21	diobh	de	ADP	_	Number=Plur|Person=3	20	obl:prep	_	_
 22	do	de	ADP	_	_	23	case	_	_
 23	chomhmaoin	comaoin	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	12	punct	_	_
+24	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 10
 # text = Cóir a bhuidhe re Dia dil ar mbreith i n-aimsir creidimh is Crist dar leighes or ccoir sgan adhradh dhuit-si a shaoghail.
