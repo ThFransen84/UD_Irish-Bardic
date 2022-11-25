@@ -255,7 +255,7 @@
 18-19	sní	_	_	_	_	_	_	_	_
 18	is	agus	CCONJ	_	_	20	cc	_	_
 19	ní	ní	PART	_	PartType=Vb|Polarity=Neg	20	advmod	_	_
-20	bhena	bain	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	14	conj	_	_
+20	bhena	bain	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	conj	_	_
 21	diobh	de	ADP	_	Number=Plur|Person=3	20	obl:prep	_	_
 22	do	de	ADP	_	_	23	case	_	_
 23	chomhmaoin	comaoin	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
