@@ -241,11 +241,11 @@
 5	seach	seach	NOUN	_	Number=Sing	8	obl	_	_
 6	dhíot	de	ADP	_	Number=Sing|Person=2	0	root	_	_
 7	as	is	AUX	_	Tense=Pres|VerbForm=Cop	8	cop	_	_
-8	beite	beite	ADJ	_	VerbForm=Part	6	advcl:relcl	_	_
+8	beite	beite	ADJ	_	VerbForm=Part	6	acl:relcl	_	_
 9	dhóibh	do	ADP	_	Number=Plur|Person=3	8	obl:prep	_	_
 10	buidheach	buíoch	ADJ	_	Degree=Pos	12	advmod	_	_
 11	ní	ní	PART	_	PartType=Vb|Polarity=Neg	12	advmod	_	_
-12	thabhra	tabhair	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	csubj:cop	_	_
+12	thabhra	tabhair	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	parataxis	_	_
 13	ní	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	14	cop	_	_
 14	dhóibh	do	ADP	_	Number=Plur|Person=3	8	obl:prep	_	_
 15-16	dot	_	_	_	_	_	_	_	_
