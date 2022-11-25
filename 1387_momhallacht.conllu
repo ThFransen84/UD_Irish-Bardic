@@ -243,7 +243,7 @@
 7	as	is	AUX	_	Tense=Pres|VerbForm=Cop	8	cop	_	_
 8	beite	beite	ADJ	_	VerbForm=Part	6	acl:relcl	_	_
 9	dhóibh	do	ADP	_	Number=Plur|Person=3	8	obl:prep	_	_
-10	buidheach	buíoch	ADJ	_	Degree=Pos	12	xcomp:pred	_	_
+10	buidheach	buíoch	ADJ	_	Degree=Pos	8	xcomp:pred	_	_
 11	ní	ní	PART	_	PartType=Vb|Polarity=Neg	12	advmod	_	_
 12	thabhra	tabhair	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	parataxis	_	_
 13	ní	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	14	cop	_	_
