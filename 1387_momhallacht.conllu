@@ -266,7 +266,7 @@
 # text_standard = Cóir a bhuí le Dia dil ar mbreith in aimsir creidimh is Críost dár leigheas ónár gcoir is gan adhradh duitse a shaoil.
 1	Cóir	cóir	ADJ	_	Degree=Pos	0	root	_	_
 2	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	_
-3	bhuidhe	buí	NOUN	_	Case=Nom|Definite=Def|Form=Len|Number=Sing	1	csubj:cop	_	_
+3	bhuidhe	buí	NOUN	_	Case=Nom|Definite=Def|Form=Len|Number=Sing	1	nmod	_	_
 4	re	le	ADP	_	_	5	case	_	_
 5	Dia	Dia	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 6	dil	dil	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
