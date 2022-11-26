@@ -212,7 +212,7 @@
 7	ar	ar	ADP	_	_	8	case	_	_
 8	druim	droim	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 9	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
-10	rotha	roth	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	rotha	roth	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
 11	a	a	PART	_	PartType=Voc	12	case:voc	_	_
 12	shaoghail	saol	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	_
 13	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	14	cop	_	_
