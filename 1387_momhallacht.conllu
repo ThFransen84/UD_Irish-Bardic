@@ -287,7 +287,7 @@
 20	adhradh	adhradh	NOUN	_	Definite=Def|VerbForm=Inf	3	conj	_	_
 21	dhuit-si	do	ADP	_	Number=Sing|Person=2|PronType=Emp	20	obl:prep	_	_
 22	a	a	PART	_	PartType=Voc	23	case:voc	_	_
-23	shaoghail	saol	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	shaoghail	saol	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	20	vocative	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 11
