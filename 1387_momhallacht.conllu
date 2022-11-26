@@ -262,7 +262,7 @@
 24	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 10
-# text = Cóir a bhuidhe re Dia dil ar mbreith i n-aimsir creidimh is Crist dar leighes or ccoir sgan adhradh dhuit-si a shaoghail.
+# text = Cóir a bhuidhe re Dia dil ar mbreith i n-aimsir creidimh is Crist dar leighes or ccoir 'sgan adhradh dhuit-si a shaoghail.
 # text_standard = Cóir a bhuí le Dia dil ar mbreith in aimsir creidimh is Críost dár leigheas ónár gcoir is gan adhradh duitse a shaoil.
 1	Cóir	cóir	ADJ	_	Degree=Pos	0	root	_	_
 2	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	_
@@ -281,7 +281,7 @@
 15	leighes	leigheas	NOUN	_	VerbForm=Vnoun	3	nmod	_	_
 16	or	ó	ADP	_	Number=Plur|Person=1|Poss=Yes	17	case	_	_
 17	ccoir	coir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nmod	_	_
-18-19	sgan	_	_	_	_	_	_	_	_
+18-19	'sgan	_	_	_	_	_	_	_	_
 18	is	agus	CCONJ	_	_	20	cc	_	_
 19	gan	gan	ADP	_	_	20	case	_	_
 20	adhradh	adhradh	NOUN	_	Definite=Def|VerbForm=Inf	3	conj	_	_
@@ -295,7 +295,7 @@
 # text_standard = Atá thall beatha eile bheidh go suthain síoraí ar ár gcionn ag Rí na n-uile gan cead duitse a cealgaire.
 1	A-ta	bí	VERB	_	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	0	root	_	_
 2	thall	thall	ADV	_	_	1	advmod	_	_
-3	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	oile	eile	DET	_	PronType=Dem	3	det	_	_
 5	bhias	bí	VERB	_	Form=Len|Mood=Ind|Tense=Fut	1	parataxis	_	_
 6	go	go	PART	_	PartType=Ad	7	mark:prt	_	_
