@@ -273,7 +273,7 @@
 7	ar	ar	ADP	_	_	8	case	_	_
 8	mbreith	breith	NOUN	_	VerbForm=Vnoun	1	xcomp	_	_
 9	i	i	ADP	_	_	10	case	_	_
-10	n-aimsir	aimsir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	obl	_	_
+10	n-aimsir	aimsir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
 11	creidimh	creideamh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 12	is	is	AUX	_	Tense=Pres|VerbForm=Cop	13	cop	_	_
 13	Crist	Críost	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	_
