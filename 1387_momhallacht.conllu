@@ -286,7 +286,7 @@
 19	gan	gan	ADP	_	_	20	case	_	_
 20	adhradh	adhradh	NOUN	_	Definite=Def|VerbForm=Inf	3	conj	_	_
 21	dhuit-si	do	ADP	_	Number=Sing|Person=2|PronType=Emp	20	obl:prep	_	_
-22	a	a	DET	_	PartType=Voc	23	nmod:poss	_	_
+22	a	a	PART	_	PartType=Voc	23	case:voc	_	_
 23	shaoghail	saol	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	20	punct	_	_
 
