@@ -271,7 +271,7 @@
 5	Dia	Dia	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 6	dil	dil	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
 7	ar	ar	ADP	_	_	8	case	_	_
-8	mbreith	breith	NOUN	_	VerbForm=Vnoun	1	xcomp	_	_
+8	mbreith	breith	NOUN	_	VerbForm=Vnoun	3	nmod	_	_
 9	i	i	ADP	_	_	10	case	_	_
 10	n-aimsir	aimsir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
 11	creidimh	creideamh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
