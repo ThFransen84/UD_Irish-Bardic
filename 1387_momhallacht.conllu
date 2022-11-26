@@ -280,7 +280,7 @@
 14	dar	do	ADP	_	Number=Plur|Person=1|Poss=Yes	15	case	_	_
 15	leighes	leigheas	NOUN	_	VerbForm=Vnoun	13	nmod	_	_
 16	or	ó	ADP	_	Number=Plur|Person=1|Poss=Yes	17	case	_	_
-17	ccoir	coir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	nmod	_	_
+17	ccoir	coir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nmod	_	_
 18-19	sgan	_	_	_	_	_	_	_	_
 18	is	agus	CCONJ	_	_	20	cc	_	_
 19	gan	gan	ADP	_	_	20	case	_	_
