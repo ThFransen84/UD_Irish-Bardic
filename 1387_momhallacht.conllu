@@ -297,7 +297,7 @@
 2	thall	thall	ADV	_	_	1	advmod	_	_
 3	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	oile	eile	DET	_	PronType=Dem	3	det	_	_
-5	bhias	bí	VERB	_	Form=Len|Mood=Ind|Tense=Fut	1	acl:relcl	_	_
+5	bhias	bí	VERB	_	Form=Len|Mood=Ind|Tense=Fut	3	acl:relcl	_	_
 6	go	go	PART	_	PartType=Ad	7	mark:prt	_	_
 7	suthain	suthain	ADJ	_	Degree=Pos	5	advmod	_	_
 8	síorruidhe	síoraí	ADJ	_	Degree=Pos	7	amod	_	_
