@@ -4,7 +4,7 @@
 # text = Mo mhallacht ort a shaoghail mairg nach ttuig do robhaoghail 'sgo ccuire féin i ccéill dúin nach díol gradhaighthe t'fhortún.
 # text_standard = Mo mhallacht ort a shaoil mairg nach dtuigeann do ró-bhaoil ós go gcuireann tú féin i gcéill dúinn nach díol gráite d'fhortún.
 1	Mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
-2	mhallacht	mallacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	mhallacht	mallacht	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	0	root	_	_
 3	ort	ar	ADP	_	Number=Sing|Person=2	2	obl:prep	_	_
 4	a	a	PART	_	PartType=Voc	5	case:voc	_	_
 5	shaoghail	saol	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	_
