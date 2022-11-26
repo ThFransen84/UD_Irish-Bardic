@@ -100,7 +100,7 @@
 5	domhain	domhan	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
 6	ó	ó	SCONJ	_	_	7	mark	_	_
 7	ata	bí	VERB	_	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	1	parataxis	_	_
-8	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	nmod:poss	_	_
+8	a	a	DET	_	Gender=Masc|Number=Plur|Person=3|Poss=Yes	9	nmod:poss	_	_
 9	n-íul	iúl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 10	nar	i	ADP	_	Number=Plur|Person=1|Poss=Yes	11	case	_	_
 11	n-urchomhair	urchomhair	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	7	obl	_	_
