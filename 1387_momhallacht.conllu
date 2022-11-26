@@ -82,7 +82,7 @@
 13	tarla	tarlaigh	VERB	_	Form=Len|Mood=Ind|Tense=Past	1	acl:relcl	_	_
 14	ar	ar	ADP	_	_	16	case	_	_
 15	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
-16	mhuin	muin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obl	_	_
+16	mhuin	muin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	13	obl	_	_
 17	'sdo	agus	CCONJ	_	_	18	cc	_	_
 18	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
 19	síos	síos	ADV	_	_	18	advmod	_	_
