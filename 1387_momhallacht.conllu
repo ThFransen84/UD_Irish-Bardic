@@ -120,7 +120,7 @@
 # text = Riogha na nAssardha is mead tugais doib seal nar roibeag callacdha is pearsa nar lag fúairseat seal cait 'nar gabhsat .
 # text_standard = Ríthe na nAisiriach is Méideach thug tú dóibh seal nár ró-bheag Caildéigh is Peirsigh nár lag fuair siad seal cá háit inár ghabh siad.
 1	Riogha	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-2	na	na	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	na	na	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	nAssardha	Aisiriach	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|Number=Plur	1	nmod	_	_
 4	is	agus	CCONJ	_	_	5	ccomp	_	_
 5	mead	Méideach	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	1	cc	_	_
