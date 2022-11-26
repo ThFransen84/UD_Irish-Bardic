@@ -276,7 +276,7 @@
 10	n-aimsir	aimsir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
 11	creidimh	creideamh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 12	is	agus	CCONJ	_	_	13	cc	_	_
-13	Crist	Críost	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
+13	Crist	Críost	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	cc	_	_
 14	dar	de	ADP	_	Number=Plur|Person=1|Poss=Yes	15	case	_	_
 15	leighes	leigheas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nmod	_	_
 16	or	ó	ADP	_	Number=Plur|Person=1|Poss=Yes	17	case	_	_
