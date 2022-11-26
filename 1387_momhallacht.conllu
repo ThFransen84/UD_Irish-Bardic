@@ -312,7 +312,7 @@
 17	ced	cead	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
 18	duit-si	do	ADP	_	Number=Sing|Person=2|PronType=Emp	17	obl:prep	_	_
 19	a	a	PART	_	PartType=Voc	20	case:voc	_	_
-20	chealguire	cealgaire	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	vocative	_	SpaceAfter=No
+20	chealguire	cealgaire	NOUN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	18	vocative	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 12
