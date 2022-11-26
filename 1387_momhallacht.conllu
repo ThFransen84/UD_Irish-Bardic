@@ -355,7 +355,7 @@
 7	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	monairc-si	monaircí-s	PROPN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
 9	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	10	nmod:poss	_	_
-10	Thoirrdhealbhaidh	Thraolach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
+10	Thoirrdhealbhaidh	Traolach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 11	ni	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	12	cop	_	_
 12	meisde	miste	ADJ	_	Degree=Pos	4	xcomp:pred	_	_
 13	ag	ag	ADP	_	_	14	case	_	_
