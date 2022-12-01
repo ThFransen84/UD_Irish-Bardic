@@ -56,7 +56,7 @@
 16	muirn	muirn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	_
 17	fésda	féasta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	conj	_	_
 18	is	agus	CCONJ	_	_	19	cc	_	_
-19	fleadh	fleá	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	_
+19	fleadh	fleá	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	conj	_	_
 20	fechtar	féach	VERB	_	Mood=Ind|Person=0|Tense=Pres	0	root	_	_
 21	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	22	nmod:poss	_	_
 22	ccrioch	críoch	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	20	obj	_	_
