@@ -36,15 +36,15 @@
 # ga_cadhan-ud-test.conllu #17
 # dá ttugais ... dá = ADP?? ('to whom you gave ...')
 # see ga_idt-ud-test.conllu #244&439
-1	Giodh	cé	SCONJ	_	_	2	mark	_	_
-2	iomdha	iomaí	ADJ	_	Degree=Pos	20	advcl	_	_
-3	Rí	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+1	Giodh	cé	SCONJ	_	_	3	mark	_	_
+2	iomdha	iomaí	ADJ	_	Degree=Pos	3	nsubj	_	_
+3	Rí	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	advcl	_	_
 4-5	ara	_	_	_	_	_	_	_	_
-4	ar	ar	ADP	_	Form=Indirect|PronType=Rel	3	nsubj	_	_
-5	a	a	PRON	_	PronType=Rel	3	nmod	_	_
-6	raibh	bí	VERB	_	Mood=Ind|Tense=Past	5	acl:rel	_	_
+4	ar	ar	ADP	_	Form=Indirect|PronType=Rel	5	case	_	_
+5	a	a	PRON	_	PronType=Rel	6	xcomp	_	_
+6	raibh	bí	VERB	_	Mood=Ind|Tense=Past	3	acl:rel	_	_
 7	meas	meas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-8	fúair	faigh	VERB	_	Mood=Ind|Tense=Past	3	acl:relcl	_	_
+8	fúair	faigh	VERB	_	Mood=Ind|Tense=Past	6	parataxis	_	_
 9	uait	ó	ADP	_	Number=Sing|Person=2	8	obl:prep	_	_
 10	righe	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	_
 11	agus	agus	CCONJ	_	_	12	cc	_	_
@@ -52,9 +52,9 @@
 13-14	'sda	_	_	_	_	_	_	_	_
 13	is	agus	CCONJ	_	_	15	cc	_	_
 14	dá	do	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	15	obl	_	_
-15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	3	acl:relcl	_	_
+15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	6	conj	_	_
 16	muirn	muirn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	_
-17	fésda	féasta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	obj	_	_
+17	fésda	féasta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	conj	_	_
 18	is	agus	CCONJ	_	_	19	cc	_	_
 19	fleadh	fleá	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	_
 20	fechtar	féach	VERB	_	Mood=Ind|Person=0|Tense=Pres	0	root	_	_
