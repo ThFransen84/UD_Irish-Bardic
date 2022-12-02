@@ -112,7 +112,7 @@
 17	dearbhaid	dearbhaigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
 18	gor	is	AUX	_	Tense=Pres|VerbForm=Cop	19	cop	_	_
 19	fior	fíor	ADJ	_	Degree=Pos	17	ccomp	_	_
-20	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	21	mark:prt	_	_
+20	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	21	mark	_	_
 21	n-abrom	abair	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	19	csubj:cleft	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	17	punct	_	_
 
