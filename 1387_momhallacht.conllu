@@ -300,7 +300,7 @@
 5	bhias	bí	VERB	_	Form=Len|Mood=Ind|Tense=Fut	3	acl:relcl	_	_
 6	go	go	PART	_	PartType=Ad	7	mark:prt	_	_
 7	suthain	suthain	ADJ	_	Degree=Pos	5	advmod	_	_
-8	síorruidhe	síoraí	ADJ	_	Degree=Pos	7	amod	_	_
+8	síorruidhe	síoraí	ADJ	_	Degree=Pos	7	parataxis	_	_
 9	air	ar	ADP	_	_	11	case	_	_
 10	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	11	nmod:poss	_	_
 11	ccionn	ceann	NOUN	_	Case=Dat|Form=Ecl|Gender=Masc|Number=Sing	5	xcomp:pred	_	_
