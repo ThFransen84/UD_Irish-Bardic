@@ -373,10 +373,10 @@
 # text = Cradh liom do geimhliughadh daor sgan tadhall duit ar mhiothaom acht fíorfhuath mur ta re treall eachtrann ar uaislibh Eireann.
 # text_standard = Crá liom do geimhliú daor is gan tadhall duit ar mhíthaom ach fíorfhuath mar tá le treall eachtrannach ar uaisle Éireann.
 1	Cradh	crá	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	liom	le	ADP	_	_	4	case	_	_
+2	liom	le	ADP	_	_	1	obl:prep	_	_
 3	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	4	nmod:poss	_	_
-4	geimhliughadh	geimhliú	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
-5	daor	daor	ADJ	_	Degree=Pos	1	xcomp:pred	_	_
+4	geimhliughadh	geimhliú	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	daor	daor	ADJ	_	Degree=Pos	4	amod	_	_
 6-7	sgan	_	_	_	_	_	_	_	_
 6	is	agus	SCONJ	_	_	8	mark	_	_
 7	gan	gan	ADP	_	_	8	case	_	_
