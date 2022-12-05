@@ -354,7 +354,7 @@
 6	leabhraibh	leabhar	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	4	xcomp	_	_
 7	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	monairc-si	monarc	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	4	parataxis	_	_
-9	a	a	DET	_	_	10	case:voc	_	_
+9	a	a	PART	_	PartType=Voc	10	case:voc	_	_
 10	Thoirrdhealbhaidh	Traolach	PROPN	_	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 11	ni	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	12	cop	_	_
 12	meisde	miste	ADJ	_	Degree=Pos	4	xcomp:pred	_	_
