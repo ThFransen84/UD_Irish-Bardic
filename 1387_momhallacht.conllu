@@ -385,9 +385,9 @@
 10	ar	ar	ADP	_	_	11	case	_	_
 11	mhiothaom	míthaom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
 12	acht	ach	SCONJ	_	_	13	cc	_	_
-13	fíorfhuath	fíorfhuath	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
+13	fíorfhuath	fíorfhuath	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
 14	mur	mar	SCONJ	_	_	15	mark	_	_
-15	ta	bí	VERB	_	Mood=Ind|Tense=Pres	1	advcl	_	_
+15	ta	bí	VERB	_	Mood=Ind|Tense=Pres	8	advcl	_	_
 16	re	le	ADP	_	_	17	case	_	_
 17	treall	treall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
 18	eachtrann	eachtrannach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	_
