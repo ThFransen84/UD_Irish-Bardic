@@ -327,7 +327,7 @@
 7	úa	ua	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	_
 8	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	ttrí	trí	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
-10	nAodh	Aodh	PROPN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	7	nmod	_	_
+10	nAodh	Aodh	PROPN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|Number=Plur	7	nmod	_	_
 11	n-oirdhuirc	oirirc	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plur	10	nmod	_	_
 12	i	i	ADP	_	_	13	case	_	_
 13	ndoigh	dóigh	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	1	parataxis	_	_
