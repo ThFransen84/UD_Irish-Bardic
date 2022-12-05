@@ -324,7 +324,7 @@
 4	annso	anseo	ADV	_	_	3	advmod	_	_
 5	dhuit	do	ADP	_	Number=Sing|Person=2	3	obl:prep	_	_
 6	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod:poss	_	_
-7	úa	ua	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
+7	úa	ua	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	vocative	_	_
 8	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	ttrí	trí	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 10	nAodh	Aodh	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	7	nmod	_	_
