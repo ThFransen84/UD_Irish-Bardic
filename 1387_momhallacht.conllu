@@ -513,7 +513,7 @@
 3	gach	gach	DET	_	Definite=Def	4	det	_	_
 4	mairtír	mairtíreach	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|NounType=Weak|Number=Plur	2	nsubj	_	_
 5	da	de	ADP	_	PronType=Rel	6	case	_	_
-6	bhfuil	bí	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	2	acl:relcl	_	_
+6	bhfuil	bí	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	2	obl	_	_
 7	ó	ó	ADP	_	_	8	case	_	_
 8	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	obl	_	_
 9-10	sgo	_	_	_	_	_	_	_	_
