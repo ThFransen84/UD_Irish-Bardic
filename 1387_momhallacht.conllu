@@ -544,9 +544,9 @@
 4	croiche	croch	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 5	air	ar	ADP	_	_	7	case	_	_
 6	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	7	nmod:poss	_	_
-7	son	son	NOUN	_	Case=Nom|Number=Sing|PrepForm=Cmpd	1	nmod	_	_
+7	son	son	NOUN	_	Case=Nom|Number=Sing|PrepForm=Cmpd	1	obl	_	_
 8	do	do	PART	_	PartType=Vb	9	mark:prt	_	_
-9	íarr	iarr	VERB	_	Mood=Ind|Tense=Past	1	xcomp	_	_
+9	íarr	iarr	VERB	_	Mood=Ind|Tense=Past	1	parataxis	_	_
 10	oruinn	ar	ADP	_	Number=Plur|Person=1	9	obl:prep	_	_
 11	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	12	nmod:poss	_	_
 12	ccroch	croch	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	obj	_	_
