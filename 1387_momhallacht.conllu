@@ -617,9 +617,9 @@
 15	ngráin	gráin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nmod	_	_
 16	mithidh	mithid	ADJ	_	Degree=Pos	1	parataxis	_	_
 17	dhó	do	ADP	_	Gender=Masc|Number=Sing|Person=3	16	obl:prep	_	_
-18	port	port	NOUN	_	Foreign=Yes|Gender=Masc	16	csubj:cop	_	_
-19	do	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
-20	ghabháil	gabháil	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
+18	port	port	NOUN	_	Foreign=Yes|Gender=Masc	20	obj	_	_
+19	do	a	PART	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
+20	ghabháil	gabháil	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	16	csubj:cop	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 23
