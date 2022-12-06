@@ -491,18 +491,18 @@
 8	on	ó	ADP	_	Number=Sing|PronType=Art	9	case	_	_
 9	Athoir	athair	PROPN	_	Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
 10-11	sdo	_	_	_	_	_	_	_	_
-10	is	agus	CCONJ	_	_	9	cc	_	_
+10	is	agus	CCONJ	_	_	12	cc	_	_
 11	do	do	PART	_	PartType=Vb	12	mark:prt	_	_
-12	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	1	cc	_	_
+12	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	1	conj	_	_
 13	fuil	bí	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres	12	obj	_	_
 14	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	15	nmod:poss	_	_
 15	chuirp	corp	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	13	nsubj	_	_
 16	uile	uile	DET	_	PronType=Ind	15	det	_	_
 17	air	ar	ADP	_	_	19	case	_	_
 18	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	19	nmod:poss	_	_
-19	ngradh	grá	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	13	obl	_	_
+19	ngradh	grá	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	12	obl	_	_
 20	tre	trí	ADP	_	_	21	case	_	_
-21	thrócuire	trócaire	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+21	thrócuire	trócaire	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 19
