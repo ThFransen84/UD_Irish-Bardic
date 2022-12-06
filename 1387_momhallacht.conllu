@@ -494,9 +494,9 @@
 10	is	agus	CCONJ	_	_	12	cc	_	_
 11	do	do	PART	_	PartType=Vb	12	mark:prt	_	_
 12	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	1	conj	_	_
-13	fuil	bí	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres	12	obj	_	_
+13	fuil	fuil	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obj	_	_
 14	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	15	nmod:poss	_	_
-15	chuirp	corp	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	13	nsubj	_	_
+15	chuirp	corp	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	13	nmod	_	_
 16	uile	uile	DET	_	PronType=Ind	15	det	_	_
 17	air	ar	ADP	_	_	19	case	_	_
 18	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	19	nmod:poss	_	_
