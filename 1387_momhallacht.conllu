@@ -521,7 +521,7 @@
 10	go	go	ADP	_	_	11	case	_	_
 11	deiredh	deireadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
 12	dhomhuin	domhan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
-13	do	do	PART	_	_	14	mark:prt	_	_
+13	do	do	PART	_	PartType=Vb	14	mark:prt	_	_
 14	budh	is	AUX	_	PronType=Rel|Tense=Past|VerbForm=Cop	15	cop	_	_
 15	mo	mór	ADJ	_	Degree=Cmp,Sup	0	root	_	_
 16	sgél	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
