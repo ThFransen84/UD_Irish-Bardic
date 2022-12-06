@@ -508,7 +508,7 @@
 # sent_id = 19
 # text = Ar dhoírt gach mairtír da bhfuil ó thús sgo deiredh dhomhuin do budh mo sgél braon don fhuil do dhoirt Iosa trear cciontaibh.
 # text_standard = Ar dhoirt gach mairtíreach dá bhfuil ó thús is go deireadh dhomhain do ba mó scéal braon den fhuil a dhoirt Íosa trínár gcionta.
-1	Ar	ar	PART	_	PartType=Vb|Tense=Past	2	mark:prt	_	_
+1	Ar	ar	PRON	_	PronType=Rel	2	mark:prt	_	_
 2	dhoírt	doirt	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 3	gach	gach	DET	_	Definite=Def	4	det	_	_
 4	mairtír	mairtíreach	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|NounType=Weak|Number=Plur	2	nsubj	_	_
@@ -523,9 +523,9 @@
 12	dhomhuin	domhan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
 13	do	do	ADP	_	_	17	case	_	_
 14	budh	is	AUX	_	PronType=Rel|Tense=Past|VerbForm=Cop	15	cop	_	_
-15	mo	mór	ADJ	_	Degree=Cmp,Sup	17	amod	_	_
-16	sgél	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
-17	braon	braon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
+15	mo	mór	ADJ	_	Degree=Cmp,Sup	0	root	_	_
+16	sgél	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	root	_	_
+17	braon	braon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	obl	_	_
 18	don	de	ADP	_	Number=Sing|PronType=Art	19	case	_	_
 19	fhuil	fuil	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	17	nmod	_	_
 20	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	21	obj	_	_
