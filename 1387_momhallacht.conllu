@@ -474,7 +474,7 @@
 15	choir	coir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obl	_	_
 16	buaine	buaine	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	parataxis	_	_
 17	dhuit	do	ADP	_	Number=Sing|Person=2	16	obl:prep	_	_
-18	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	16	nsubj	_	_
 19	shuthoin	suthain	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 
