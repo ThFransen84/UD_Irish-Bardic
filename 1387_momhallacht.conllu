@@ -578,9 +578,9 @@
 5	cuirthe	curtha	ADJ	_	VerbForm=Part	1	parataxis	_	_
 6	a	a	ADP	_	_	7	case	_	_
 7	suim	suim	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
-8	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	nmod:poss	_	_
-9	mheic	mac	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	5	nmod	_	_
-10	Cathbharr	Cafarr	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	_
+8	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	case:voc	_	_
+9	mheic	mac	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	5	vocative	_	_
+10	Cathbharr	Cafarr	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
 11	Í	uí	PART	_	PartType=Pat	10	flat:name	_	_
 12	Dhomhnuill	Dhomhnaill	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	flat:name	_	_
 13	ní	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	15	cop	_	_
