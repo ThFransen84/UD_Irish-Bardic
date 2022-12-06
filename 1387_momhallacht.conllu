@@ -604,7 +604,7 @@
 2	saoghal	saol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
 3	fada	fada	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 4	glan	glan	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
-5	bárr	barr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obl	_	_
+5	bárr	barr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
 6	ar	ar	ADP	_	_	5	case	_	_
 7	sheachtmhoghad	seachtó	NUM	_	Form=Len|NumType=Card	5	nmod	_	_
 8	bliaghan	bliain	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	13	nsubj	_	_
