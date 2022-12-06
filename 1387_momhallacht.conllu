@@ -586,10 +586,10 @@
 13	ní	ní	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
 14	ó	ó	ADP	_	_	15	case	_	_
 15	Dhia	Dia	PROPN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	1	obl	_	_
-16	et	et	PROPN	_	Definite=Def	19	flat:name	_	_
+16	et	et	CCONJ	_	_	19	cc	_	_
 17	re	le	ADP	_	_	19	case	_	_
 18	fa	faoi	ADP	_	_	19	case	_	_
-19	rath	rath	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	cc	_	_
+19	rath	rath	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	_
 20	ni	ní	PART	_	PartType=Vb|Polarity=Neg	21	advmod	_	_
 21	dlighe	dligh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	parataxis	_	_
 22	bheith	bheith	NOUN	_	Form=Len|VerbForm=Inf	21	xcomp	_	_
