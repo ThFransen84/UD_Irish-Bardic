@@ -687,18 +687,18 @@
 7	Dálaigh	dálach	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
 8	do	de	ADP	_	PrepForm=Cmpd	10	case	_	_
 9	reír	réir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|PrepForm=Cmpd	8	fixed	_	_
-10	iúil	iúl	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+10	iúil	iúl	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	parataxis	_	_
 11	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	annalaigh	annálach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	_
-13	tug	tabhair	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-14	oiread	oiread	NOUN	_	Case=Nom|Number=Sing	15	obj	_	_
-15	cobhartha	cabhartha	ADJ	_	VerbForm=Part	13	xcomp:pred	_	_
-16	libh	le	ADP	_	Number=Plur|Person=2	15	obl:prep	_	_
+12	annalaigh	annálach	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	_
+13	tug	tabhair	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+14	oiread	oiread	NOUN	_	Case=Nom|Number=Sing	13	obj	_	_
+15	cobhartha	cabhartha	ADJ	_	VerbForm=Part	14	nmod	_	_
+16	libh	le	ADP	_	Number=Plur|Person=2	13	obl:prep	_	_
 17	i	i	ADP	_	_	18	case	_	_
-18	n-am	am	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obl	_	_
+18	n-am	am	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	obl:tmod	_	_
 19	cogaidh	cogadh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
 20	da	do	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	21	case	_	_
-21	dhaoinibh	duine	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	dhaoinibh	duine	NOUN	_	Case=Dat|Form=Len|Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = 26
