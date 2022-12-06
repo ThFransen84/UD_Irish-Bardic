@@ -486,14 +486,14 @@
 3	trenar	trí	ADP	_	Number=Plur|Person=1|Poss=Yes	4	case	_	_
 4	ccoir	cóir	NOUN	_	Case=Nom|Form=Ecl|Number=Sing|PrepForm=Cmpd	1	obl	_	_
 5	do	de	ADP	_	_	6	case	_	_
-6	nimh	nimh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nmod	_	_
+6	nimh	nimh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	advmod	_	_
 7	a-nuas	anuas	ADV	_	_	1	advmod	_	_
 8	on	ó	ADP	_	Number=Sing|PronType=Art	9	case	_	_
 9	Athoir	athair	PROPN	_	Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
 10-11	sdo	_	_	_	_	_	_	_	_
 10	is	agus	CCONJ	_	_	9	cc	_	_
 11	do	do	PART	_	PartType=Vb	12	mark:prt	_	_
-12	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	1	acl:relcl	_	_
+12	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	1	cc	_	_
 13	fuil	bí	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres	12	obj	_	_
 14	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	15	nmod:poss	_	_
 15	chuirp	corp	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	13	nsubj	_	_
