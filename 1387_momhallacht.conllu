@@ -634,16 +634,16 @@
 7	beatha	beatha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	_
 8	ionmholta	inmholta	ADJ	_	VerbForm=Part	7	amod	_	_
 9	iar	iar	ADP	_	_	10	case	_	_
-10	bplanntughadh	plandú	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obl	_	_
+10	bplanntughadh	plandú	NOUN	_	VerbForm=Inf	6	obl	_	_
 11-12	it	_	_	_	_	_	_	_	_
 11	i	i	ADP	_	_	13	case	_	_
 12	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
-13	thír	tír	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	10	nmod	_	_
+13	thír	tír	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	10	obl	_	_
 14	thall	thall	ADV	_	_	10	advmod	_	_
 15	d'	do	ADP	_	_	16	case	_	SpaceAfter=No
-16	ainbhfine	an-fhine	PROPN	_	Definite=Def|Gender=Fem|Number=Sing	6	obl	_	_
+16	ainbhfine	an-fhine	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	obl	_	_
 17	aintréin	aintréan	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
-18	eachtrann	eachtrannach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+18	eachtrann	eachtrannach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 24
