@@ -656,12 +656,12 @@
 5	éis	éis	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	nmod	_	_
 6	sin	sin	PRON	_	PronType=Dem	5	det	_	_
 7	gach	gach	DET	_	Definite=Def	8	det	_	_
-8	ar	ar	PRON	_	PronType=Rel	15	obj	_	_
+8	ar	ar	PRON	_	PronType=Rel	15	dislocated	_	_
 9	lean	lean	VERB	_	Mood=Ind|Tense=Past	13	acl:relcl	_	_
 10	sibh	sibh	PRON	_	Number=Plur|Person=2	9	obj	_	_
 11-12	dot	_	_	_	_	_	_	_	_
 11	de	de	ADP	_	_	13	case	_	_
-12	do	do	ADP	_	_	13	case	_	_
+12	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
 13	dhaoinibh	duine	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Plur	8	nmod	_	_
 14	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	15	mark:prt	_	_
 15	shaorais	saor	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
@@ -672,7 +672,7 @@
 20	bhás	bás	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	15	obl	_	_
 21	fuachta	fuacht	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
 22	is	agus	CCONJ	_	_	23	cc	_	_
-23	fiornochta	fíornochtacht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
+23	fiornochta	fíornochtacht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = 25
