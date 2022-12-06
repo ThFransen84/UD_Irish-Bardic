@@ -628,8 +628,8 @@
 1	Re	le	ADP	_	PrepForm=Cmpd	3	case	_	_
 2	linn	linn	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PrepForm=Cmpd	1	fixed	_	_
 3	síothchána	síocháin	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
-4	is	is	AUX	_	Tense=Pres|VerbForm=Cop	5	cop	_	_
-5	socra	socair	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	3	amod	_	_
+4	is	agus	CCONJ	_	_	5	cc	_	_
+5	socra	socair	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
 6	fuairais	faigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
 7	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
 8	ionmholta	inmholta	ADJ	_	VerbForm=Part	10	xcomp:pred	_	_
