@@ -631,8 +631,8 @@
 4	is	agus	CCONJ	_	_	5	cc	_	_
 5	socra	socracht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
 6	fuairais	faigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
-7	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
-8	ionmholta	inmholta	ADJ	_	VerbForm=Part	10	xcomp:pred	_	_
+7	beatha	beatha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	_
+8	ionmholta	inmholta	ADJ	_	VerbForm=Part	7	amod	_	_
 9	iar	iar	ADP	_	_	10	case	_	_
 10	bplanntughadh	plandú	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obl	_	_
 11-12	it	_	_	_	_	_	_	_	_
