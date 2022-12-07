@@ -604,7 +604,7 @@
 2	saoghal	saol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
 3	fada	fada	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 4	glan	glan	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
-5	bárr	barr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nmod	_	_
+5	bárr	barr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	case	_	_
 6	ar	ar	ADP	_	_	5	fixed	_	_
 7	sheachtmhoghad	seachtó	NUM	_	Form=Len|NumType=Card	8	nummod	_	_
 8	bliaghan	bliain	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	parataxis	_	_
@@ -612,7 +612,7 @@
 10	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	anma	anam	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
 12	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
-13	corp	corp	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	16	dislocated	_	_
+13	corp	corp	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	_
 14	go	go	ADP	_	_	15	case	_	_
 15	ngráin	gráin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nmod	_	_
 16	mithidh	mithid	ADJ	_	Degree=Pos	1	parataxis	_	_
