@@ -803,7 +803,7 @@
 13	doirbhe	doirbh	ADJ	_	Case=Nom|Gender=Fem|NounType=NotSlender|Number=Plur	12	amod	_	_
 14	dég	déag	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	_
 15	nar	nár	PART	_	PartType=Cmpl|Polarity=Neg|Tense=Past	16	mark:prt	_	_
-16	léigis	lig	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	10	acl:relcl	_	_
+16	léigis	lig	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	12	acl:relcl	_	_
 17	faill	faill	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	_
 18	na	i	ADP	_	Number=Plur|Person=3|Poss=Yes	19	case	_	_
 19	ccoimhéd	coimhéad	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
