@@ -773,10 +773,10 @@
 13	do	do	PART	_	PartType=Vb	14	mark:prt	_	_
 14	lean	lean	VERB	_	Mood=Ind|Tense=Past	1	conj	_	_
 15	diobh	de	ADP	_	Number=Plur|Person=3	14	obl:prep	_	_
-16	ós	ós	SCONJ	_	VerbForm=Cop	17	mark	_	_
-17	sgel	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
-18	fíre	fíor	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
-19	dream	dream	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	_
+16	ós	ós	SCONJ	_	VerbForm=Cop	18	mark	_	_
+17	sgel	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	fíre	fíor	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	parataxis	_	_
+19	dream	dream	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 20	do	do	ADP	_	_	21	case	_	_
 21	lucht	lucht	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nmod	_	_
 22	gach	gach	DET	_	Definite=Def	24	det	_	_
