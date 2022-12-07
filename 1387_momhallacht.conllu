@@ -731,28 +731,28 @@
 1	Níor	níor	PART	_	PartType=Vb|Polarity=Neg|Tense=Past	2	advmod	_	_
 2	taistilsed	taistil	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 3	tír	tír	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	obj	_	_
-4	dhíobh	de	ADP	_	Number=Plur|Person=3	2	obl:prep	_	_
+4	dhíobh	de	ADP	_	Number=Plur|Person=3	3	obl:prep	_	_
 5	so	seo	PRON	_	PronType=Dem	4	det	_	_
 6	i	i	ADP	_	PrepForm=Cmpd	7	case	_	_
-7	leith	leath	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|PrepForm=Cmpd	2	obl	_	_
+7	leith	leath	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|PrepForm=Cmpd	2	parataxis	_	_
 8	Cuinn	Cuinn	PROPN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 9	no	nó	CCONJ	_	_	11	cc	_	_
 10	i	i	ADP	_	PrepForm=Cmpd	11	case	_	_
-11	leith	leath	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|PrepForm=Cmpd	8	fixed	_	_
-12	Mogho	mogh	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	conj	_	_
+11	leith	leath	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|PrepForm=Cmpd	8	conj	_	_
+12	Mogho	mogh	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	_
 13	nach	nach	PART	_	PartType=Cmpl|Polarity=Neg	14	mark:prt	_	_
 14	biodh	bí	VERB	_	Mood=Imp|Number=Sing|Person=3	2	ccomp	_	_
-15	tnuth	tnúth	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obj	_	_
+15	tnuth	tnúth	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 16	in	i	ADP	_	_	18	case	_	_
 17	gach	gach	DET	_	Definite=Def|Form=Ecl	18	det	_	_
 18	baile	baile	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	_
 19	riu	le	ADP	_	Number=Plur|Person=3	14	obl:prep	_	_
 20-21	sgan	_	_	_	_	_	_	_	_
-20	is	is	AUX	_	Tense=Pres|VerbForm=Cop	21	cop	_	_
-21	gan	gan	ADP	_	_	14	case	_	_
-22	iad	iad	PRON	_	Number=Plur|Person=3	21	nsubj	_	_
+20	is	agus	CCONJ	_	_	22	cc	_	_
+21	gan	gan	ADP	_	_	22	case	_	_
+22	iad	iad	PRON	_	Number=Plur|Person=3	14	conj	_	_
 23	na	i	ADP	_	Number=Plur|Person=3|Poss=Yes	24	case	_	_
-24	ccomhnaidhe	cónaí	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	21	xcomp:pred	_	SpaceAfter=No
+24	ccomhnaidhe	cónaí	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	22	xcomp:pred	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 28
