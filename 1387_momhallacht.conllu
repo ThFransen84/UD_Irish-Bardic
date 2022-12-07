@@ -669,10 +669,10 @@
 17	ar	ar	ADP	_	_	18	case	_	_
 18	ghorta	gorta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obl	_	_
 19	ar	ar	ADP	_	_	20	case	_	_
-20	bhás	bás	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	15	obl	_	_
+20	bhás	bás	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	18	conj	_	_
 21	fuachta	fuacht	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
 22	is	agus	CCONJ	_	_	23	cc	_	_
-23	fiornochta	fíornochtacht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+23	fiornochta	fíornochtacht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = 25
