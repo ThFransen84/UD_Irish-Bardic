@@ -770,7 +770,7 @@
 10	d'	de	ADP	_	_	11	case	_	SpaceAfter=No
 11	onóir	onóir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
 12	s	agus	SCONJ	_	_	14	cc	_	_
-13	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	14	mark:prt	_	_
+13	do	do	PART	_	PartType=Vb	14	mark:prt	_	_
 14	lean	lean	VERB	_	Mood=Ind|Tense=Past	1	conj	_	_
 15	diobh	de	ADP	_	Number=Plur|Person=3	14	obl:prep	_	_
 16	ós	ós	SCONJ	_	VerbForm=Cop	17	mark	_	_
