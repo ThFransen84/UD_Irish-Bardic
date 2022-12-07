@@ -813,24 +813,24 @@
 # text = Gidh mór diobh do bhi beó bocht ag teacht chugaibh da bhfurtocht s da ttugais maoin tar an ccóir a admhail a-niú as edóigh.
 # text_standard = Cé mór díobh a bhí beo bocht ag teacht chugaibh dá bhfortacht is dá dtug tú maoin thar an gcóir a admháil inniu is éadóigh.
 1	Gidh	cé	SCONJ	_	_	2	mark	_	_
-2	mór	mór	ADJ	_	Degree=Pos	15	advcl	_	_
+2	mór	mór	ADJ	_	Degree=Pos	24	advcl	_	_
 3	diobh	de	ADP	_	Number=Plur|Person=3	2	obl:prep	_	_
 4	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	5	mark:prt	_	_
 5	bhi	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	acl:relcl	_	_
 6	beó	beo	ADJ	_	Degree=Pos	5	xcomp:pred	_	_
-7	bocht	bocht	ADJ	_	Degree=Pos	6	amod	_	_
+7	bocht	bocht	ADJ	_	Degree=Pos	6	parataxis	_	_
 8	ag	ag	ADP	_	_	9	case	_	_
 9	teacht	teacht	NOUN	_	VerbForm=Vnoun	5	xcomp	_	_
-10	chugaibh	chuig	ADP	_	Number=Plur|Person=2	12	case	_	_
-11	da	dó	NUM	_	NumType=Card	12	nummod	_	_
+10	chugaibh	chuig	ADP	_	Number=Plur|Person=2	9	obl:prep	_	_
+11	da	do	ADP	_	Number=Plur|Person=3|Poss=Yes	12	nmod:poss	_	_
 12	bhfurtocht	fortacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	obl	_	_
-13	s	agus	CCONJ	_	_	12	cc	_	_
-14	da	dá	SCONJ	_	_	15	mark	_	_
-15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
+13	s	agus	CCONJ	_	_	15	cc	_	_
+14	da	do	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	15	obl	_	_
+15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	2	conj	_	_
 16	maoin	maoin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	_
 17	tar	thar	ADP	_	_	19	case	_	_
 18	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
-19	ccóir	cóir	NOUN	_	Case=Nom|Form=Ecl|Number=Sing|PrepForm=Cmpd	15	obl	_	_
+19	ccóir	cóir	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	15	obl	_	_
 20	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	21	nmod:poss	_	_
 21	admhail	admháil	NOUN	_	VerbForm=Inf	24	nsubj	_	_
 22	a-niú	inniu	ADV	_	_	24	advmod	_	_
