@@ -797,7 +797,7 @@
 7	ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	fixed	_	_
 8	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	chogaidh	cogadh	NOUN	_	Case=Gen|Form=Len|Gender=Masc|Number=Sing	2	nmod	_	_
-10	chatharmaigh	armach	ADJ	_	Form=Len|Mood=Ind|Tense=Past	9	amod	_	_
+10	chatharmaigh	armach	ADJ	_	Degree=Pos	9	amod	_	_
 11	ceithre	ceathair	NUM	_	NumType=Card	12	nummod	_	_
 12	bliaghna	bliain	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
 13	doirbhe	doirbh	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	12	amod	_	_
