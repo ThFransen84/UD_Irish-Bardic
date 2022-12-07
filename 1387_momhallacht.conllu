@@ -720,9 +720,9 @@
 14	gach	gach	DET	_	Definite=Def	15	det	_	_
 15	feadhain	feadhain	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nmod	_	_
 16	do	de	ADP	_	_	17	case	_	_
-17	Ghallaibh	Gall	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	15	nmod	_	_
+17	Ghallaibh	Gall	PROPN	_	Case=Dat|Form=Len|Gender=Masc|Number=Plur	15	nmod	_	_
 18	do	de	ADP	_	_	19	case	_	_
-19	Gháoidhealaibh	Gael	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	17	cc	_	SpaceAfter=No
+19	Gháoidhealaibh	Gael	PROPN	_	Case=Dat|Form=Len|Gender=Masc|Number=Plur	17	cc	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 27
