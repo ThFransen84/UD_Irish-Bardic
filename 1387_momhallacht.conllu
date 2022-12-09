@@ -852,7 +852,7 @@
 9	ar	ar	ADP	_	_	11	case	_	_
 10	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
 11	mhuintir	muintir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	8	nmod	_	_
-12	agus	agus	SCONJ	_	_	13	mark	_	_
+12	agus	agus	SCONJ	_	_	13	cc	_	_
 13	iad	iad	PRON	_	Number=Plur|Person=3	1	conj	_	_
 14	uile	uile	DET	_	PronType=Ind	13	det	_	_
 15	ar	ar	ADP	_	_	16	case	_	_
