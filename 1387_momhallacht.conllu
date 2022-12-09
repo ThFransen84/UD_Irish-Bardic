@@ -952,10 +952,10 @@
 # text = Treig do dhiomus na lean de mithidh dhuit i n-eirr th' áoise saoghal na meang do thuigsin s nach tú a-mháin do rothuirrsigh.
 # text_standard = Tréig do dhíomas ná lean de mithid duit in earr d' aoise saol na meang a thuiscint is nach tú amháin a róthuirsigh.
 1	Treig	tréig	VERB	_	Mood=Imp	0	root	_	_
-2	do	de	DET	_	Number=Sing|Person=2	3	nmod:poss	_	_
-3	dhiomus	díomas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obl	_	_
+2	do	de	DET	_	Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	_
+3	dhiomus	díomas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
 4	na	nach	PART	_	PartType=Cmpl|Polarity=Neg	5	mark:prt	_	_
-5	lean	lean	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past	1	ccomp	_	_
+5	lean	lean	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past	1	parataxis	_	_
 6	de	de	PART	_	PartType=Pat	7	mark:prt	_	_
 7	mithidh	mithid	ADJ	_	Degree=Pos	5	amod	_	_
 8	dhuit	do	ADP	_	Number=Sing|Person=2	5	obl:prep	_	_
