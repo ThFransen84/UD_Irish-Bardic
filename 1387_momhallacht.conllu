@@ -924,7 +924,7 @@
 19	leat	le	ADP	_	Number=Sing|Person=2	18	obl:prep	_	_
 20	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	21	nmod:poss	_	_
 21	hiomláine	iomláine	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	18	nsubj	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	1	punct	_	_
+22	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 34
 # text = Bíodh nar dhiongmhála lat-sa ar ttecht go háois ársachta beatha mesardha denas dob fheárr í na braighdenas.
