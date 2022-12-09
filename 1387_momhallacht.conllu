@@ -879,7 +879,7 @@
 4	iar	iar	ADP	_	_	6	case	_	_
 5	gach	gach	DET	_	Definite=Def	6	det	_	_
 6	seal	seal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obl:tmod	_	_
-7	iad	iad	PRON	_	Number=Plur|Person=3	1	nsubj	_	_
+7	iad	iad	PRON	_	Number=Plur|Person=3	1	obj	_	_
 8	uile	uile	DET	_	PronType=Ind	7	det	_	_
 9	ag	ag	ADP	_	_	10	case	_	_
 10	dol	dul	NOUN	_	VerbForm=Vnoun	1	xcomp	_	_
@@ -888,8 +888,8 @@
 13	gor	gur	PART	_	PartType=Vb|Tense=Past	14	mark:prt	_	_
 14	sgaoilset	scaoil	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	ccomp	_	_
 15	siar	siar	ADV	_	_	14	advmod	_	_
-16	agus	agus	CCONJ	_	_	19	cc	_	_
-17	soir	soir	ADV	_	_	19	advmod	_	_
+16	agus	agus	CCONJ	_	_	15	cc	_	_
+17	soir	soir	ADV	_	_	15	advmod	_	_
 18	ag	ag	ADP	_	_	19	case	_	_
 19	port	port	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	_
 20	Eirne	Éirne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	nmod	_	_
