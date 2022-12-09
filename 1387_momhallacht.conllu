@@ -914,16 +914,16 @@
 9	de	de	ADP	_	_	11	case	_	_
 10	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
 11	mhuintir	muintir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	8	nmod	_	_
-12	fuairais	faigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	1	acl:relcl	_	_
+12	fuairais	faigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
 13	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
 14	gan	gan	ADP	_	_	15	case	_	_
 15	náire	náire	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obl	_	_
 16	s	agus	CCONJ	_	_	18	cc	_	_
 17	nír	is	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Cop	18	cop	_	_
-18	mhíadh	miadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+18	mhíadh	miadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
 19	leat	le	ADP	_	Number=Sing|Person=2	18	obl:prep	_	_
 20	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	21	nmod:poss	_	_
-21	hiomláine	iomláine	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	hiomláine	iomláine	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	18	nsubj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 34
