@@ -942,8 +942,8 @@
 11	mesardha	measartha	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
 12	denas	dean	VERB	_	Mood=Ind|PronType=Rel|Tense=Pres	1	advcl	_	_
 13	dob	is	PART	_	Form=VF|PartType=Sup|Tense=Past|VerbForm=Cop	14	mark:prt	_	_
-14	fheárr	maith	ADJ	_	Degree=Cmp,Sup|Form=Len	12	amod	_	_
-15	í	í	PRON	_	Gender=Fem|Number=Sing|Person=3	12	nsubj	_	_
+14	fheárr	maith	ADJ	_	Degree=Cmp,Sup|Form=Len	0	root	_	_
+15	í	í	PRON	_	Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
 16	na	na	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	braighdenas	braighdeanas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	1	punct	_	_
