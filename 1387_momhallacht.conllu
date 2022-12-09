@@ -902,7 +902,7 @@
 # sent_id = 33
 # text = Ré bheg mbliaghan gé a-ta sibh ar fhírbhegán dot mhuintir fuairais beatha gan náire s nír mhíadh leat a hiomláine.
 # text_standard = Ré bheag mblianta cé atá sibh ar fhíorbheagán de do mhuintir fuair tú beatha gan náire is níor mhiadh leat a hiomláine.
-1	Ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+1	Ré	ré	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	advmod	_	_
 2	bheg	beag	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	1	amod	_	_
 3	mbliaghan	bliain	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Fem|NounType=Strong|Number=Plur	1	nmod	_	_
 4	gé	cé	SCONJ	_	_	5	mark	_	_
@@ -915,7 +915,7 @@
 10	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
 11	mhuintir	muintir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	8	nmod	_	_
 12	fuairais	faigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
-13	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+13	beatha	beatha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nmod	_	_
 14	gan	gan	ADP	_	_	15	case	_	_
 15	náire	náire	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obl	_	_
 16	s	agus	CCONJ	_	_	18	cc	_	_
