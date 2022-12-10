@@ -1051,7 +1051,7 @@
 10	Chriost	Críost	PROPN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	9	nmod	_	_
 11	i	i	ADP	_	_	12	case	_	_
 12	n-aisgidh	aisce	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
-13	tuill	tuill	VERB	_	Mood=Imp	1	parataxis	_	_
+13	tuill	tuill	VERB	_	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
 14	re	le	ADP	_	_	15	case	_	_
 15	haithrighe	aithrí	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	13	obl	_	_
 16	ghéir	géar	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	15	amod	_	_
