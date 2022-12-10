@@ -1040,27 +1040,27 @@
 # text = Guidhim Día riot a rún dil na léig fuil Chriost i n-aisgidh tuill re haithrighe ghéir ghloin do dhol isin síth shuthoin.
 # text_standard = Guím Dia leat a rún dil ná lig fuil Chríost in aisce tuill le haithrí ghéar ghlan do dhul sa tsíth shuthain.
 1	Guidhim	guigh	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-2	Día	Dia	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	Día	Dia	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 3	riot	le	ADP	_	Number=Sing|Person=2	1	obl:prep	_	_
 4	a	a	PART	_	PartType=Voc	5	case:voc	_	_
-5	rún	rún	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
-6	dil	dil	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	_
-7	na	ná	CCONJ	_	_	8	cc	_	_
+5	rún	rún	NOUN	_	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	1	vocative	_	_
+6	dil	dil	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	amod	_	_
+7	na	ná	PART	_	Mood=Imp|PartType=Vb|Polarity=Neg	8	advmod	_	_
 8	léig	lig	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	1	conj	_	_
-9	fuil	bí	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres	8	acl:relcl	_	_
-10	Chriost	Críost	PROPN	_	Definite=Def|Form=Len|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	fuil	fuil	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
+10	Chriost	Críost	PROPN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	9	nmod	_	_
 11	i	i	ADP	_	_	12	case	_	_
-12	n-aisgidh	aisce	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nmod	_	_
-13	tuill	tuill	VERB	_	Mood=Imp	9	xcomp	_	_
+12	n-aisgidh	aisce	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
+13	tuill	tuill	VERB	_	Mood=Imp	1	parataxis	_	_
 14	re	le	ADP	_	_	15	case	_	_
 15	haithrighe	aithrí	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	13	obl	_	_
 16	ghéir	géar	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	15	amod	_	_
 17	ghloin	glan	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	15	amod	_	_
-18	do	do	PART	_	PartType=Inf	19	mark	_	_
+18	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	19	nmod:poss	_	_
 19	dhol	dul	NOUN	_	Form=Len|VerbForm=Inf	13	xcomp	_	_
 20	isin	i	ADP	_	Number=Sing|PronType=Art	21	case	_	_
 21	síth	síth	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obl	_	_
-22	shuthoin	suthain	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	21	amod	_	SpaceAfter=No
+22	shuthoin	suthain	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 39
