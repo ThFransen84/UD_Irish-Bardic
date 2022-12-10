@@ -986,9 +986,9 @@
 5	ghréin	grian	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	1	nmod	_	_
 6	ghloin	glan	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	5	amod	_	_
 7	do	de	ADP	_	_	8	case	_	_
-8	neoch	neach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
-9	dar	dar	VERB	_	Mood=Ind|Tense=Pres	1	parataxis	_	_
-10	ghein	gin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+8	neoch	neach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
+9	dar	de	VERB	_	Form=Indirect|PronType=Rel|Tense=Past|VerbForm=Cop	10	parataxis	_	_
+10	ghein	gin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
 11	ar	ar	ADP	_	_	12	case	_	_
 12	talmhoin	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nmod	_	_
 13	s	agus	CCONJ	_	_	15	cc	_	_
@@ -1000,11 +1000,11 @@
 19	ndol	dul	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	9	obl	_	_
 20	buaidh	bua	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
 21	ar	ar	ADP	_	_	22	case	_	_
-22	dheamhan	deamhan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	_
+22	dheamhan	deamhan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	obl	_	_
 23	s	agus	CCONJ	_	_	25	cc	_	_
 24	ar	ar	ADP	_	_	25	case	_	_
 25	dhomhon	domhan	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	1	punct	_	_
+26	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 37
 # text = Tri naimhde an anma gach am diabhal, saoghal, sa cholann da mbera tusa a mbuaidh sin rachair go réidh don Righthigh.
