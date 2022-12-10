@@ -1055,9 +1055,9 @@
 14	re	le	ADP	_	_	15	case	_	_
 15	haithrighe	aithrí	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	13	obl	_	_
 16	ghéir	géar	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	15	amod	_	_
-17	ghloin	glan	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	15	amod	_	_
+17	ghloin	glan	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	16	amod	_	_
 18	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	19	nmod:poss	_	_
-19	dhol	dul	NOUN	_	Form=Len|VerbForm=Inf	13	xcomp	_	_
+19	dhol	dul	NOUN	_	Definite=Def|Form=Len|VerbForm=Inf	13	xcomp	_	_
 20	isin	i	ADP	_	Number=Sing|PronType=Art	21	case	_	_
 21	síth	síth	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obl	_	_
 22	shuthoin	suthain	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
