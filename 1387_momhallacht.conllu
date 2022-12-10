@@ -998,7 +998,7 @@
 17	thall	thall	ADV	_	_	9	advmod	_	_
 18	iar	iar	ADP	_	_	19	case	_	_
 19	ndol	dul	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	9	obl	_	_
-20	buaidh	bua	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+20	buaidh	bua	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
 21	ar	ar	ADP	_	_	22	case	_	_
 22	dheamhan	deamhan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	_
 23	s	agus	CCONJ	_	_	25	cc	_	_
