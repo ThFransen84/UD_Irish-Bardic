@@ -1095,7 +1095,7 @@
 # text = Biodh tuirse is conguin chridhe ort tre thuilleamh oirbhire an tí ar a ttugadh gan choir na mílti crecht tréd chiontoibh.
 # text_standard = Bíodh tuirse is comhghoin chroí ort trí thuilleamh oirbhire an té ar a dtugadh gan choir na mílte créacht trí do chionta.
 1	Biodh	bí	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
-2	tuirse	tuirse	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+2	tuirse	tuirse	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	obj	_	_
 3	is	agus	CCONJ	_	_	4	cc	_	_
 4	conguin	comhghoin	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	conj	_	_
 5	chridhe	croí	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	1	obj	_	_
