@@ -1158,8 +1158,8 @@
 6	le	le	ADP	_	_	7	case	_	_
 7	toil	toil	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
 8	De	Dia	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	_
-9	d'	de	ADP	_	_	10	case	_	SpaceAfter=No
-10	fhios	fios	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	7	nmod	_	_
+9	d'	a	PART	_	PartType=Inf	10	mark:prt	_	SpaceAfter=No
+10	fhios	fios	NOUN	_	Form=Len|VerbForm=Inf	7	nmod	_	_
 11	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
 12	Righthigh	Ríthí	PROPN	_	Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	_
 13	mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	14	nmod:poss	_	_
