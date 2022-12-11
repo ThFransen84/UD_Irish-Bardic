@@ -94,7 +94,7 @@
 # text = Riogha is monairc an domhain ó ata a n-íul nar n-urchomhair mas fiadhna stairthe na ndrong dearbhaid gor fior a n-abrom.
 # text_standard = Ríthe is monarcaí an domhain ó atá a n-iúl inár n-urchomhair más fianaithe startha na ndrong dearbhaíonn siad gur fíor a ndeirim.
 1	Riogha	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	dislocated	_	_
-2	is	agus	CCONJ	_	_	1	cc	_	_
+2	is	agus	CCONJ	_	_	3	cc	_	_
 3	monairc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
 4	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	domhain	domhan	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
