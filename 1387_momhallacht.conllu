@@ -1161,7 +1161,7 @@
 9	d'	a	PART	_	PartType=Inf	10	mark	_	SpaceAfter=No
 10	fhios	fios	NOUN	_	Form=Len|VerbForm=Inf	7	nmod	_	_
 11	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	Righthigh	Ríthí	PROPN	_	Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	_
+12	Righthigh	Rítheach	PROPN	_	Case:Gen=|Definite=Def|Gender=Masc|Number=Sing	10	obj	_	_
 13	mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	14	nmod:poss	_	_
 14	bhuille	buille	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	17	obl	_	_
 15	sguir	scor	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
