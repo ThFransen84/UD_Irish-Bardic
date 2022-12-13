@@ -119,7 +119,7 @@
 # sent_id = 5
 # text = Riogha na nAssardha is mead tugais doib seal nar roibeag callacdha is pearsa nar lag fúairseat seal cait 'nar gabhsat .
 # text_standard = Ríthe na nAisiriach is Méideach thug tú dóibh seal nár ró-bheag Caildéigh is Peirsigh nár lag fuair siad seal cá háit inár ghabh siad.
-1	Riogha	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+1	Riogha	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
 2	na	na	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	nAssardha	Aisiriach	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|Number=Plur	1	nmod	_	_
 4	is	agus	CCONJ	_	_	5	ccomp	_	_
@@ -128,10 +128,10 @@
 7	doib	do	ADP	_	Number=Plur|Person=3	6	obl:prep	_	_
 8	seal	seal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	_
 9	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	10	cop	_	_
-10	roibeag	ró-bheag	ADJ	_	Degree=Pos	8	acl:relcl	_	_
-11	callacdha	Caildéach	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+10	roibeag	beag	ADJ	_	Degree=Pos	8	acl:relcl	_	_
+11	callacdha	Caildéach	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	16	nsubj	_	_
 12	is	agus	CCONJ	_	_	13	cc	_	_
-13	pearsa	Peirseach	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	_
+13	pearsa	Peirseach	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	11	conj	_	_
 14	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	15	cop	_	_
 15	lag	lag	ADJ	_	Degree=Pos	11	acl:relcl	_	_
 16	fúairseat	faigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	parataxis	_	_
