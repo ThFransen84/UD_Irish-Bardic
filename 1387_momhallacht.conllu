@@ -293,7 +293,7 @@
 # sent_id = 11
 # text = A-ta thall beatha oile bhias go suthain síorruidhe air ar ccionn ag Righ na n-uile gan ced duit-si a chealguire.
 # text_standard = Atá thall beatha eile bheidh go suthain síoraí ar ár gcionn ag Rí na n-uile gan cead duitse a cealgaire.
-1	A-ta	bí	VERB	_	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	0	root	_	_
+1	A-ta	bí	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	thall	thall	ADV	_	_	1	advmod	_	_
 3	beatha	beatha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	oile	eile	DET	_	PronType=Dem	3	det	_	_
@@ -305,7 +305,7 @@
 10	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	11	nmod:poss	_	_
 11	ccionn	ceann	NOUN	_	Case=Dat|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	5	xcomp:pred	_	_
 12	ag	ag	ADP	_	_	13	case	_	_
-13	Righ	rí	NOUN	_	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	1	xcomp	_	_
+13	Righ	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	xcomp	_	_
 14	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	n-uile	uile	NOUN	_	Case=Gen|Definite=Def|Form=Ecl	13	nmod	_	_
 16	gan	gan	ADP	_	_	17	case	_	_
