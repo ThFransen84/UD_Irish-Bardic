@@ -186,8 +186,8 @@
 5	céad	céad	NUM	_	NumType=Card	6	nummod	_	_
 6	Impire	impire	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	appos	_	_
 7	reil	réil	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
-8	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	Romhán	Rómhánach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	_
+8	na	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	Romhán	Rómhánach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|NounType=Weak|Number=Plur	6	nmod	_	_
 10	ar	ar	ADP	_	_	11	case	_	_
 11	ngabail	gabháil	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing|VerbForm=Inf	17	advcl	_	_
 12	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
