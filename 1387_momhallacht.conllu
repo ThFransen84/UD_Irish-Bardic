@@ -107,7 +107,7 @@
 12	mas	má	SCONJ	_	VerbForm=Cop	13	mark	_	_
 13	fiadhna	fianaí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	advcl	_	_
 14	stairthe	stair	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	13	nsubj	_	_
-15	na	na	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	na	na	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	16	det	_	_
 16	ndrong	drong	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Fem|NounType=Weak|Number=Plur	14	nmod	_	_
 17	dearbhaid	dearbhaigh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
 18	gor	is	AUX	_	Tense=Pres|VerbForm=Cop	19	cop	_	_
