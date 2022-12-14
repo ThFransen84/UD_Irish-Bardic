@@ -234,11 +234,11 @@
 # sent_id = 9
 # text = Boicht an tshaogail ima seach dhíot as beite dhóibh buidheach ní thabhra ní dhóibh dot mhaoin 'sní bhena diobh do chomhmaoin.
 # text_standard = Boicht an tsaoil faoi seach díot is beite dóibh buíoch ní thugann tú ní dóibh do do mhaoin is ní bhaineann tú díobh do chomaoin.
-1	Boicht	bocht	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	dislocated	_	_
+1	Boicht	bocht	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	8	dislocated	_	_
 2	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	tshaogail	saol	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
-4	ima	faoi	ADP	_	_	5	case	_	_
-5	seach	seach	NOUN	_	Number=Sing	8	obl	_	_
+4	ima	faoi	ADP	_	Number=Plur|Person=3|Poss=Yes|PrepForm=Cmpd	8	fixed	_	_
+5	seach	seach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|PrepForm=Cmpd	4	fixed	_	_
 6	dhíot	de	ADP	_	Number=Sing|Person=2	8	obl:prep	_	_
 7	as	is	AUX	_	Tense=Pres|VerbForm=Cop	8	cop	_	_
 8	beite	beite	ADJ	_	VerbForm=Part	0	root	_	_
@@ -258,7 +258,7 @@
 20	bhena	bain	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	conj	_	_
 21	diobh	de	ADP	_	Number=Plur|Person=3	20	obl:prep	_	_
 22	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	23	nmod:poss	_	_
-23	chomhmaoin	comaoin	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
+23	chomhmaoin	comaoin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 10
