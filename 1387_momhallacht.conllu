@@ -559,7 +559,7 @@
 18	do	a	PART	_	PartType=Inf	19	mark	_	_
 19	chuma	cumadh	NOUN	_	Form=Len|VerbForm=Inf	14	conj	_	_
 20	re	le	ADP	_	_	22	case	_	_
-21	a	a	DET	_	Gender=Masc|Number=Plur|Person=3|Poss=Yes	22	nmod:poss	_	_
+21	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	22	nmod:poss	_	_
 22	thoil	toil	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	19	obl	_	_
 23	agus	agus	CCONJ	_	_	27	cc	_	_
 24	e	é	PRON	_	Gender=Masc|Number=Sing|Person=3	27	obj	_	_
