@@ -443,9 +443,9 @@
 13	nach	nár	PART	_	PartType=Cmpl|Polarity=Neg|Tense=Past	14	mark:prt	_	_
 14	rugadh	beir	VERB	_	Mood=Ind|Person=0|Tense=Past	5	advcl	_	_
 15	mór	mór	ADJ	_	Degree=Pos	14	parataxis	_	_
-16	re	le	ADP	_	_	18	case	_	_
-17	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	18	nmod:poss	_	_
-18	mheas	meas	NOUN	_	Definite=Def|Form=Len|VerbForm=Inf	15	obl	_	_
+16	re	le	ADP	_	_	18	obj	_	_
+17	a	a	PART	_	PartType=Inf	18	mark	_	_
+18	mheas	meas	NOUN	_	Definite=Def|Form=Len|VerbForm=Inf	15	csubj:cop	_	_
 19	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	20	det	_	_
 20	monairc	monairc	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	obj	_	_
 21	thuas	thuas	ADV	_	_	23	advmod	_	_
