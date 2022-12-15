@@ -390,7 +390,7 @@
 15	ta	bí	VERB	_	Mood=Ind|Tense=Pres	13	acl	_	_
 16	re	le	ADP	_	_	17	case	_	_
 17	treall	treall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
-18	eachtrann	eachtrannach	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+18	eachtrann	eachtrannach	NOUN	_	Case=Gen|Gender=Masc|NounType=Weak|Number=Plur	17	nmod	_	_
 19	ar	ar	ADP	_	_	20	case	_	_
 20	uaislibh	uasal	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	_
 21	Eireann	Éire	PROPN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
