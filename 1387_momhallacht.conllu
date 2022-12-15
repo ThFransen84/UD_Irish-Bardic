@@ -375,7 +375,7 @@
 1	Cradh	crá	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	liom	le	ADP	_	_	1	obl:prep	_	_
 3	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	4	nmod:poss	_	_
-4	geimhliughadh	geimhliú	NOUN	_	VerbForm=Vnoun	1	nsubj	_	_
+4	geimhliughadh	geimhliú	NOUN	_	Definite=Def|VerbForm=Inf	1	nsubj	_	_
 5	daor	daor	ADJ	_	Degree=Pos	4	advmod	_	_
 6-7	sgan	_	_	_	_	_	_	_	_
 6	is	agus	CCONJ	_	_	8	cc	_	_
