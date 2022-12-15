@@ -436,7 +436,7 @@
 6	sibh	sibh	PRON	_	Number=Plur|Person=2	5	obj	_	_
 7	i	i	ADP	_	_	8	case	_	_
 8	n-am	am	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	5	obl:tmod	_	_
-9	crabhaidh	crábhadh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+9	crabhaidh	crábhadh	NOUN	_	Case=Gen|Form=Len|Gender=Masc|Number=Sing	8	nmod	_	_
 10	is	agus	CCONJ	_	_	11	cc	_	_
 11	creidimh	creideamh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	conj	_	_
 12	mar	mar	SCONJ	_	_	14	mark	_	_
