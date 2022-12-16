@@ -619,7 +619,7 @@
 17	dhó	do	ADP	_	Gender=Masc|Number=Sing|Person=3	16	obl:prep	_	_
 18	port	port	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	obj	_	_
 19	do	a	PART	_	PartType=Inf	20	mark	_	_
-20	ghabháil	gabháil	NOUN	_	Form=Len	16	csubj:cop	_	SpaceAfter=No
+20	ghabháil	gabháil	NOUN	_	Form=Len|VerbForm=Inf	16	csubj:cop	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 23
