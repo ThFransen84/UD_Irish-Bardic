@@ -626,7 +626,7 @@
 # text = Re linn síothchána is socra fuairais beatha ionmholta iar bplanntughadh it thír thall d'ainbhfine aintréin eachtrann.
 # text_standard = Le linn síochána is socra fuair tú beatha inmholta iar bplandú i do thír thall d'an-fhine aintréin eachtrannach.
 1	Re	le	ADP	_	PrepForm=Cmpd	3	case	_	_
-2	linn	linn	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PrepForm=Cmpd	1	fixed	_	_
+2	linn	linn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|PrepForm=Cmpd	1	fixed	_	_
 3	síothchána	síocháin	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
 4	is	agus	CCONJ	_	_	5	cc	_	_
 5	socra	socracht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
@@ -638,7 +638,7 @@
 11-12	it	_	_	_	_	_	_	_	_
 11	i	i	ADP	_	_	13	case	_	_
 12	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
-13	thír	tír	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	10	obl	_	_
+13	thír	tír	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	10	obl	_	_
 14	thall	thall	ADV	_	_	10	advmod	_	_
 15	d'	do	ADP	_	_	16	case	_	SpaceAfter=No
 16	ainbhfine	an-fhine	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	obl	_	_
