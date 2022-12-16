@@ -715,7 +715,7 @@
 9	ccóigidh	cúige	NOUN	_	Case=Gen|Form=Ecl|Gender=Masc|Number=Pl	7	nmod	_	_
 10	Eireann	Éire	PROPN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 11	da	de	ADP	_	Number=Plur|Person=3|Poss=Yes	12	case	_	_
-12	ndíden	dídean	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	parataxis	_	_
+12	ndíden	dídean	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	2	parataxis	_	_
 13	ar	ar	ADP	_	_	15	case	_	_
 14	gach	gach	DET	_	Definite=Def	15	det	_	_
 15	feadhain	feadhain	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
