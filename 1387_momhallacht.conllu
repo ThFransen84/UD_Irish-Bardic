@@ -594,7 +594,7 @@
 21	dlighe	dligh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	parataxis	_	_
 22	bheith	bheith	NOUN	_	Form=Len|VerbForm=Inf	21	xcomp	_	_
 23	dhe	de	PART	_	Form=Len|Gender=Masc|Number=Sing|Person=3	24	obl:prep	_	_
-24	diomdhach	diomúch	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	22	xcomp:pred	_	SpaceAfter=No
+24	diomdhach	diomúch	ADJ	_	Degree=Pos	22	xcomp:pred	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 22
