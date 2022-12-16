@@ -610,16 +610,16 @@
 8	bliaghan	bliain	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	parataxis	_	_
 9	long	long	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	dislocated	_	_
 10	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	anma	anam	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	anma	anam	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
 12	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
 13	corp	corp	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	_
 14	go	go	ADP	_	_	15	case	_	_
-15	ngráin	gráin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nmod	_	_
+15	ngráin	gráin	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	13	nmod	_	_
 16	mithidh	mithid	ADJ	_	Degree=Pos	1	parataxis	_	_
 17	dhó	do	ADP	_	Gender=Masc|Number=Sing|Person=3	16	obl:prep	_	_
-18	port	port	NOUN	_	Foreign=Yes|Gender=Masc	20	obj	_	_
+18	port	port	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	obj	_	_
 19	do	a	PART	_	PartType=Inf	20	mark	_	_
-20	ghabháil	gabháil	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	16	csubj:cop	_	SpaceAfter=No
+20	ghabháil	gabháil	NOUN	_	Form=Len	16	csubj:cop	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 23
