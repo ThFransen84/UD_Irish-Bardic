@@ -741,7 +741,7 @@
 11	leith	leath	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	_
 12	Mogho	Mogh	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	_
 13	nach	nach	PART	_	PartType=Cmpl|Polarity=Neg	14	mark:prt	_	_
-14	biodh	bí	VERB	_	Mood=Imp|Number=Sing|Person=3	2	ccomp	_	_
+14	biodh	bí	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	ccomp	_	_
 15	tnuth	tnúth	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 16	in	i	ADP	_	_	18	case	_	_
 17	gach	gach	DET	_	Definite=Def|Form=Ecl	18	det	_	_
