@@ -909,7 +909,7 @@
 5	a-ta	bí	VERB	_	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	12	advcl	_	_
 6	sibh	sibh	PRON	_	Number=Plur|Person=2	5	nsubj	_	_
 7	ar	ar	ADP	_	_	8	case	_	_
-8	fhírbhegán	fíorbheagán	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obl	_	_
+8	fhírbhegán	beagán	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	5	obl	_	_
 9-10	dot	_	_	_	_	_	_	_	_
 9	de	de	ADP	_	_	11	case	_	_
 10	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
