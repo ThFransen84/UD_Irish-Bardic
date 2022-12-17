@@ -325,8 +325,8 @@
 5	dhuit	do	ADP	_	Form=Len|Number=Sing|Person=2	3	obl:prep	_	_
 6	a	a	DET	_	PartType=Voc	7	case:voc	_	_
 7	úa	ua	NOUN	_	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	3	vocative	_	_
-8	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	ttrí	trí	NUM	_	Case=Gen|Definite=Def|Form=Ecl|NumType=Card	7	nummod	_	_
+8	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+9	ttrí	trí	NUM	_	Form=Ecl|NumType=Card	10	nummod	_	_
 10	nAodh	Aodh	PROPN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|Number=Plur	7	nmod	_	_
 11	n-oirdhuirc	oirirc	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plur	10	nmod	_	_
 12	i	i	ADP	_	_	13	case	_	_
