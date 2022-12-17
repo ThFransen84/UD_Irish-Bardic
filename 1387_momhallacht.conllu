@@ -853,7 +853,7 @@
 10	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
 11	mhuintir	muintir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	8	nmod	_	_
 12	agus	agus	SCONJ	_	_	13	cc	_	_
-13	iad	iad	PRON	_	Number=Plur|Person=3	1	conj	_	_
+13	iad	iad	PRON	_	Number=Plur|Person=3	8	conj	_	_
 14	uile	uile	DET	_	PronType=Ind	13	det	_	_
 15	ar	ar	ADP	_	_	16	case	_	_
 16	bhar	bar	DET	_	Number=Plur|Person=2|Poss=Yes	17	nmod:poss	_	_
@@ -861,13 +861,13 @@
 18-19	fad	_	_	_	_	_	_	_	_
 18	faoi	faoi	ADP	_	_	20	case	_	_
 19	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	20	nmod:poss	_	_
-20	leagadh	leag	VERB	_	Mood=Ind|Person=0|Polarity=Neg|Tense=Past	13	parataxis	_	SpaceAfter=No
+20	leagadh	leagan	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	is	agus	CCONJ	_	_	25	cc	_	_
 23-24	fad	_	_	_	_	_	_	_	_
 23	faoi	faoi	ADP	_	_	25	case	_	_
 24	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	25	nmod:poss	_	_
-25	gherradh	gearradh	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+25	gherradh	gearradh	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 32
