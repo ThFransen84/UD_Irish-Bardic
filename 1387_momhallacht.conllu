@@ -777,12 +777,12 @@
 17	sgel	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
 18	fíre	fíor	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	parataxis	_	_
 19	dream	dream	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
-20	do	do	ADP	_	_	21	case	_	_
+20	do	de	ADP	_	_	21	case	_	_
 21	lucht	lucht	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nmod	_	_
 22	gach	gach	DET	_	Definite=Def	24	det	_	_
 23-24	eintíre	_	_	_	_	_	_	_	SpaceAfter=No
 23	aon	aon	DET	_	PronType=Ind	24	det	_	_
-24	tíre	tír	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	tíre	tír	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	_
 25	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 29
