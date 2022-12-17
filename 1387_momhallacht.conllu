@@ -892,7 +892,7 @@
 17	soir	soir	ADV	_	_	15	conj	_	_
 18	ag	ag	ADP	_	_	19	case	_	_
 19	port	port	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	_
-20	Eirne	Éirne	PROPN	_	Case=Gen	19	nmod	_	_
+20	Eirne	Éirne	PROPN	_	Case=Gen|Definite=Def|Gender=Fem	19	nmod	_	_
 21-22	fad	_	_	_	_	_	_	_	_
 21	faoi	faoi	ADP	_	_	23	case	_	_
 22	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	23	nmod:poss	_	_
