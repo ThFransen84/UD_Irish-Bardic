@@ -964,7 +964,7 @@
 11	th'	do	DET	_	Number=Sing|Person=2|Poss=Yes	12	nmod:poss	_	_
 12	áoise	aois	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
 13	saoghal	saol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	obj	_	_
-14	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur	15	det	_	_
+14	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	meang	meang	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|NounType=Weak|Number=Plur	13	nmod	_	_
 16	do	a	PART	_	PartType=Inf	17	mark	_	_
 17	thuigsin	tuiscint	NOUN	_	Form=Len|VerbForm=Inf	7	xcomp	_	_
