@@ -31,11 +31,6 @@
 # sent_id = 2
 # text = Giodh iomdha Rí ara raibh meas fúair uait righe agus flaithes 'sda ttugais muirn fésda is fleadh fechtar a ccrioch fa dheireadh.
 # text_standard = Cé iomaí Rí ara raibh meas fuair uait rí agus flaitheas is dá dtug tú muirn féasta agus fleá féachtar a gcríoch faoi dheireadh.
-# Cé gur (?) with iomdha root? ('Though (it is) many a king who received ...')
-# see ga_idt-ud-test.conllu #25
-# ga_cadhan-ud-test.conllu #17
-# dá ttugais ... dá = ADP?? ('to whom you gave ...')
-# see ga_idt-ud-test.conllu #244&439
 1	Giodh	cé	SCONJ	_	_	3	mark	_	_
 2	iomdha	iomaí	ADJ	_	Degree=Pos	3	nsubj	_	_
 3	Rí	rí	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	advcl	_	_
@@ -372,7 +367,7 @@
 22	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 14
-# text = Cradh liom do geimhliughadh daor sgan tadhall duit ar mhiothaom acht fíorfhuath mur ta re treall eachtrann ar uaislibh Eireann.
+# text = Cradh liom do geimhliughadh daor 'sgan tadhall duit ar mhiothaom acht fíorfhuath mur ta re treall eachtrann ar uaislibh Eireann.
 # text_standard = Crá liom do geimhliú daor is gan tadhall duit ar mhíthaom ach fíorfhuath mar tá le treall eachtrannach ar uaisle Éireann.
 1	Cradh	crá	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	liom	le	ADP	_	_	1	obl:prep	_	_
@@ -481,7 +476,7 @@
 20	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 18
-# text = Tanaig Iosa trenar ccoir do nimh a-nuas on Athoir sdo dhoirt fuil a chuirp uile air ar ngradh tre thrócuire.
+# text = Tanaig Iosa trenar ccoir do nimh a-nuas on Athoir 'sdo dhoirt fuil a chuirp uile air ar ngradh tre thrócuire.
 # text_standard = Tháinig Íosa trínár gcóir de nimh anuas ón Athair is do dhoirt fuil a choirp uile ar ár ngrá trí thrócaire.
 1	Tanaig	tar	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	Iosa	Íosa	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
@@ -508,7 +503,7 @@
 22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 19
-# text = Ar dhoírt gach mairtír da bhfuil ó thús sgo deiredh dhomhuin do budh mo sgél braon don fhuil do dhoirt Iosa trear cciontaibh.
+# text = Ar dhoírt gach mairtír da bhfuil ó thús 'sgo deiredh dhomhuin do budh mo sgél braon don fhuil do dhoirt Iosa trear cciontaibh.
 # text_standard = Ar dhoirt gach mairtíreach dá bhfuil ó thús is go deireadh dhomhain do ba mó scéal braon den fhuil a dhoirt Íosa trínár gcionta.
 1	Ar	ar	PRON	_	PronType=Rel	15	advmod	_	_
 2	dhoírt	doirt	VERB	_	Mood=Ind|Tense=Past	1	acl:relcl	_	_
@@ -728,7 +723,7 @@
 20	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 27
-# text = Níor taistilsed tír dhíobh so i leith Cuinn no i leith Mogho nach biodh tnuth in gach baile riu sgan iad na ccomhnaidhe.
+# text = Níor taistilsed tír dhíobh so i leith Cuinn no i leith Mogho nach biodh tnuth in gach baile riu 'sgan iad na ccomhnaidhe.
 # text_standard = Níor thaistil siad tír díobh seo i leith Cuinn nó i leith Mogha nach bíodh tnúth i ngach baile leo is gan iad ina gcónaí.
 1	Níor	níor	PART	_	PartType=Vb|Polarity=Neg|Tense=Past	2	advmod	_	_
 2	taistilsed	taistil	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
@@ -1009,7 +1004,7 @@
 26	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = 37
-# text = Tri naimhde an anma gach am diabhal, saoghal, sa cholann da mbera tusa a mbuaidh sin rachair go réidh don Righthigh.
+# text = Tri naimhde an anma gach am diabhal, saoghal, 'sa cholann da mbera tusa a mbuaidh sin rachair go réidh don Righthigh.
 # text_standard = Trí naimhde an anama gach am diabhal, saol, is a cholainn dá mbeire tusa a mbua sin rachaidh tú go réidh don Rítheach.
 1	Tri	trí	NUM	_	NumType=Card	2	nummod	_	_
 2	naimhde	namhaid	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
@@ -1066,7 +1061,7 @@
 23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 39
-# text = Déna an t-inchreachadh dhlighe o thús go eirr th' aimsire sgrúd a bhfuair tú gach tan sa ndearnais ris san saoghal.
+# text = Déna an t-inchreachadh dhlighe o thús go eirr th' aimsire sgrúd a bhfuair tú gach tan 'sa ndearnais ris san saoghal.
 # text_standard = Déan an t-inchreachadh dhlíonn tú ó thús go earr d' aimsire scrúdaigh a bhfuair tú gach tan is a ndearna tú leis sa saol.
 1	Déna	déan	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
