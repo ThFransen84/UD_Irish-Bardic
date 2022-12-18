@@ -1046,11 +1046,11 @@
 5	rún	rún	NOUN	_	Case=Voc|Definite=Def|Gender=Masc|Number=Sing	1	vocative	_	_
 6	dil	dil	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	amod	_	_
 7	na	ná	PART	_	Mood=Imp|PartType=Vb|Polarity=Neg	8	advmod	_	_
-8	léig	lig	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	1	conj	_	_
+8	léig	lig	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	1	parataxis	_	_
 9	fuil	fuil	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
 10	Chriost	Críost	PROPN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	9	nmod	_	_
 11	i	i	ADP	_	_	12	case	_	_
-12	n-aisgidh	aisce	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
+12	n-aisgidh	aisce	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	8	obl	_	_
 13	tuill	tuill	VERB	_	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
 14	re	le	ADP	_	_	15	case	_	_
 15	haithrighe	aithrí	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	13	obl	_	_
