@@ -1010,7 +1010,7 @@
 # text = Tri naimhde an anma gach am diabhal, saoghal, sa cholann da mbera tusa a mbuaidh sin rachair go réidh don Righthigh.
 # text_standard = Trí naimhde an anama gach am diabhal, saol, is a cholainn dá mbeire tusa a mbua sin rachaidh tú go réidh don Rítheach.
 1	Tri	trí	NUM	_	NumType=Card	2	nummod	_	_
-2	naimhde	namhaid	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+2	naimhde	namhaid	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
 3	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	anma	anam	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
 5	gach	gach	DET	_	Definite=Def	6	det	_	_
