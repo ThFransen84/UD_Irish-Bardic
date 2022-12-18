@@ -1100,8 +1100,8 @@
 4	conguin	comhghoin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
 5	chridhe	croí	NOUN	_	Case=Gen|Form=Len|Gender=Masc|Number=Sing	4	obj	_	_
 6	ort	ar	ADP	_	Number=Sing|Person=2	1	obl:prep	_	_
-7	tre	trí	NUM	_	NumType=Card	8	nummod	_	_
-8	thuilleamh	tuilleamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
+7	tre	trí	ADP	_	_	8	case	_	_
+8	thuilleamh	tuilleamh	NOUN	_	Form=Len|VerbForm=Inf	1	obj	_	_
 9	oirbhire	oirbhire	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 10	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
 11	tí	té	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
