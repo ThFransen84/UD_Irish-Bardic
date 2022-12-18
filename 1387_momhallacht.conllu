@@ -83,12 +83,14 @@
 14	ar	ar	ADP	_	_	16	case	_	_
 15	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
 16	mhuin	muin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	13	obl	_	_
-17	'sdo	agus	CCONJ	_	_	18	cc	_	_
-18	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
-19	síos	síos	ADV	_	_	18	advmod	_	_
-20	go	go	ADP	_	_	21	case	_	_
-21	talmain	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	1	punct	_	_
+17-18	'sdo	_	_	_	_	_	_	_	_
+17	's	agus	CCONJ	_	_	19	cc	_	_
+18	do	do	PART	_	PartType=Vb	19	mark:prt	_	_
+19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
+20	síos	síos	ADV	_	_	19	advmod	_	_
+21	go	go	ADP	_	_	22	case	_	_
+22	talmain	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 4
 # text = Riogha is monairc an domhain ó ata a n-íul nar n-urchomhair mas fiadhna stairthe na ndrong dearbhaid gor fior a n-abrom.
@@ -377,7 +379,7 @@
 3	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	4	nmod:poss	_	_
 4	geimhliughadh	geimhliú	NOUN	_	Definite=Def|VerbForm=Inf	1	nsubj	_	_
 5	daor	daor	ADJ	_	Degree=Pos	4	amod	_	_
-6-7	sgan	_	_	_	_	_	_	_	_
+6-7	'sgan	_	_	_	_	_	_	_	_
 6	is	agus	CCONJ	_	_	8	cc	_	_
 7	gan	gan	ADP	_	_	8	case	_	_
 8	tadhall	tadhall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
@@ -490,7 +492,7 @@
 7	a-nuas	anuas	ADV	_	_	1	advmod	_	_
 8	on	ó	ADP	_	Number=Sing|PronType=Art	9	case	_	_
 9	Athoir	athair	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-10-11	sdo	_	_	_	_	_	_	_	_
+10-11	'sdo	_	_	_	_	_	_	_	_
 10	is	agus	CCONJ	_	_	12	cc	_	_
 11	do	do	PART	_	PartType=Vb	12	mark:prt	_	_
 12	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	1	conj	_	_
@@ -516,7 +518,7 @@
 6	bhfuil	fuil	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	2	obl	_	_
 7	ó	ó	ADP	_	_	8	case	_	_
 8	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	obl	_	_
-9-10	sgo	_	_	_	_	_	_	_	_
+9-10	'sgo	_	_	_	_	_	_	_	_
 9	is	agus	CCONJ	_	_	11	cc	_	_
 10	go	go	ADP	_	_	11	case	_	_
 11	deiredh	deireadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
@@ -747,7 +749,7 @@
 17	gach	gach	DET	_	Definite=Def|Form=Ecl	18	det	_	_
 18	baile	baile	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	_
 19	riu	le	ADP	_	Number=Plur|Person=3	14	obl:prep	_	_
-20-21	sgan	_	_	_	_	_	_	_	_
+20-21	'sgan	_	_	_	_	_	_	_	_
 20	is	agus	CCONJ	_	_	22	cc	_	_
 21	gan	gan	ADP	_	_	22	case	_	_
 22	iad	iad	PRON	_	Number=Plur|Person=3	14	conj	_	_
@@ -1019,7 +1021,7 @@
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	saoghal	saol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
-11-12	sa	_	_	_	_	_	_	_	_
+11-12	'sa	_	_	_	_	_	_	_	_
 11	is	agus	CCONJ	_	_	13	cc	_	_
 12	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
 13	cholann	colainn	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	7	conj	_	_
@@ -1082,7 +1084,7 @@
 14	tú	tú	PRON	_	Number=Sing|Person=2	13	nsubj	_	_
 15	gach	gach	DET	_	Definite=Def	16	det	_	_
 16	tan	tan	ADV	_	_	13	advmod	_	_
-17-18	sa	_	_	_	_	_	_	_	_
+17-18	'sa	_	_	_	_	_	_	_	_
 17	is	agus	SCONJ	_	_	19	cc	_	_
 18	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	19	mark:prt	_	_
 19	ndearnais	déan	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
