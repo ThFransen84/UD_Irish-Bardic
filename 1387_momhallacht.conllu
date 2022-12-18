@@ -1144,7 +1144,7 @@
 20	reír	réir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|PrepForm=Cmpd	19	fixed	_	_
 21	breithe	breith	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	_
 22	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	chonfesoir	choinfeasóir	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+23	chonfesoir	coinfeasóir	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 42
