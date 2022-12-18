@@ -1084,7 +1084,7 @@
 16	tan	tan	ADV	_	_	13	advmod	_	_
 17-18	sa	_	_	_	_	_	_	_	_
 17	is	agus	SCONJ	_	_	19	cc	_	_
-18	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	19	mark:prt	_	_
+18	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	19	mark:prt	_	_
 19	ndearnais	déan	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
 20	ris	le	ADP	_	Gender=Masc|Number=Sing|Person=3	19	obl:prep	_	_
 21	san	i	ADP	_	Number=Sing|PronType=Art	22	case	_	_
