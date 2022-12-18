@@ -1107,7 +1107,7 @@
 11	tí	té	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
 12	ar	ar	ADP	_	_	14	case	_	_
 13	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	14	mark:prt	_	_
-14	ttugadh	tabhair	VERB	_	Aspect=Imp|Form=Ecl|Tense=Past	11	acl:relcl	_	_
+14	ttugadh	tabhair	VERB	_	Form=Ecl|Mood=Ind|Person=0|Tense=Past	11	acl:relcl	_	_
 15	gan	gan	ADP	_	_	16	case	_	_
 16	choir	cor	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	11	obl	_	_
 17	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
