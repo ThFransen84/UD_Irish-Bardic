@@ -1068,8 +1068,8 @@
 # text_standard = Déan an t-inchreachadh dhlíonn tú ó thús go earr d' aimsire scrúdaigh a bhfuair tú gach tan is a ndearna tú leis sa saol.
 1	Déna	déan	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	t-inchreachadh	inchreachadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
-4	dhlighe	dligh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	acl:relcl	_	_
+3	t-inchreachadh	inchreachadh	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
+4	dhlighe	dligh	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	acl:relcl	_	_
 5	o	ó	ADP	_	_	6	case	_	_
 6	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	4	obl	_	_
 7	go	go	ADP	_	_	8	case	_	_
