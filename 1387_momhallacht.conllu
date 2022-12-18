@@ -245,7 +245,7 @@
 9	dhóibh	do	ADP	_	Number=Plur|Person=3	8	obl:prep	_	_
 10	buidheach	buíoch	ADJ	_	Degree=Pos	8	xcomp:pred	_	_
 11	ní	ní	PART	_	PartType=Vb|Polarity=Neg	12	advmod	_	_
-12	thabhra	tabhair	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	parataxis	_	_
+12	thabhra	tabhair	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres	8	parataxis	_	_
 13	ní	ní	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	_
 14	dhóibh	do	ADP	_	Number=Plur|Person=3	12	obl:prep	_	_
 15-16	dot	_	_	_	_	_	_	_	_
