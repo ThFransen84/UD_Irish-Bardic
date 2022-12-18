@@ -1059,7 +1059,7 @@
 18	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	19	nmod:poss	_	_
 19	dhol	dul	NOUN	_	Definite=Def|Form=Len|VerbForm=Inf	13	xcomp	_	_
 20	isin	i	ADP	_	Number=Sing|PronType=Art	21	case	_	_
-21	síth	síth	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obl	_	_
+21	síth	síth	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	19	obl	_	_
 22	shuthoin	suthain	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	1	punct	_	_
 
