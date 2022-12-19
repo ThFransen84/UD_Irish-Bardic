@@ -349,7 +349,7 @@
 4	ta	bí	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 5	i	i	ADP	_	_	6	case	_	_
 6	leabhraibh	leabhar	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	4	xcomp	_	_
-7	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	monairc-si	monarc	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	4	parataxis	_	_
 9	a	a	PART	_	PartType=Voc	10	case:voc	_	_
 10	Thoirrdhealbhaidh	Traolach	PROPN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	4	vocative	_	_
