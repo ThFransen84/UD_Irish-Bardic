@@ -302,7 +302,7 @@
 10	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	11	nmod:poss	_	_
 11	ccionn	ceann	NOUN	_	Case=Dat|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	5	xcomp:pred	_	_
 12	ag	ag	ADP	_	_	13	case	_	_
-13	Righ	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	xcomp	_	_
+13	Righ	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 14	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	n-uile	uile	NOUN	_	Case=Gen|Definite=Def|Form=Ecl	13	nmod	_	_
 16	gan	gan	ADP	_	_	17	case	_	_
