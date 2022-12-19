@@ -304,7 +304,7 @@
 12	ag	ag	ADP	_	_	13	case	_	_
 13	Righ	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	xcomp:pred	_	_
 14	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	15	det	_	_
-15	n-uile	uile	NOUN	_	Case=Gen|Definite=Def|Form=Ecl	13	nmod	_	_
+15	n-uile	uile	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Fem	13	nmod	_	_
 16	gan	gan	ADP	_	_	17	case	_	_
 17	ced	cead	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
 18	duit-si	do	ADP	_	Number=Sing|Person=2|PronType=Emp	17	nmod	_	_
