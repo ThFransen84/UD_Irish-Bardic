@@ -742,7 +742,7 @@
 15	tnuth	tnúth	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 16	in	i	ADP	_	_	18	case	_	_
 17	gach	gach	DET	_	Definite=Def|Form=Ecl	18	det	_	_
-18	baile	baile	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	_
+18	baile	baile	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	xcomp:pred	_	_
 19	riu	le	ADP	_	Number=Plur|Person=3	14	obl:prep	_	_
 20-21	'sgan	_	_	_	_	_	_	_	_
 20	is	agus	CCONJ	_	_	22	cc	_	_
