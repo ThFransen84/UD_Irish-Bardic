@@ -100,7 +100,7 @@
 8	a	a	DET	_	Gender=Masc|Number=Plur|Person=3|Poss=Yes	9	nmod:poss	_	_
 9	n-íul	iúl	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	7	nsubj	_	_
 10	nar	i	ADP	_	Number=Plur|Person=1|Poss=Yes	11	case	_	_
-11	n-urchomhair	urchomhair	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	7	xcomp	_	_
+11	n-urchomhair	urchomhair	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	7	xcomp:pred	_	_
 12	mas	má	SCONJ	_	VerbForm=Cop	13	mark	_	_
 13	fiadhna	fianaí	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	advcl	_	_
 14	stairthe	stair	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	13	nsubj	_	_
