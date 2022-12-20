@@ -505,7 +505,7 @@
 # sent_id = 19
 # text = Ar dhoírt gach mairtír da bhfuil ó thús 'sgo deiredh dhomhuin do budh mo sgél braon don fhuil do dhoirt Iosa trear cciontaibh.
 # text_standard = Ar dhoirt gach mairtíreach dá bhfuil ó thús is go deireadh dhomhain do ba mó scéal braon den fhuil a dhoirt Íosa trínár gcionta.
-1	Ar	ar	PRON	_	PronType=Rel	15	advmod	_	_
+1	Ar	ar	PRON	_	PronType=Rel	15	advcl	_	_
 2	dhoírt	doirt	VERB	_	Mood=Ind|Tense=Past	1	acl:relcl	_	_
 3	gach	gach	DET	_	Definite=Def	4	det	_	_
 4	mairtír	mairtíreach	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	_
