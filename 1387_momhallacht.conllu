@@ -329,7 +329,7 @@
 12	i	i	ADP	_	_	13	case	_	_
 13	ndoigh	dóigh	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	1	parataxis	_	_
 14	go	go	ADP	_	_	15	case	_	_
-15	mbeith	beith	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	13	nmod	_	_
+15	mbeith	beith	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	13	nmod	_	_
 16	gráin	gráin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nmod	_	_
 17	ó	ó	ADP	_	_	18	case	_	_
 18	thoil	toil	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	16	nmod	_	_
