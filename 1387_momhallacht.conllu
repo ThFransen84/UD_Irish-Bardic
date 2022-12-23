@@ -1071,7 +1071,7 @@
 6	thús	tús	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	4	obl	_	_
 7	go	go	ADP	_	_	8	case	_	_
 8	eirr	earr	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
-9	th'	de	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
+9	th'	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
 10	aimsire	aimsir	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 11	sgrúd	scrúdaigh	VERB	_	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
 12	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	13	mark:prt	_	_
