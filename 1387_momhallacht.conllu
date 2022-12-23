@@ -631,13 +631,13 @@
 7	beatha	beatha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	_
 8	ionmholta	inmholta	ADJ	_	VerbForm=Part	7	amod	_	_
 9	iar	iar	ADP	_	_	10	case	_	_
-10	bplanntughadh	plandú	NOUN	_	VerbForm=Inf	6	obl	_	_
+10	bplanntughadh	plandú	NOUN	_	Form=Ecl|VerbForm=Inf	6	obl	_	_
 11-12	it	_	_	_	_	_	_	_	_
 11	i	i	ADP	_	_	13	case	_	_
 12	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
 13	thír	tír	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	10	obl	_	_
 14	thall	thall	ADV	_	_	10	advmod	_	_
-15	d'	do	ADP	_	_	16	case	_	SpaceAfter=No
+15	d'	de	ADP	_	_	16	case	_	SpaceAfter=No
 16	ainbhfine	an-fhine	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	obl	_	_
 17	aintréin	aintréan	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	16	amod	_	_
 18	eachtrann	eachtrannach	NOUN	_	Case=Gen|Gender=Masc|NounType=Weak|Number=Plur	16	nmod	_	SpaceAfter=No
@@ -660,7 +660,7 @@
 11	de	de	ADP	_	_	13	case	_	_
 12	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
 13	dhaoinibh	duine	NOUN	_	Case=Dat|Definite=Def|Form=Len|Gender=Masc|Number=Plur	8	nmod	_	_
-14	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	15	mark:prt	_	_
+14	do	a	PART	_	PartType=Vb	15	mark:prt	_	_
 15	shaorais	saor	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
 16	iad	iad	PRON	_	Number=Plur|Person=3	15	obj	_	_
 17	ar	ar	ADP	_	_	18	case	_	_
@@ -775,7 +775,7 @@
 18	fíre	fíor	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	parataxis	_	_
 19	dream	dream	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 20	do	de	ADP	_	_	21	case	_	_
-21	lucht	lucht	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nmod	_	_
+21	lucht	lucht	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	_
 22	gach	gach	DET	_	Definite=Def	24	det	_	_
 23-24	eintíre	_	_	_	_	_	_	_	SpaceAfter=No
 23	aon	aon	DET	_	PronType=Ind	24	det	_	_
@@ -815,7 +815,7 @@
 4	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	5	mark:prt	_	_
 5	bhi	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	acl:relcl	_	_
 6	beó	beo	ADJ	_	Degree=Pos	5	xcomp:pred	_	_
-7	bocht	bocht	ADJ	_	Degree=Pos	6	parataxis	_	_
+7	bocht	bocht	ADJ	_	Degree=Pos	5	xcomp:pred	_	_
 8	ag	ag	ADP	_	_	9	case	_	_
 9	teacht	teacht	NOUN	_	VerbForm=Vnoun	5	xcomp	_	_
 10	chugaibh	chuig	ADP	_	Number=Plur|Person=2	9	obl:prep	_	_
@@ -967,10 +967,10 @@
 17	thuigsin	tuiscint	NOUN	_	Form=Len|VerbForm=Inf	7	xcomp	_	_
 18	s	agus	CCONJ	_	_	20	cc	_	_
 19	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	20	cop	_	_
-20	tú	tú	PRON	_	Number=Sing|Person=2	13	conj	_	_
+20	tú	tú	PRON	_	Number=Sing|Person=2	17	conj	_	_
 21	a-mháin	amháin	ADJ	_	Degree=Pos	20	amod	_	_
 22	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	23	mark:prt	_	_
-23	rothuirrsigh	róthuirseach	VERB	_	Mood=Ind|Tense=Past	20	csubj:cleft	_	SpaceAfter=No
+23	rothuirrsigh	tuirsigh	VERB	_	Mood=Ind|Tense=Past	20	csubj:cleft	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 36
