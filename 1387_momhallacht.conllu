@@ -212,22 +212,22 @@
 10	rotha	roth	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
 11	a	a	PART	_	PartType=Voc	12	case:voc	_	_
 12	shaoghail	saol	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	_
-13	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	16	cop	_	_
-14	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
+13	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	18	cop	_	_
+14	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	_
 15	[	[	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	18	nmod:poss	_	_
 17	]	]	PUNCT	_	_	16	punct	_	SpaceAfter=No
 18	dheireadh	deireadh	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	acl:relcl	_	_
-19	iar	iar	ADP	_	_	20	case	_	_
+19	iar	iar	ADP	_	_	21	case	_	_
 20	gach	gach	DET	_	Definite=Def	21	det	_	_
-21	sódh	só	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	_
-22	a	a	PART	_	PartType=Inf	21	mark	_	_
-23	chur	cur	NOUN	_	Form=Len|VerbForm=Inf	16	xcomp	_	_
+21	sódh	só	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	obl	_	_
+22	a	a	PART	_	PartType=Inf	23	mark	_	_
+23	chur	cur	NOUN	_	Form=Len|VerbForm=Inf	18	xcomp	_	_
 24	faoi	faoi	ADP	_	_	26	case	_	_
-25	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	24	det	_	_
-26	roth	roth	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	_
-27	fa	faoi	ADP	_	_	26	case	_	_
-28	dhubrón	dobrón	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+25	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	26	det	_	_
+26	roth	roth	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	23	obl	_	_
+27	fa	faoi	ADP	_	_	28	case	_	_
+28	dhubrón	dobrón	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 9
