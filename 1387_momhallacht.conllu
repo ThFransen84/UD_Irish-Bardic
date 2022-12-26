@@ -637,7 +637,7 @@
 10	bplanntughadh	plandú	NOUN	_	Form=Ecl|VerbForm=Inf	6	obl	_	_
 11-12	it	_	_	_	_	_	_	_	_
 11	i	i	ADP	_	_	13	case	_	_
-12	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
+12	t	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
 13	thír	tír	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	10	obl	_	_
 14	thall	thall	ADV	_	_	10	advmod	_	_
 15	d'	de	ADP	_	_	16	case	_	SpaceAfter=No
