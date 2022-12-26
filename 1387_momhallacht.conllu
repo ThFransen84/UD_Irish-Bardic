@@ -79,7 +79,7 @@
 15	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
 16	mhuin	muin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	13	obl	_	_
 17-18	'sdo	_	_	_	_	_	_	_	_
-17	's	agus	CCONJ	_	_	19	cc	_	_
+17	is	agus	CCONJ	_	_	19	cc	_	_
 18	do	do	PART	_	PartType=Vb	19	mark:prt	_	_
 19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
 20	síos	síos	ADV	_	_	19	advmod	_	_
