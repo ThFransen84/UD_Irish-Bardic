@@ -660,8 +660,8 @@
 9	lean	lean	VERB	_	Mood=Ind|Tense=Past	8	acl:relcl	_	_
 10	sibh	sibh	PRON	_	Number=Plur|Person=2	9	obj	_	_
 11-12	dot	_	_	_	_	_	_	_	_
-11	de	de	ADP	_	_	13	case	_	_
-12	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
+11	do	de	ADP	_	_	13	case	_	_
+12	t	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
 13	dhaoinibh	duine	NOUN	_	Case=Dat|Definite=Def|Form=Len|Gender=Masc|Number=Plur	8	nmod	_	_
 14	do	a	PART	_	PartType=Vb	15	mark:prt	_	_
 15	shaorais	saor	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
