@@ -14,7 +14,7 @@
 9	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
 10	robhaoghail	ró-bhaol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	_
 11-12	'sgo	_	_	_	_	_	_	_	_
-11	ós	ó	SCONJ	_	VerbForm=Cop	13	mark	_	_
+11	's	ó	SCONJ	_	VerbForm=Cop	13	mark	_	_
 12	go	go	PART	_	PartType=Cmpl	13	mark:prt	_	_
 13	ccuire	cuir	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	advcl	_	_
 14	féin	féin	PRON	_	Reflex=Yes	13	nmod	_	_
@@ -45,8 +45,8 @@
 11	agus	agus	CCONJ	_	_	12	cc	_	_
 12	flaithes	flaitheas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
 13-14	'sda	_	_	_	_	_	_	_	_
-13	is	agus	CCONJ	_	_	15	cc	_	_
-14	dá	do	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	15	obl	_	_
+13	's	agus	CCONJ	_	_	15	cc	_	_
+14	da	do	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	15	obl	_	_
 15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	6	conj	_	_
 16	muirn	muirn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	_
 17	fésda	féasta	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	conj	_	_
@@ -79,7 +79,7 @@
 15	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
 16	mhuin	muin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	13	obl	_	_
 17-18	'sdo	_	_	_	_	_	_	_	_
-17	is	agus	CCONJ	_	_	19	cc	_	_
+17	's	agus	CCONJ	_	_	19	cc	_	_
 18	do	do	PART	_	PartType=Vb	19	mark:prt	_	_
 19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
 20	síos	síos	ADV	_	_	19	advmod	_	_
@@ -159,7 +159,7 @@
 12	a	a	ADP	_	Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
 13	mhes	meas	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	csubj:cop	_	_
 14-15	'sa	_	_	_	_	_	_	_	_
-14	is	agus	CCONJ	_	_	16	cc	_	_
+14	's	agus	CCONJ	_	_	16	cc	_	_
 15	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	16	nmod:poss	_	_
 16	roinert	ró-neart	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	conj	_	_
 17	nír	is	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Cop	18	cop	_	_
@@ -252,7 +252,7 @@
 16	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	17	nmod:poss	_	_
 17	mhaoin	maoin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	12	obl	_	_
 18-19	'sní	_	_	_	_	_	_	_	_
-18	is	agus	CCONJ	_	_	20	cc	_	_
+18	's	agus	CCONJ	_	_	20	cc	_	_
 19	ní	ní	PART	_	PartType=Vb|Polarity=Neg	20	advmod	_	_
 20	bhena	bain	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	conj	_	_
 21	diobh	de	ADP	_	Number=Plur|Person=3	20	obl:prep	_	_
@@ -281,7 +281,7 @@
 16	or	ó	ADP	_	Number=Plur|Person=1|Poss=Yes	17	case	_	_
 17	ccoir	coir	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	15	nmod	_	_
 18-19	'sgan	_	_	_	_	_	_	_	_
-18	is	agus	CCONJ	_	_	20	cc	_	_
+18	's	agus	CCONJ	_	_	20	cc	_	_
 19	gan	gan	ADP	_	_	20	case	_	_
 20	adhradh	adhradh	NOUN	_	VerbForm=Inf	3	conj	_	_
 21	dhuit-si	do	ADP	_	Number=Sing|Person=2|PronType=Emp	20	obl:prep	_	_
@@ -377,7 +377,7 @@
 4	geimhliughadh	geimhliú	NOUN	_	Definite=Def|VerbForm=Inf	1	nsubj	_	_
 5	daor	daor	ADJ	_	Degree=Pos	4	amod	_	_
 6-7	'sgan	_	_	_	_	_	_	_	_
-6	is	agus	CCONJ	_	_	8	cc	_	_
+6	's	agus	CCONJ	_	_	8	cc	_	_
 7	gan	gan	ADP	_	_	8	case	_	_
 8	tadhall	tadhall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
 9	duit	do	ADP	_	Number=Sing|Person=2	8	obl:prep	_	_
@@ -490,7 +490,7 @@
 8	on	ó	ADP	_	Number=Sing|PronType=Art	9	case	_	_
 9	Athoir	athair	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 10-11	'sdo	_	_	_	_	_	_	_	_
-10	is	agus	CCONJ	_	_	12	cc	_	_
+10	's	agus	CCONJ	_	_	12	cc	_	_
 11	do	do	PART	_	PartType=Vb	12	mark:prt	_	_
 12	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	1	conj	_	_
 13	fuil	fuil	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	obj	_	_
@@ -516,7 +516,7 @@
 7	ó	ó	ADP	_	_	8	case	_	_
 8	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	obl	_	_
 9-10	'sgo	_	_	_	_	_	_	_	_
-9	is	agus	CCONJ	_	_	11	cc	_	_
+9	's	agus	CCONJ	_	_	11	cc	_	_
 10	go	go	ADP	_	_	11	case	_	_
 11	deiredh	deireadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
 12	dhomhuin	domhan	NOUN	_	Case=Gen|Form=Len|Gender=Masc|Number=Sing	11	nmod	_	_
@@ -536,7 +536,7 @@
 
 # sent_id = 20
 # text = Fuair Criost bas croiche air ar son do íarr oruinn ar ccroch d'iomchor 'sar ttoil do chuma re a thoil agus e féin do leanmhoin.
-# text_standard = Fuair Críost bás croiche ar ár son do iarr orainn ár gcroch a iompar is ár dtoil a chumadh lena thoil agus é féin a leanúint.
+# text_standard = Fuair Críost bás croiche ar ár son d'iarr orainn ár gcroch a iompar is ár dtoil a chumadh lena thoil agus é féin a leanúint.
 1	Fuair	faigh	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	Criost	Críost	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	bas	bás	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	obj	_	_
@@ -550,7 +550,7 @@
 11	ar	ár	DET	_	Number=Plur|Person=1|Poss=Yes	12	nmod:poss	_	_
 12	ccroch	croch	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	14	obj	_	_
 13-14	d'iomchor	_	_	_	_	_	_	_	_
-13	do	a	PART	_	PartType=Inf	14	mark	_	_
+13	d'	a	PART	_	PartType=Inf	14	mark	_	_
 14	iomchar	iompar	NOUN	_	VerbForm=Inf	9	xcomp	_	_
 15-16	'sar	_	_	_	_	_	_	_	_
 15	's	agus	CCONJ	_	_	19	cc	_	_
@@ -842,7 +842,7 @@
 
 # sent_id = 31
 # text = Cumhain liom go riomhthaoi sin tri mhíle bó ar do mhuintir agus iad uile ar bhar ccur fad leagadh, is fad gherradh.
-# text_standard = Cuimhin liom go ríomhtaí sin trí mhíle bó ar do mhuintir agus iad uile ar bhar gcur faoi do leagadh, agus faoi do ghearradh.
+# text_standard = Cuimhin liom go ríomhtaí sin trí mhíle bó ar do mhuintir agus iad uile ar bhar gcur faoi do leagadh, is faoi do ghearradh.
 1	Cumhain	cuimhin	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	liom	le	ADP	_	Number=Sing|Person=1	1	obl:prep	_	_
 3	go	go	PART	_	PartType=Cmpl	4	mark:prt	_	_
@@ -930,7 +930,7 @@
 
 # sent_id = 34
 # text = Bíodh nar dhiongmhála lat-sa ar ttecht go háois ársachta beatha mesardha denas dob fheárr í na braighdenas.
-# text_standard = Bíodh nár dhiongbhála leatsa ar dteacht go haois ársaíochta beatha measartha deanas b' fhearr í na braighdeanas.
+# text_standard = Bíodh nár dhiongbhála leatsa ar dteacht go haois ársaíochta beatha measartha denas b'fhearr í ná braighdeanas.
 1	Bíodh	bí	VERB	_	Mood=Imp|Number=Sing|Person=3	14	advcl	_	_
 2	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	3	cop	_	_
 3	dhiongmhála	diongbháil	ADJ	_	Degree=Pos|Form=Len	1	ccomp	_	_
@@ -952,7 +952,7 @@
 
 # sent_id = 35
 # text = Treig do dhiomus na lean de mithidh dhuit i n-eirr th'áoise saoghal na meang do thuigsin 's nach tú a-mháin do rothuirrsigh.
-# text_standard = Tréig do dhíomas ná lean de mithid duit in earr d' aoise saol na meang a thuiscint is nach tú amháin a róthuirsigh.
+# text_standard = Tréig do dhíomas ná lean de mithid duit in earr d'aoise saol na meang a thuiscint is nach tú amháin a róthuirsigh.
 1	Treig	tréig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	_
 3	dhiomus	díomas	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	1	obj	_	_
@@ -1024,7 +1024,7 @@
 9	saoghal	saol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11-12	'sa	_	_	_	_	_	_	_	_
-11	is	agus	CCONJ	_	_	13	cc	_	_
+11	's	agus	CCONJ	_	_	13	cc	_	_
 12	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
 13	cholann	colainn	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	7	conj	_	_
 14	da	dá	SCONJ	_	_	15	mark	_	_
@@ -1069,7 +1069,7 @@
 
 # sent_id = 39
 # text = Déna an t-inchreachadh dhlighe o thús go eirr th'aimsire sgrúd a bhfuair tú gach tan 'sa ndearnais ris san saoghal.
-# text_standard = Déan an t-inchreachadh dhlíonn tú ó thús go earr d' aimsire scrúdaigh a bhfuair tú gach tan is a ndearna tú leis sa saol.
+# text_standard = Déan an t-inchreachadh dhlíonn tú ó thús go earr d'aimsire scrúdaigh a bhfuair tú gach tan is a ndearna tú leis sa saol.
 1	Déna	déan	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
 3	t-inchreachadh	inchreachadh	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
@@ -1153,7 +1153,7 @@
 
 # sent_id = 42
 # text = Budh luaithe liomsa ina libh le toil De d'fhios an Righthigh mo bhuille sguir as se so dhíobhse a ndeireadh mo thermo.
-# text_standard = Ba luaithe liomsa ná libh le toil Dé d'fhios an Ríthí mo bhuille scoir is sé seo díbhse i ndeireadh mo théarma.
+# text_standard = Ba luaithe liomsa ná libh le toil Dé a fhios an Ríthí mo bhuille scoir is sé seo díbhse i ndeireadh mo théarma.
 1	Budh	is	AUX	_	Tense=Past|VerbForm=Cop	2	cop	_	_
 2	luaithe	luath	ADJ	_	Degree=Cmp,Sup	0	root	_	_
 3	liomsa	le	ADP	_	Number=Sing|Person=1|PronType=Emp	2	obl:prep	_	_
