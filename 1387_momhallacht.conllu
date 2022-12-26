@@ -45,7 +45,7 @@
 11	agus	agus	CCONJ	_	_	12	cc	_	_
 12	flaithes	flaitheas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
 13-14	'sda	_	_	_	_	_	_	_	_
-13	's	agus	CCONJ	_	_	15	cc	_	_
+13	is	agus	CCONJ	_	_	15	cc	_	_
 14	dá	do	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	15	obl	_	_
 15	ttugais	tabhair	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	6	conj	_	_
 16	muirn	muirn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	_
