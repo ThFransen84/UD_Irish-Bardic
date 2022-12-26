@@ -1068,7 +1068,7 @@
 23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 39
-# text = Déna an t-inchreachadh dhlighe o thús go eirr th' aimsire sgrúd a bhfuair tú gach tan 'sa ndearnais ris san saoghal.
+# text = Déna an t-inchreachadh dhlighe o thús go eirr th'aimsire sgrúd a bhfuair tú gach tan 'sa ndearnais ris san saoghal.
 # text_standard = Déan an t-inchreachadh dhlíonn tú ó thús go earr d' aimsire scrúdaigh a bhfuair tú gach tan is a ndearna tú leis sa saol.
 1	Déna	déan	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
@@ -1078,7 +1078,7 @@
 6	thús	tús	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	4	obl	_	_
 7	go	go	ADP	_	_	8	case	_	_
 8	eirr	earr	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
-9	th'	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	_
+9	th'	do	DET	_	Number=Sing|Person=2|Poss=Yes	10	nmod:poss	_	SpaceAfter=No
 10	aimsire	aimsir	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 11	sgrúd	scrúdaigh	VERB	_	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_
 12	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	13	mark:prt	_	_
