@@ -198,7 +198,7 @@
 20	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = 8
-# text = Nir eirigh neach thiar no thoir ar druim do rotha a shaoghail nach é [a ]dheireadh iar gach sódh a chur faoi an roth fa dhubrón.
+# text = Nir eirigh neach thiar no thoir ar druim do rotha a shaoghail nach é [a] dheireadh iar gach sódh a chur faoi an roth fa dhubrón.
 # text_standard = Níor éirigh neach thiar nó thoir ar droim do rotha a shaoil nach é a dheireadh iar gach sódh a chur faoi an roth faoi dhobrón.
 1	Nir	níor	PART	_	PartType=Vb|Polarity=Neg|Tense=Past	2	advmod	_	_
 2	eirigh	éirigh	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
@@ -215,8 +215,8 @@
 13	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	18	cop	_	_
 14	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	_
 15	[	[	PUNCT	_	_	16	punct	_	SpaceAfter=No
-16	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	18	nmod:poss	_	_
-17	]	]	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	18	nmod:poss	_	SpaceAfter=No
+17	]	]	PUNCT	_	_	16	punct	_	_
 18	dheireadh	deireadh	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	acl:relcl	_	_
 19	iar	iar	ADP	_	_	21	case	_	_
 20	gach	gach	DET	_	Definite=Def	21	det	_	_
