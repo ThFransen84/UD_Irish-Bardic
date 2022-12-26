@@ -782,7 +782,7 @@
 21	lucht	lucht	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	_
 22	gach	gach	DET	_	Definite=Def	24	det	_	_
 23-24	eintíre	_	_	_	_	_	_	_	SpaceAfter=No
-23	aon	aon	DET	_	PronType=Ind	24	det	_	_
+23	ein	aon	DET	_	PronType=Ind	24	det	_	_
 24	tíre	tír	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	_
 25	.	.	PUNCT	_	_	1	punct	_	_
 
