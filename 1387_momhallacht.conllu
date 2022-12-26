@@ -748,7 +748,7 @@
 18	baile	baile	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	xcomp:pred	_	_
 19	riu	le	ADP	_	Number=Plur|Person=3	14	obl:prep	_	_
 20-21	'sgan	_	_	_	_	_	_	_	_
-20	is	agus	CCONJ	_	_	22	cc	_	_
+20	's	agus	CCONJ	_	_	22	cc	_	_
 21	gan	gan	ADP	_	_	22	case	_	_
 22	iad	iad	PRON	_	Number=Plur|Person=3	14	conj	_	_
 23	'na	i	ADP	_	Number=Plur|Person=3|Poss=Yes	24	case	_	_
