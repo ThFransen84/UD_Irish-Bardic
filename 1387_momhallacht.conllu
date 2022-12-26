@@ -861,14 +861,14 @@
 16	bhar	bar	DET	_	Number=Plur|Person=2|Poss=Yes	17	nmod:poss	_	_
 17	ccur	cur	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	13	obl	_	_
 18-19	fad	_	_	_	_	_	_	_	_
-18	faoi	faoi	ADP	_	_	20	case	_	_
-19	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	20	nmod:poss	_	_
+18	fa	faoi	ADP	_	_	20	case	_	_
+19	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	20	nmod:poss	_	_
 20	leagadh	leagan	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	is	agus	CCONJ	_	_	25	cc	_	_
 23-24	fad	_	_	_	_	_	_	_	_
-23	faoi	faoi	ADP	_	_	25	case	_	_
-24	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	25	nmod:poss	_	_
+23	fa	faoi	ADP	_	_	25	case	_	_
+24	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	25	nmod:poss	_	_
 25	gherradh	gearradh	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	1	punct	_	_
 
