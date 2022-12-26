@@ -168,7 +168,7 @@
 20	ré	ré	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	nsubj	_	_
 21-22	ód	_	_	_	_	_	_	_	_
 21	ó	ó	ADP	_	_	23	case	_	_
-22	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	23	nmod:poss	_	_
+22	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	23	nmod:poss	_	_
 23	mharcoigheacht	marcaíocht	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	18	punct	_	_
 
