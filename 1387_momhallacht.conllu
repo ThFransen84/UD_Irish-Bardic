@@ -913,8 +913,8 @@
 7	ar	ar	ADP	_	_	8	case	_	_
 8	fhírbhegán	beagán	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	5	obl	_	_
 9-10	dot	_	_	_	_	_	_	_	_
-9	de	de	ADP	_	_	11	case	_	_
-10	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
+9	do	de	ADP	_	_	11	case	_	_
+10	t	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
 11	mhuintir	muintir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	8	nmod	_	_
 12	fuairais	faigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
 13	beatha	beatha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obj	_	_
