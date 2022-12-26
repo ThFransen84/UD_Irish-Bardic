@@ -951,7 +951,7 @@
 18	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 35
-# text = Treig do dhiomus na lean de mithidh dhuit i n-eirr th' áoise saoghal na meang do thuigsin 's nach tú a-mháin do rothuirrsigh.
+# text = Treig do dhiomus na lean de mithidh dhuit i n-eirr th'áoise saoghal na meang do thuigsin 's nach tú a-mháin do rothuirrsigh.
 # text_standard = Tréig do dhíomas ná lean de mithid duit in earr d' aoise saol na meang a thuiscint is nach tú amháin a róthuirsigh.
 1	Treig	tréig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	_
@@ -963,7 +963,7 @@
 8	dhuit	do	ADP	_	Number=Sing|Person=2	7	obl:prep	_	_
 9	i	i	ADP	_	_	10	case	_	_
 10	n-eirr	earr	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	7	parataxis	_	_
-11	th'	do	DET	_	Number=Sing|Person=2|Poss=Yes	12	nmod:poss	_	_
+11	th'	do	DET	_	Number=Sing|Person=2|Poss=Yes	12	nmod:poss	_	SpaceAfter=No
 12	áoise	aois	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
 13	saoghal	saol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	obj	_	_
 14	na	an	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	15	det	_	_
@@ -979,7 +979,7 @@
 24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 36
-# text = Caithréim 's fearr fo ghréin ghloin do neoch dar ghein ar talmhoin 's ar buaine dhó thall iar ndol buaidh ar dheamhan 's ar dhomhon.
+# text = Caithréim 's fearr fo ghréin ghloin do neoch dar ghein ar talmhoin 'sar buaine dhó thall iar ndol buaidh ar dheamhan 'sar dhomhon.
 # text_standard = Caithréim is fearr faoi ghrian ghlan do neach dar ghin ar talamh is ar buaine dó thall iar ndul bua ar dheamhan is ar dhomhan.
 1	Caithréim	caithréim	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	csubj:cleft	_	_
 2	's	is	PART	_	PartType=Sup	3	mark:prt	_	_
@@ -993,6 +993,7 @@
 10	ghein	gin	VERB	_	Form=Len|Mood=Ind|Tense=Past	8	acl:relcl	_	_
 11	ar	ar	ADP	_	_	12	case	_	_
 12	talmhoin	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
+13-14	'sar	_	_	_	_	_	_	_	_
 13	's	agus	CCONJ	_	_	15	cc	_	_
 14	ar	ar	AUX	_	PronType=Rel|Tense=Pres|VerbForm=Cop	15	cop	_	_
 15	buaine	buan	ADJ	_	Degree=Cmp,Sup	3	conj	_	_
@@ -1003,6 +1004,7 @@
 20	buaidh	bua	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
 21	ar	ar	ADP	_	_	22	case	_	_
 22	dheamhan	deamhan	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	20	obl	_	_
+23-24	'sar	_	_	_	_	_	_	_	_
 23	's	agus	CCONJ	_	_	25	cc	_	_
 24	ar	ar	ADP	_	_	25	case	_	_
 25	dhomhon	domhan	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
@@ -1085,7 +1087,7 @@
 15	gach	gach	DET	_	Definite=Def	16	det	_	_
 16	tan	tan	ADV	_	_	13	advmod	_	_
 17-18	'sa	_	_	_	_	_	_	_	_
-17	is	agus	SCONJ	_	_	19	cc	_	_
+17	's	agus	SCONJ	_	_	19	cc	_	_
 18	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	19	mark:prt	_	_
 19	ndearnais	déan	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
 20	ris	le	ADP	_	Gender=Masc|Number=Sing|Person=3	19	obl:prep	_	_
