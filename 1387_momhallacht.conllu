@@ -249,7 +249,7 @@
 14	dhóibh	do	ADP	_	Number=Plur|Person=3	12	obl:prep	_	_
 15-16	dot	_	_	_	_	_	_	_	_
 15	do	do	ADP	_	_	17	case	_	_
-16	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	17	nmod:poss	_	_
+16	t	do	DET	_	Number=Sing|Person=2|Poss=Yes	17	nmod:poss	_	_
 17	mhaoin	maoin	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	12	obl	_	_
 18-19	'sní	_	_	_	_	_	_	_	_
 18	's	agus	CCONJ	_	_	20	cc	_	_
