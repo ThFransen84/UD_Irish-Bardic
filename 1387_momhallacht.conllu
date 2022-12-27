@@ -384,7 +384,7 @@
 10	ar	ar	ADP	_	_	11	case	_	_
 11	mhiothaom	míthaom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
 12	acht	ach	ADP	_	_	13	case	_	_
-13	fíorfhuath	fíorfhuath	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
+13	fíorfhuath	fuath	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
 14	mur	mar	SCONJ	_	_	15	mark	_	_
 15	ta	bí	VERB	_	Mood=Ind|Tense=Pres	13	acl	_	_
 16	re	le	ADP	_	_	17	case	_	_
