@@ -1,3 +1,17 @@
-# UD_Irish-Bardic
+# Summary
 
-1387: lightly edited transcription at https://bardic.celt.dias.ie/displayPoem.php?firstLineID=1387, most recent edition by Eoin Mac Cárthaigh in Ériu , 2013, Vol. 63 (2013), pp. 41-77
+This is the Cadhan Aonair UD treebank, initially consisting of 
+150 sentences randomly sampled from six pre-standard Irish texts. The treebank was subsequently augmented with a late Classical Irish (bardic) poem, prepared by Dr Theodorus Fransen, described in a [separate section below](https://github.com/UniversalDependencies/UD_Irish-Cadhan#bardic-segment)
+
+# Bardic segment
+The Cadhan treebank includes the entire late Classical Irish (bardic) poem <em>Mo mhallacht ort, a shaoghail</em> (<em>c</em>. 1655), consisting of 43 sentences (stanzas). The version here is based on a lightly edited transcription of the poem, available at https://bardic.celt.dias.ie/displayPoem.php?firstLineID=1387. The UD annotation was heavily guided by an edition and translation of the poem by Mac Cárthaigh (2013). For information about invaluable preparatory work on indexing and transcribing the extant Bardic poems, and automatic tagging and lemmatisation of the resulting corpus, see https://www.tcd.ie/Irish/research/bardic.php.
+
+## Textual remarks
+
+Tokenisation decisions broadly follow Scannell (2022). It is worth pointing out that it is even more common in Bardic poetry -- or in the transcribed texts at least -- for two words to be written together, the first appearing as a clitic (e.g. _'sgan_ for _is_ (_agus_) _gan_); such cases are treated as multiword tokens. Lemmata are generally modern dictionary headwords, except in those cases where no modern equivalent exists; _ima_ (_seach_) “in turn” (`bardic_1387-9`) has been “modernized” as _faoi_ (_seach_) while _denas_ “(for a) while” (`bardic_1387-34`) is accompanied by the headword _denus_ as per [dil.ie/15475](dil.ie/15475) (but tagged in our treebank as a masculine rather than neuter noun, the latter category of which does not exist in the modern language). In case of non-standard variants, the lemma (headword) in [Ó Dónaill (1977)](https://www.teanglann.ie/en/fgb/) was chosen, even where the variant constitutes a separate entry in the dictionary (with a cross-reference to a more standard or authoritative form). This leads to a gender “mismatch” with _ccóigidh_ (`bardic_1387-26`), which has been mapped to masculine _cúige_ in our treebank, but which would be feminine based on the (variant) lemma _cúigidh_. Furthermore, while traces of the prescriptive usage of case forms are salient in our poem, we see a confusion between dative and accusative constructions typical of the post-Classical period (Mac Cárthaigh 2013, pp. 47--48), in addition to the general conflation of accusative and nomative forms. For this reason, the accusative case feature, which does not exist in the modern language, has not been used; the dative is only assigned in cases where an inflectional difference can be seen (but not where a modern variant exists as a nominative, going back to an older dative, as per variant entries in Ó Dónaill (1977), e.g. _caroid_ (_caraid_) (`bardic_1387-17`) alongside more common _cara_ “friend”). As Scannell (2022, p. 9) has pointed out, current annotation conventions might need to be reevaluated after discussions with other Irish treebank maintainers. 
+
+## Annotational remarks
+
+## References
+
+Eoin Mac Cárthaigh in Ériu , 2013, Vol. 63 (2013), pp. 41-77
