@@ -21,7 +21,7 @@ without which none of this research would be possible.
 Royal Irish Academy in early 2020 just before the COVID pandemic;
 my thanks to Charlie and the RIA for hosting me during that visit,
 and for inspiring this line of research.
-* Dr Theodorus Fransen would like to acknowledge the CLS INFRA scheme (EU Horizon 2020 grant agreement No 101004984) and the invaluable assistance received from his mentor Dr [Silvie Cinková](https://ufal.mff.cuni.cz/silvie-cinkova) (ÚFAL, Charles University, Prague). He would also like to thank Dr Eoin Mac Cárthaigh and Dr Elaine Uí Dhonnchadha, both of Trinity College, Dublin, for helpful feedback and generously sharing manually checked corpus files annotated with PAROLE tags.
+* Dr Theodorus Fransen would like to acknowledge the CLS INFRA scheme (EU Horizon 2020 grant agreement No 101004984) and the invaluable assistance received from his mentor Dr [Silvie Cinková](https://ufal.mff.cuni.cz/silvie-cinkova) during his fellowship at ÚFAL, Charles University, Prague. He would also like to thank Dr Eoin Mac Cárthaigh and Dr Elaine Uí Dhonnchadha, both of Trinity College Dublin, for helpful feedback and generously sharing manually checked corpus files annotated with PAROLE tags.
 
 ## References
 
