@@ -704,7 +704,7 @@
 # text = Do shiris leó ceann i cceann urmhór chúig ccóigidh Eireann da ndíden ar gach feadhain do Ghallaibh do Gháoidhealaibh.
 # text_standard = Do shir tú leo ceann i gceann formhór chúig gcúige Éireann dá ndídean ar gach feadhain de Ghaill de Ghaeil.
 1	Do	do	PART	_	PartType=Vb	2	mark:prt	_	_
-2	shiris	sir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
+2	shiris	sir	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
 3	leó	le	ADP	_	Number=Plur|Person=3	2	obl:prep	_	_
 4	ceann	ceann	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 5	i	i	ADP	_	PrepForm=Cmpd	4	fixed	_	_
