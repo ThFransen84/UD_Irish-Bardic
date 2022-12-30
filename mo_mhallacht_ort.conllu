@@ -81,7 +81,7 @@
 17-18	'sdo	_	_	_	_	_	_	_	_
 17	's	agus	CCONJ	_	_	19	cc	_	_
 18	do	do	PART	_	PartType=Vb	19	mark:prt	_	_
-19	thrasgrais	treascair	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
+19	thrasgrais	treascair	VERB	_	Form=Len|Mood=Ind|Number=Sing|Person=2|Tense=Past	13	conj	_	_
 20	síos	síos	ADV	_	_	19	advmod	_	_
 21	go	go	ADP	_	_	22	case	_	_
 22	talmain	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
