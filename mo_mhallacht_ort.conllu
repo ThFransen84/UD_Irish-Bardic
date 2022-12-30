@@ -961,7 +961,7 @@
 7	mithidh	mithid	ADJ	_	Degree=Pos	1	parataxis	_	_
 8	dhuit	do	ADP	_	Number=Sing|Person=2	7	obl:prep	_	_
 9	i	i	ADP	_	_	10	case	_	_
-10	n-eirr	earr	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	7	parataxis	_	_
+10	n-eirr	earr	NOUN	_	Case=Dat|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	7	parataxis	_	_
 11	th'	do	DET	_	Number=Sing|Person=2|Poss=Yes	12	nmod:poss	_	SpaceAfter=No
 12	áoise	aois	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	_
 13	saoghal	saol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	obj	_	_
