@@ -405,7 +405,7 @@
 4	dimbrigh	dímrí	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	_
 5	de	de	ADP	_	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 6	da	dá	SCONJ	_	_	7	mark	_	_
-7	n-iarra	iarr	VERB	_	Form=Ecl|Mood=Sub|Tense=Pres	3	advcl	_	_
+7	n-iarra	iarr	VERB	_	Form=Ecl|Mood=Sub|Number=Sing|Person=2|Tense=Pres	3	advcl	_	_
 8	sibh	sibh	PRON	_	Number=Plur|Person=2	7	nsubj	_	_
 9	mes	meas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	_
 10	foirfe	foirfe	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
@@ -941,7 +941,7 @@
 9	ársachta	ársaíocht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 10	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nsubj	_	_
 11	mesardha	measartha	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
-12	denas	denus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl:tmod	_	_
+12	denas	denas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl:tmod	_	_
 13	dob	is	PART	_	Form=VF|PartType=Sup|Tense=Past|VerbForm=Cop	14	mark:prt	_	_
 14	fheárr	maith	ADJ	_	Degree=Cmp,Sup|Form=Len	0	root	_	_
 15	í	í	PRON	_	Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
