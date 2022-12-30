@@ -789,7 +789,7 @@
 # text = Do chosain tu íad amhlaidh re ré an chogaidh chatharmaigh ceithre bliaghna doirbhe dég nar léigis faill 'na ccoimhéd.
 # text_standard = Do chosain tú iad amhlaidh le ré an chogaidh chatharmaigh ceithre bliana doirbhe déag nár lig tú faill ina gcoimhéad.
 1	Do	do	PART	_	PartType=Vb	2	mark:prt	_	_
-2	chosain	cosain	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+2	chosain	cosain	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 3	tu	tú	PRON	_	Number=Sing|Person=2	2	nsubj	_	_
 4	íad	iad	PRON	_	Number=Plur|Person=3	2	obj	_	_
 5	amhlaidh	amhlaidh	ADV	_	_	2	advmod	_	_
@@ -803,7 +803,7 @@
 13	doirbhe	doirbh	ADJ	_	Case=Nom|Gender=Fem|NounType=NotSlender|Number=Plur	12	amod	_	_
 14	dég	déag	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	_
 15	nar	nár	PART	_	PartType=Cmpl|Polarity=Neg|Tense=Past	16	mark:prt	_	_
-16	léigis	lig	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	12	acl:relcl	_	_
+16	léigis	lig	VERB	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	12	acl:relcl	_	_
 17	faill	faill	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	obj	_	_
 18	'na	i	ADP	_	Number=Plur|Person=3|Poss=Yes	19	case	_	_
 19	ccoimhéd	coimhéad	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
