@@ -1027,7 +1027,7 @@
 12	a	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	13	nmod:poss	_	_
 13	cholann	colainn	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	7	conj	_	_
 14	da	dá	SCONJ	_	_	15	mark	_	_
-15	mbera	beir	VERB	_	Form=Ecl|Mood=Sub|Tense=Pres	20	advcl	_	_
+15	mbera	beir	VERB	_	Form=Ecl|Mood=Sub|Number=Sing|Person=2|Tense=Pres	20	advcl	_	_
 16	tusa	tú	PRON	_	Number=Sing|Person=2|PronType=Emp	15	nsubj	_	_
 17	a	a	DET	_	Number=Plur|Person=3|Poss=Yes	18	nmod:poss	_	_
 18	mbuaidh	bua	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	15	obj	_	_
