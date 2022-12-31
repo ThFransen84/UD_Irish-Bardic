@@ -405,7 +405,7 @@
 4	dimbrigh	dímrí	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	_
 5	de	de	ADP	_	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 6	da	dá	SCONJ	_	_	7	mark	_	_
-7	n-iarra	iarr	VERB	_	Form=Ecl|Mood=Sub|Number=Sing|Person=2|Tense=Pres	3	advcl	_	_
+7	n-iarra	iarr	VERB	_	Form=Ecl|Mood=Sub|Tense=Pres	3	advcl	_	_
 8	sibh	sibh	PRON	_	Number=Plur|Person=2	7	nsubj	_	_
 9	mes	meas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	_
 10	foirfe	foirfe	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
