@@ -941,7 +941,7 @@
 9	ársachta	ársaíocht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 10	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nsubj	_	_
 11	mesardha	measartha	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
-12	denas	denas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl:tmod	_	_
+12	denas	denus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl:tmod	_	_
 13	dob	is	PART	_	Form=VF|PartType=Sup|Tense=Past|VerbForm=Cop	14	mark:prt	_	_
 14	fheárr	maith	ADJ	_	Degree=Cmp,Sup|Form=Len	0	root	_	_
 15	í	í	PRON	_	Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
