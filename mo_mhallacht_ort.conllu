@@ -24,7 +24,7 @@
 18	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	19	cop	_	_
 19	díol	díol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	ccomp	_	_
 20	gradhaighthe	grá	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
-21	t'	do	DET	_	Number=Sing|Person=2|Poss=Yes	22	case	_	SpaceAfter=No
+21	t'	do	DET	_	Number=Sing|Person=2|Poss=Yes	22	nmod:poss	_	SpaceAfter=No
 22	fhortún	fortún	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	19	nsubj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	_
 
