@@ -1169,7 +1169,7 @@
 14	bhuille	buille	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	2	parataxis	_	_
 15	sguir	scor	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
 16	as	is	AUX	_	Tense=Pres|VerbForm=Cop	14	cop	_	_
-17	se	sé	PRON	_	Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
+17	se	sé	PRON	_	Gender=Masc|Number=Sing|Person=3	14	nsubj	_	_
 18	so	seo	PRON	_	PronType=Dem	17	det	_	_
 19	dhíobhse	de	ADP	_	Number=Plur|Person=2|PronType=Emp	14	obl:prep	_	_
 20	a	i	ADP	_	_	21	case	_	_
