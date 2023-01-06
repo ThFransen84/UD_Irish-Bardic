@@ -708,10 +708,10 @@
 3	leó	le	ADP	_	Number=Plur|Person=3	2	obl:prep	_	_
 4	ceann	ceann	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 5	i	i	ADP	_	PrepForm=Cmpd	4	fixed	_	_
-6	cceann	ceann	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing|PrepForm=Cmpd	5	fixed	_	_
+6	cceann	ceann	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing|PrepForm=Cmpd	4	fixed	_	_
 7	urmhór	formhór	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 8	chúig	cúig	NUM	_	Form=Len|NumType=Card	9	nummod	_	_
-9	ccóigidh	cúige	NOUN	_	Case=Gen|Form=Ecl|Gender=Masc|NounType=Weak|Number=Pl	7	nmod	_	_
+9	ccóigidh	cúige	NOUN	_	Case=Gen|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plural	7	nmod	_	_
 10	Eireann	Éire	PROPN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 11	da	de	ADP	_	Number=Plur|Person=3|Poss=Yes	12	case	_	_
 12	ndíden	dídean	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	2	parataxis	_	_
