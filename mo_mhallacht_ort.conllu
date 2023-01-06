@@ -641,7 +641,7 @@
 14	thall	thall	ADV	_	_	10	advmod	_	_
 15	d'	de	ADP	_	_	16	case	_	SpaceAfter=No
 16	ainbhfine	fine	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	_
-17	aintréin	aintréan	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	16	amod	_	_
+17	aintréin	aintréan	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	_
 18	eachtrann	eachtrannach	NOUN	_	Case=Gen|Gender=Masc|NounType=Weak|Number=Plur	16	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	6	punct	_	_
 
