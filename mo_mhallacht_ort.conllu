@@ -511,7 +511,7 @@
 2	dhoírt	doirt	VERB	_	Mood=Ind|Tense=Past	1	acl:relcl	_	_
 3	gach	gach	DET	_	Definite=Def	4	det	_	_
 4	mairtír	mairtíreach	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	_
-5	da	de	DET	_	Number=Plur|Person=3|Poss=Yes	6	case	_	_
+5	da	de	ADP	_	Number=Plur|Person=3|Poss=Yes	6	case	_	_
 6	bhfuil	fuil	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	2	obl	_	_
 7	ó	ó	ADP	_	_	8	case	_	_
 8	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	obl	_	_
