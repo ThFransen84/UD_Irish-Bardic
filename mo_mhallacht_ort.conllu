@@ -857,7 +857,7 @@
 13	iad	iad	PRON	_	Number=Plur|Person=3	8	conj	_	_
 14	uile	uile	DET	_	PronType=Ind	13	det	_	_
 15	ar	ar	ADP	_	_	16	case	_	_
-16	bhar	bar	DET	_	Number=Plur|Person=2|Poss=Yes	17	nmod:poss	_	_
+16	bhar	bhur	DET	_	Number=Plur|Person=2|Poss=Yes	17	nmod:poss	_	_
 17	ccur	cur	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	13	obl	_	_
 18-19	fad	_	_	_	_	_	_	_	_
 18	fa	faoi	ADP	_	_	20	case	_	_
