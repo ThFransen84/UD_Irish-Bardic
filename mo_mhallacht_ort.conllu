@@ -994,7 +994,7 @@
 12	talmhoin	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
 13-14	'sar	_	_	_	_	_	_	_	_
 13	's	agus	CCONJ	_	_	15	cc	_	_
-14	ar	ar	AUX	_	PronType=Rel|Tense=Pres|VerbForm=Cop	15	cop	_	_
+14	ar	is	AUX	_	PronType=Rel|Tense=Pres|Typo=Yes|VerbForm=Cop	15	cop	_	CorrectForm=as
 15	buaine	buan	ADJ	_	Degree=Cmp,Sup	3	conj	_	_
 16	dhó	do	ADP	_	Form=Len|Gender=Masc|Number=Sing|Person=3	15	obl:prep	_	_
 17	thall	thall	ADV	_	_	15	advmod	_	_
