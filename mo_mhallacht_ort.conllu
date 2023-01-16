@@ -319,7 +319,7 @@
 # text_standard = Ciall a ndúirt anseo duit a ua na dtrí nAodh n-oirirc i ndóigh go mbeith gráin ó thoil agat ar ghlóir an tsaoil.
 1	Cíall	ciall	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	3	obj	_	_
-3	ndubhairt	abair	VERB	_	Form=Ecl|Mood=Ind|Tense=Past	1	acl:relcl	_	_
+3	ndubhairt	abair	VERB	_	Form=Ecl|Mood=Ind|Tense=Past|Typo=Yes	1	acl:relcl	_	_
 4	annso	anseo	ADV	_	_	1	parataxis	_	_
 5	dhuit	do	ADP	_	Form=Len|Number=Sing|Person=2	1	parataxis	_	_
 6	a	a	PART	_	PartType=Voc	7	case:voc	_	_
