@@ -1084,7 +1084,7 @@
 13	bhfuair	faigh	VERB	_	Form=Ecl|Mood=Ind|Tense=Past	11	acl:relcl	_	_
 14	tú	tú	PRON	_	Number=Sing|Person=2	13	nsubj	_	_
 15	gach	gach	DET	_	Definite=Def	16	det	_	_
-16	tan	tan	ADV	_	_	13	advmod	_	_
+16	tan	tan	NOUN	_	_	13	advmod	_	_
 17-18	'sa	_	_	_	_	_	_	_	_
 17	's	agus	SCONJ	_	_	19	cc	_	_
 18	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	19	mark:prt	_	_
