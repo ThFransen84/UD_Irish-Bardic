@@ -429,7 +429,7 @@
 # text_standard = Smaoinigh ó thús go rugadh sibh in am crábhaidh is creidimh mar nár rugadh mór lena mheas na monaircí thuas a áirigh mé.
 1	Smuain	smaoinigh	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	ó	ó	ADP	_	_	3	case	_	_
-3	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	1	obl	_	_
+3	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	1	obl:tmod	_	_
 4	go	go	PART	_	PartType=Cmpl	5	mark:prt	_	_
 5	rugadh	beir	VERB	_	Mood=Ind|Person=0|Tense=Past	1	ccomp	_	_
 6	sibh	sibh	PRON	_	Number=Plur|Person=2	5	obj	_	_
