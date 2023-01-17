@@ -841,7 +841,7 @@
 
 # sent_id = bardic_1387-31
 # text = Cumhain liom go riomhthaoi sin tri mhíle bó ar do mhuintir agus iad uile ar bhar ccur fad leagadh, is fad gherradh.
-# text_standard = Cuimhin liom go ríomhtaí sin trí mhíle bó ar do mhuintir agus iad uile ar bhar gcur faoi do leagadh, is faoi do ghearradh.
+# text_standard = Cuimhin liom go ríomhtaí sin trí mhíle bó ar do mhuintir agus iad uile ar bhur gcur faoi do leagadh, is faoi do ghearradh.
 1	Cumhain	cuimhin	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	liom	le	ADP	_	Number=Sing|Person=1	1	obl:prep	_	_
 3	go	go	PART	_	PartType=Cmpl	4	mark:prt	_	_
