@@ -379,7 +379,7 @@
 6-7	'sgan	_	_	_	_	_	_	_	_
 6	's	agus	CCONJ	_	_	8	cc	_	_
 7	gan	gan	ADP	_	_	8	case	_	_
-8	tadhall	tadhall	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+8	tadhall	tadhall	NOUN	_	VerbForm=Inf	1	conj	_	_
 9	duit	do	ADP	_	Number=Sing|Person=2	8	obl:prep	_	_
 10	ar	ar	ADP	_	_	11	case	_	_
 11	mhiothaom	míthaom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
