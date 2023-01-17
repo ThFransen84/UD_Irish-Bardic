@@ -330,14 +330,14 @@
 11	n-oirdhuirc	oirirc	NOUN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plur	10	nmod	_	_
 12	i	i	ADP	_	_	13	case	_	_
 13	ndoigh	dóigh	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	1	parataxis	_	_
-14	go	go	ADP	_	_	15	case	_	_
-15	mbeith	beith	NOUN	_	Case=Nom|Form=Ecl|Gender=Fem|Number=Sing	13	nmod	_	_
-16	gráin	gráin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nmod	_	_
+14	go	go	PART	_	PartType=Cmpl	15	mark:prt	_	_
+15	mbeith	bí	VERB	_	Form=Ecl|Mood=Sub|Tense=Pres	13	acl	_	_
+16	gráin	gráin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
 17	ó	ó	ADP	_	_	18	case	_	_
-18	thoil	toil	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	16	nmod	_	_
-19	agad	ag	ADP	_	Number=Sing|Person=2	16	nmod	_	_
+18	thoil	toil	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	15	obl	_	_
+19	agad	ag	ADP	_	Number=Sing|Person=2	15	obl:prep	_	_
 20	ar	ar	ADP	_	_	21	case	_	_
-21	ghlóir	glóir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	16	nmod	_	_
+21	ghlóir	glóir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	15	obl	_	_
 22	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	tshaoghoil	saol	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	1	punct	_	_
@@ -841,7 +841,7 @@
 
 # sent_id = bardic_1387-31
 # text = Cumhain liom go riomhthaoi sin tri mhíle bó ar do mhuintir agus iad uile ar bhar ccur fad leagadh, is fad gherradh.
-# text_standard = Cuimhin liom go ríomhtaí sin trí mhíle bó ar do mhuintir agus iad uile ar bhur gcur faoi do leagadh, is faoi do ghearradh.
+# text_standard = Cuimhin liom go ríomhtaí sin trí mhíle bó ar do mhuintir agus iad uile ar bhar gcur faoi do leagadh, is faoi do ghearradh.
 1	Cumhain	cuimhin	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	liom	le	ADP	_	Number=Sing|Person=1	1	obl:prep	_	_
 3	go	go	PART	_	PartType=Cmpl	4	mark:prt	_	_
