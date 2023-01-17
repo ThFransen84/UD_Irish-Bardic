@@ -1115,7 +1115,7 @@
 16	choir	cor	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	11	obl	_	_
 17	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	mílti	míle	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	obj	_	_
-19	crecht	créacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nmod	_	_
+19	crecht	créacht	NOUN	_	Case=Gen|Gender=Fem|NounType=Weak|Number=Plural	18	nmod	_	_
 20-21	tréd	_	_	_	_	_	_	_	_
 20	tré	trí	ADP	_	_	22	case	_	_
 21	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	22	nmod:poss	_	_
