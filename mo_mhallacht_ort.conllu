@@ -521,7 +521,7 @@
 11	deiredh	deireadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
 12	dhomhuin	domhan	NOUN	_	Case=Gen|Form=Len|Gender=Masc|Number=Sing	11	nmod	_	_
 13	do	do	PART	_	PartType=Vb	15	mark:prt	_	_
-14	budh	is	AUX	_	PronType=Rel|Tense=Past|VerbForm=Cop	15	cop	_	_
+14	budh	is	AUX	_	Tense=Past|VerbForm=Cop	15	cop	_	_
 15	mo	mór	ADJ	_	Degree=Cmp,Sup	0	root	_	_
 16	sgél	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
 17	braon	braon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	parataxis	_	_
