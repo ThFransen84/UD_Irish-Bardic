@@ -651,8 +651,8 @@
 1	I	i	ADP	_	_	2	case	_	_
 2	n-am	am	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obl	_	_
 3	cogaidh	cogadh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	da	do	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	case	_	_
-5	éis	éis	NOUN	_	Case=Nom|Definite=Def|Number=Sing	2	nmod	_	_
+4	da	do	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	case	_	_
+5	éis	éis	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	nmod	_	_
 6	sin	sin	PRON	_	PronType=Dem	5	det	_	_
 7	gach	gach	DET	_	Definite=Def	8	det	_	_
 8	ar	ar	PRON	_	PronType=Rel	15	dislocated	_	_
