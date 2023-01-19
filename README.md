@@ -84,7 +84,7 @@ without which none of this research would be possible.
 Royal Irish Academy in early 2020 just before the COVID pandemic;
 my thanks to Charlie and the RIA for hosting me during that visit,
 and for inspiring this line of research.
-* Dr Theodorus Fransen would like to acknowledge the CLS INFRA scheme (EU Horizon 2020 grant agreement No 101004984) and the invaluable help and advice received from his mentor Dr [Silvie Cinková](https://ufal.mff.cuni.cz/silvie-cinkova) during his fellowship at ÚFAL, Charles University, Prague. He is grateful to Prof. Kevin Scannell for generating a first version of the treebank using his projecting parser (Scannell, 2022) in addition to providing general assistance. Dr Eoin Mac Cárthaigh and Dr Elaine Uí Dhonnchadha, both of Trinity College Dublin, provided helpful feedback and generously shared manually checked corpus files annotated with PAROLE tags.
+* Dr Theodorus Fransen would like to acknowledge the CLS INFRA scheme (EU Horizon 2020 grant agreement No 101004984) and the invaluable help and advice received from his mentor Dr [Silvie Cinková](https://ufal.mff.cuni.cz/silvie-cinkova) during his fellowship at ÚFAL, Charles University, Prague. He is grateful to Prof. Kevin Scannell for generating a first version of the “bardic” treebank using his projecting parser (Scannell, 2022) in addition to providing general assistance. Dr Eoin Mac Cárthaigh and Dr Elaine Uí Dhonnchadha, both of Trinity College Dublin, provided helpful feedback and generously shared manually checked corpus files annotated with PAROLE tags.
 
 ## References
 
