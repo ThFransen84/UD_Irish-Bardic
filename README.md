@@ -2,7 +2,7 @@
 
 This is the Cadhan Aonair UD treebank, consisting of 
 150 sentences randomly sampled from six pre-standard Irish texts. 
-The treebank was subsequently augmented with a late Early Modern Irish syllabic poem, described in a [separate section below](https://github.com/UniversalDependencies/UD_Irish-Cadhan#bardic-segment).
+The treebank was subsequently augmented with a late Early Modern Irish syllabic poem consisting of 43 sentences (quatrains), described in a [separate section below](https://github.com/UniversalDependencies/UD_Irish-Cadhan#bardic-segment).
 
 # Introduction
 
@@ -59,11 +59,11 @@ in Scannell (2022).
 
 # Early Modern Irish and language codes
 
-Users should take note that the language code `ga` (Irish) has been employed even for the earliest texts in this treebank, some of which are clearly Early Modern Irish in nature. The treebank maintainers are aware of the fact that a strong case could be made for assigning the (arguably somewhat fuzzy) language code `ghc` (https://iso639-3.sil.org/code/ghc), for <em>Hiberno-Scottish Gaelic</em>, to some of these earlier texts in this treebank (and accordingly splitting up the corpus into two segments). This remains future work.  
+Users should take note that the language code `ga` (Irish) has been employed even for the older texts in this treebank, some of which are clearly Early Modern Irish in nature. The treebank maintainers are aware of the fact that a strong case could be made for assigning the (arguably somewhat fuzzy) language code `ghc` (https://iso639-3.sil.org/code/ghc), for <em>Hiberno-Scottish Gaelic</em>, to some of the older texts in this treebank (and accordingly splitting up the corpus into two segments). This remains future work.  
 
 # Bardic segment
 
-The Cadhan treebank includes a late Early Modern Irish syllabic poem entitled <em>Mo mhallacht ort, a shaoghail</em> (“My curse on you, world”, c. 1655), consisting of 43 sentences (stanzas), totalling 1004 tokens. The text was converted to a UD treebank by Dr Theodorus Fransen as part of a [CLS INFRA](https://clsinfra.io/) TNA fellowship at ÚFAL, Charles University, Prague (CZ), between September and December 2022. The version of the poem contained in the treebank is based on a lightly edited transcription available at https://bardic.celt.dias.ie/displayPoem.php?firstLineID=1387. A recent edition and translation of the poem (Mac Cárthaigh, 2013) proved indispensable for proper morphological and syntactic analysis. For information about invaluable preparatory work on indexing and transcribing a large part of the extant Bardic corpus, as well as recent (non-UD) tagging and lemmatization efforts, see https://www.tcd.ie/Irish/research/bardic.php.
+The Cadhan treebank includes a late Early Modern Irish syllabic (bardic) poem entitled <em>Mo mhallacht ort, a shaoghail</em> (“My curse on you, world”, c. 1655), consisting of 1004 tokens. The text was converted to a UD treebank by Dr Theodorus Fransen as part of a [CLS INFRA](https://clsinfra.io/) TNA fellowship at ÚFAL, Charles University, Prague (CZ), between September and December 2022. The version of the poem contained in the treebank is based on a lightly edited transcription available at https://bardic.celt.dias.ie/displayPoem.php?firstLineID=1387. A recent edition and translation of the poem (Mac Cárthaigh, 2013) proved indispensable for proper morphological and syntactic analysis. For information about invaluable preparatory work on indexing and transcribing a large part of the extant Bardic corpus, as well as recent (non-UD) tagging and lemmatization efforts, see https://www.tcd.ie/Irish/research/bardic.php.
 
 ## Tokenization and annotation choices
 
