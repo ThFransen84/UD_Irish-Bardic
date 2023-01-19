@@ -59,7 +59,7 @@ in Scannell (2022).
 
 # Early Modern Irish and language codes
 
-Users should take note that the language code _ga_ (Irish) has been employed even for the earliest texts in this treebank, some of which are clearly Early Modern Irish in nature. The treebank maintainers are aware of the fact that a strong case could be made for assigning the (arguably somewhat fuzzy) language code `ghc` (https://iso639-3.sil.org/code/ghc), for <em>Hiberno-Scottish Gaelic</em>, to some of these earlier texts in this treebank (and accordingly splitting up the corpus into two segments). This remains future work.  
+Users should take note that the language code `ga` (Irish) has been employed even for the earliest texts in this treebank, some of which are clearly Early Modern Irish in nature. The treebank maintainers are aware of the fact that a strong case could be made for assigning the (arguably somewhat fuzzy) language code `ghc` (https://iso639-3.sil.org/code/ghc), for <em>Hiberno-Scottish Gaelic</em>, to some of these earlier texts in this treebank (and accordingly splitting up the corpus into two segments). This remains future work.  
 
 # Bardic segment
 
