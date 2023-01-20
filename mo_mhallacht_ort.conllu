@@ -318,7 +318,7 @@
 # text = Cíall a ndubhairt annso dhuit a úa na ttrí nAodh n-oirdhuirc i ndoigh go mbeith gráin ó thoil agad ar ghlóir an tshaoghoil.
 # text_standard = Ciall a ndúirt mé anseo duit a ua na dtrí nAodh n-oirirc i ndóigh go mbeith gráin ó thoil agat ar ghlóir an tsaoil.
 1	Cíall	ciall	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	3	obj	_	_
+2	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	3	mark:prt	_	_
 3	ndubhairt	abair	VERB	_	Form=Ecl|Mood=Ind|Person=1|Tense=Past|Typo=Yes	1	acl:relcl	_	CorrectForm=ndubhart
 4	annso	anseo	ADV	_	_	1	parataxis	_	_
 5	dhuit	do	ADP	_	Form=Len|Number=Sing|Person=2	1	parataxis	_	_
