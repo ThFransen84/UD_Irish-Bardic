@@ -626,7 +626,7 @@
 # text_standard = Le linn síochána is socra fuair tú beatha inmholta iar bplandú i do thír thall d'an-fhine aintréin eachtrannach.
 1	Re	le	ADP	_	PrepForm=Cmpd	3	case	_	_
 2	linn	linn	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|PrepForm=Cmpd	1	fixed	_	_
-3	síothchána	síocháin	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
+3	síothchána	síocháin	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl:tmod	_	_
 4	is	agus	CCONJ	_	_	5	cc	_	_
 5	socra	socracht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
 6	fuairais	faigh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
