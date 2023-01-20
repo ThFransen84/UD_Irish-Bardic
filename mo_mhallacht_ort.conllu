@@ -335,7 +335,7 @@
 16	gráin	gráin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
 17	ó	ó	ADP	_	_	18	case	_	_
 18	thoil	toil	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	15	obl	_	_
-19	agad	ag	ADP	_	Number=Sing|Person=2	15	obl:prep	_	_
+19	agad	ag	ADP	_	Number=Sing|Person=2	15	xcomp:pred	_	_
 20	ar	ar	ADP	_	_	21	case	_	_
 21	ghlóir	glóir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	16	nmod	_	_
 22	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
