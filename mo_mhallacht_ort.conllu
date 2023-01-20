@@ -161,7 +161,7 @@
 14-15	'sa	_	_	_	_	_	_	_	_
 14	's	agus	CCONJ	_	_	16	cc	_	_
 15	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	16	nmod:poss	_	_
-16	roinert	ró-neart	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	conj	_	_
+16	roinert	neart	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	conj	_	_
 17	nír	is	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Cop	18	cop	_	_
 18	chian	cian	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	0	root	_	_
 19	a	a	DET	_	Number=Sing|Person=3|Poss=Yes	20	nmod:poss	_	_
