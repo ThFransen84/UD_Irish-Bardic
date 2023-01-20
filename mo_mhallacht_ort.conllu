@@ -2,7 +2,7 @@
 # newpar
 # sent_id = bardic_1387-1
 # text = Mo mhallacht ort a shaoghail mairg nach ttuig do robhaoghail 'sgo ccuire féin i ccéill dúin nach díol gradhaighthe t'fhortún.
-# text_standard = Mo mhallacht ort a shaoil mairg nach dtuigeann do ró-bhaoil ós go gcuireann tú féin i gcéill dúinn nach díol gráite d'fhortún.
+# text_standard = Mo mhallacht ort a shaoil mairg nach dtuigeann do róbhaoil ós go gcuireann tú féin i gcéill dúinn nach díol gráite d'fhortún.
 1	Mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
 2	mhallacht	mallacht	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	0	root	_	_
 3	ort	ar	ADP	_	Number=Sing|Person=2	2	obl:prep	_	_
@@ -115,7 +115,7 @@
 
 # sent_id = bardic_1387-5
 # text = Riogha na nAssardha is mead tugais doib seal nar roibeag callacdha is pearsa nar lag fúairseat seal cait 'nar gabhsat .
-# text_standard = Ríthe na nAisiriach is Méideach thug tú dóibh seal nár ró-bheag Caildéigh is Peirsigh nár lag fuair siad seal cá háit inár ghabh siad.
+# text_standard = Ríthe na nAisiriach is Méideach thug tú dóibh seal nár róbheag Caildéigh is Peirsigh nár lag fuair siad seal cá háit inár ghabh siad.
 1	Riogha	rí	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
 2	na	na	DET	_	Case=Gen|Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	nAssardha	Aisiriach	PROPN	_	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|NounType=Strong|Number=Plur	1	nmod	_	_
@@ -142,7 +142,7 @@
 
 # sent_id = bardic_1387-6
 # text = Alaxandair monarc mór céidEmpir Grég na nglanshlogh ger mhór a mhes 'sa roinert nír chian a ré ód mharcoigheacht.
-# text_standard = Alastar monarc mór céad Impire Gréagach na nglansluaite cé gur mhór a mheas is a ró-neart níor chian a ré ó do mharcaíocht.
+# text_standard = Alastar monarc mór céad Impire Gréagach na nglansluaite cé gur mhór a mheas is a róneart níor chian a ré ó do mharcaíocht.
 1	Alaxandair	Alastar	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	dislocated	_	_
 2	monarc	monarc	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
 3	mór	mór	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
