@@ -1108,8 +1108,8 @@
 9	oirbhire	oirbhire	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 10	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	tí	té	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
-12	ar	ar	ADP	_	_	14	case	_	_
-13	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	14	mark:prt	_	_
+12	ar	ar	ADP	_	_	13	case	_	_
+13	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	14	obl	_	_
 14	ttugadh	tabhair	VERB	_	Form=Ecl|Mood=Ind|Person=0|Tense=Past	11	acl:relcl	_	_
 15	gan	gan	ADP	_	_	16	case	_	_
 16	choir	cor	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	11	obl	_	_
