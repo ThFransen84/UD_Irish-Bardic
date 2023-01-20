@@ -988,7 +988,7 @@
 6	ghloin	glan	ADJ	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	5	amod	_	_
 7	do	de	ADP	_	_	8	case	_	_
 8	neoch	neach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl	_	_
-9	dar	de	PART	_	Form=Indirect|PartType=Vb|PronType=Rel|Tense=Past	10	mark:prt	_	_
+9	dar	de	PART	_	Form=Indirect|PartType=Vb|PronType=Rel|Tense=Past	10	obl	_	_
 10	ghein	gin	VERB	_	Form=Len|Mood=Ind|Tense=Past	8	acl:relcl	_	_
 11	ar	ar	ADP	_	_	12	case	_	_
 12	talmhoin	talamh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
