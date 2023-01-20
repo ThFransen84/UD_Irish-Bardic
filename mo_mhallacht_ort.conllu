@@ -973,7 +973,7 @@
 19	nach	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	20	cop	_	_
 20	tú	tú	PRON	_	Number=Sing|Person=2	17	conj	_	_
 21	a-mháin	amháin	ADJ	_	Degree=Pos	20	amod	_	_
-22	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	23	obj	_	_
+22	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	23	mark:prt	_	_
 23	rothuirrsigh	tuirsigh	VERB	_	Mood=Ind|Tense=Past	20	csubj:cleft	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	1	punct	_	_
 
