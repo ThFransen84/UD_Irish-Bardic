@@ -815,7 +815,7 @@
 1	Gidh	cé	SCONJ	_	_	2	mark	_	_
 2	mór	mór	ADJ	_	Degree=Pos	24	advcl	_	_
 3	diobh	de	ADP	_	Number=Plur|Person=3	2	obl:prep	_	_
-4	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	5	mark:prt	_	_
+4	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	5	nsubj	_	_
 5	bhi	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	acl:relcl	_	_
 6	beó	beo	ADJ	_	Degree=Pos	5	xcomp:pred	_	_
 7	bocht	bocht	ADJ	_	Degree=Pos	5	xcomp:pred	_	_
