@@ -57,13 +57,7 @@ projecting the annotations back to the source texts, and then
 manually correcting the results. Full details are available
 in Scannell (2022).
 
-# Early Modern Irish and language codes
-
-Users should take note that the language code `ga` (Modern Irish) has been employed even for the older texts in this treebank, some of which are clearly Early Modern Irish in nature. The treebank maintainers are aware of the fact that a strong case could be made for assigning the (arguably somewhat fuzzy) language code `ghc` (https://iso639-3.sil.org/code/ghc), for <em>Hiberno-Scottish Gaelic</em>, to some of the older texts in this treebank (and accordingly splitting up the corpus into two segments). This remains future work.  
-
 # Bardic segment
-
-## Background
 
 The Cadhan treebank includes a late Early Modern Irish syllabic (bardic) poem entitled <em>Mo mhallacht ort, a shaoghail</em> (“My curse on you, world”, c. 1655), consisting of 1004 tokens. The text was converted to a UD treebank by Dr Theodorus Fransen as part of a [CLS INFRA](https://clsinfra.io/) TNA fellowship at ÚFAL, Charles University, Prague (CZ), between September and December 2022. The version of the poem contained in the treebank is based on a lightly edited transcription available at https://bardic.celt.dias.ie/displayPoem.php?firstLineID=1387. A recent edition and translation of the poem (Mac Cárthaigh, 2013) proved indispensable for proper morphological and syntactic analysis. For information about invaluable preparatory work on indexing and transcribing a large part of the extant Bardic corpus, as well as recent (non-UD) tagging and lemmatization efforts, see https://www.tcd.ie/Irish/research/bardic.php.
 
@@ -74,6 +68,11 @@ Tokenization and annotation decisions are based on Scannell (2022, pp. 9–10). 
 While the language is for the most part Classical Modern Irish (c. 1200–1650), post-classical developments can clearly be seen, notably the simplification of the case system and conflation of case forms and constructions governed by prepositions (Mac Cárthaigh, 2013, pp. 47–48). For example, the accusative is used instead of the dative in _san saoghal_ “in this life” (`bardic_1387-39`; expected _san tshaoghal_), and acc./dat.sg _airdrígh_ “high-king” is used in subject position in `bardic_1387-3` (with the expected nom.sg _rí_ appearing in `bardic_1387-2`). Due to this “confusion”, and since the anchor point for tagging and parsing is contemporary standard Irish, it was decided not to use the accusative feature, which is not part of the modern language and is therefore not used in the Modern Irish treebank. The dative case has only been assigned in cases where the noun has a distinctive dative form and is not also used instead of a nom.sg elsewhere in our poem. Likewise, originally oblique case forms which survive as non-standard or dialectal forms (e.g. _don Righthigh_ (`bardic_1387-37`) with _tigh_ “house” for standard _teach_) have been tagged as nom.sg forms, mostly guided by information in Ó Dónaill (1977).
 
 Some of the annotation decisions made are undoubtedly somewhat arbitrary. Echoing observations made in Scannell (2022, p. 9), some of the current annotation conventions might need to be re-evaluated in consultation with other Irish treebank maintainers, especially if older Early Modern Irish texts are added to the current treebank. In the meantime, any feedback from language specialists is greatly welcomed.
+
+
+## Early Modern Irish and language codes
+
+Users should take note that the language code `ga` (Modern Irish) has been employed even for the older texts in this treebank, some of which are clearly Early Modern Irish in nature. The treebank maintainers are aware of the fact that a strong case could be made for assigning the (arguably somewhat fuzzy) language code `ghc` (https://iso639-3.sil.org/code/ghc), for <em>Hiberno-Scottish Gaelic</em>, to some of the older texts in this treebank (and accordingly splitting up the corpus into two segments). This remains future work.  
 
 # Acknowledgments
 
