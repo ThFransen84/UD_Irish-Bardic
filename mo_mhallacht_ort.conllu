@@ -465,7 +465,7 @@
 7	comhairle	comhairle	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	_
 8	ó	ó	ADP	_	_	10	case	_	_
 9	gach	gach	DET	_	Definite=Def	10	det	_	_
-10	caroid	cara	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
+10	caroid	cara	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
 11	da	dá	SCONJ	_	_	12	mark	_	_
 12	bhfuilnge	fulaing	VERB	_	Form=Ecl|Mood=Sub|Number=Sing|Person=2|Tense=Pres	16	advcl	_	_
 13	martra	martra	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obj	_	_
