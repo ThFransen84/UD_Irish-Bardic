@@ -1036,7 +1036,7 @@
 21	go	go	PART	_	PartType=Ad	22	mark:prt	_	_
 22	réidh	réidh	ADJ	_	Degree=Pos	20	advmod	_	_
 23	don	do	ADP	_	Number=Sing|PronType=Art	24	case	_	_
-24	Righthigh	rítheach	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+24	Righthigh	rítheach	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = bardic_1387-38
