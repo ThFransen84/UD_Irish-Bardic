@@ -1088,7 +1088,7 @@
 17-18	'sa	_	_	_	_	_	_	_	_
 17	's	agus	SCONJ	_	_	18	cc	_	_
 18	a	a	PRON	_	Form=Indirect|PartType=Vb|PronType=Rel	12	conj	_	_
-19	ndearnais	déan	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	18	obj	_	_
+19	ndearnais	déan	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	18	acl:relcl	_	_
 20	ris	le	ADP	_	Gender=Masc|Number=Sing|Person=3	19	obl:prep	_	_
 21	san	i	ADP	_	Number=Sing|PronType=Art	22	case	_	_
 22	saoghal	saol	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
