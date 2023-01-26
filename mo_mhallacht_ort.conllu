@@ -937,7 +937,7 @@
 5	ar	ar	ADP	_	_	6	case	_	_
 6	ttecht	teacht	NOUN	_	Form=Ecl|VerbForm=Inf	3	parataxis	_	_
 7	go	go	ADP	_	_	8	case	_	_
-8	háois	aois	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	6	nmod	_	_
+8	háois	aois	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	6	obl	_	_
 9	ársachta	ársaíocht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 10	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nsubj	_	_
 11	mesardha	measartha	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
