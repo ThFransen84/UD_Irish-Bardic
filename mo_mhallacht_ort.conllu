@@ -649,7 +649,7 @@
 # text = I n-am cogaidh da éis sin gach ar lean sibh dot dhaoinibh do shaorais iad ar ghorta ar bhás fuachta is fiornochta.
 # text_standard = In am cogaidh dá éis sin gach ar lean sibh de do dhaoine a shaor tú iad ar ghorta ar bhás fuachta is fíornochtachta.
 1	I	i	ADP	_	_	2	case	_	_
-2	n-am	am	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obl	_	_
+2	n-am	am	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obl:tmod	_	_
 3	cogaidh	cogadh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	da	do	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	15	obl	_	_
 5	éis	éis	NOUN	_	Case=Nom|Definite=Def|Number=Sing	4	fixed	_	_
