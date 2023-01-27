@@ -316,7 +316,7 @@
 
 # sent_id = bardic_1387-12
 # text = Cíall a ndubhairt annso dhuit a úa na ttrí nAodh n-oirdhuirc i ndoigh go mbeith gráin ó thoil agad ar ghlóir an tshaoghoil.
-# text_standard = Ciall a ndúirt mé anseo duit a ua na dtrí nAodh n-oirirc i ndóigh go mbeith gráin ó thoil agat ar ghlóir an tsaoil.
+# text_standard = Ciall a ndúirt mé anseo duit a ua na dtrí nAodh n-oirirc i ndóigh go raibh gráin ó thoil agat ar ghlóir an tsaoil.
 1	Cíall	ciall	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	a	a	PART	_	Form=Indirect|PartType=Vb|PronType=Rel	3	mark:prt	_	_
 3	ndubhairt	abair	VERB	_	Form=Ecl|Mood=Ind|Person=1|Tense=Past|Typo=Yes	1	acl:relcl	_	CorrectForm=ndubhart
@@ -979,7 +979,7 @@
 
 # sent_id = bardic_1387-36
 # text = Caithréim 's fearr fo ghréin ghloin do neoch dar ghein ar talmhoin 'sar buaine dhó thall iar ndol buaidh ar dheamhan 'sar dhomhon.
-# text_standard = Caithréim is fearr faoi ghrian ghlan do neach dar ghin ar talamh is is buaine dó thall iar ndul bua ar dheamhan is ar dhomhan.
+# text_standard = Caithréim is fearr faoi ghrian ghlan do neach a gineadh ar talamh is is buaine dó thall iar ndul bua ar dheamhan is ar dhomhan.
 1	Caithréim	caithréim	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	csubj:cleft	_	_
 2	's	is	PART	_	PartType=Sup	3	mark:prt	_	_
 3	fearr	maith	ADJ	_	Degree=Cmp,Sup	1	amod	_	_
