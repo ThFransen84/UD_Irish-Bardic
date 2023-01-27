@@ -514,7 +514,7 @@
 5	da	de	ADP	_	Number=Plur|Person=3|Poss=Yes	6	case	_	_
 6	bhfuil	fuil	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	2	obl	_	_
 7	ó	ó	ADP	_	_	8	case	_	_
-8	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	obl	_	_
+8	thús	tús	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	obl:tmod	_	_
 9-10	'sgo	_	_	_	_	_	_	_	_
 9	's	agus	CCONJ	_	_	11	cc	_	_
 10	go	go	ADP	_	_	11	case	_	_
