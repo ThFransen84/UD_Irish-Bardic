@@ -633,7 +633,7 @@
 7	beatha	beatha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	_
 8	ionmholta	inmholta	ADJ	_	VerbForm=Part	7	amod	_	_
 9	iar	iar	ADP	_	_	10	case	_	_
-10	bplanntughadh	plandú	NOUN	_	Form=Ecl|VerbForm=Inf	6	obl	_	_
+10	bplanntughadh	plandú	NOUN	_	Form=Ecl|VerbForm=Inf	6	obl:tmod	_	_
 11-12	it	_	_	_	_	_	_	_	_
 11	i	i	ADP	_	_	13	case	_	_
 12	t	do	DET	_	Number=Sing|Person=2|Poss=Yes	13	nmod:poss	_	_
