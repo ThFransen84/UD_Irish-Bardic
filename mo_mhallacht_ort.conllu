@@ -677,19 +677,19 @@
 # sent_id = bardic_1387-25
 # text = Cía hé an flaith do freimh Dálaigh do reír iúil an annalaigh tug oiread cobhartha libh i n-am cogaidh da dhaoinibh.
 # text_standard = Cé hé an flaith de fréamh Dálaigh de réir iúil an annálaigh thug oiread cabhartha libh in am cogaidh dá dhaoine.
-1	Cía	cé	PRON	_	PronType=Int	2	nsubj	_	_
-2	hé	é	PRON	_	Form=HPref|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+1	Cía	cé	PRON	_	PronType=Int	0	root	_	_
+2	hé	é	PRON	_	Form=HPref|Gender=Masc|Number=Sing|Person=3	1	nmod	_	_
 3	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
-4	flaith	flaith	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	appos	_	_
+4	flaith	flaith	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
 5	do	de	ADP	_	_	6	case	_	_
-6	freimh	fréamh	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nmod	_	_
+6	freimh	fréamh	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
 7	Dálaigh	Dálach	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
 8	do	de	ADP	_	PrepForm=Cmpd	10	case	_	_
 9	reír	réir	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|PrepForm=Cmpd	8	fixed	_	_
 10	iúil	iúl	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	parataxis	_	_
 11	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	annalaigh	annálach	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	_
-13	tug	tabhair	VERB	_	Mood=Ind|Tense=Past	2	acl:relcl	_	_
+13	tug	tabhair	VERB	_	Mood=Ind|Tense=Past	4	acl:relcl	_	_
 14	oiread	oiread	NOUN	_	Case=Nom|Number=Sing	13	obj	_	_
 15	cobhartha	cabhair	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
 16	libh	le	ADP	_	Number=Plur|Person=2	13	obl:prep	_	_
