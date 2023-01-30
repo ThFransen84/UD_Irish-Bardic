@@ -531,7 +531,7 @@
 21	dhoirt	doirt	VERB	_	Mood=Ind|Tense=Past	17	acl:relcl	_	_
 22	Iosa	Íosa	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	21	nsubj	_	_
 23	trear	trí	ADP	_	Number=Plur|Person=1|Poss=Yes	24	case	_	_
-24	cciontaibh	cion	NOUN	_	Case=Dat|Form=Ecl|Gender=Masc|Number=Plur	21	obl	_	SpaceAfter=No
+24	cciontaibh	cion	NOUN	_	Case=Dat|Definite=Def|Form=Ecl|Gender=Masc|Number=Plur	21	obl	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = bardic_1387-20
