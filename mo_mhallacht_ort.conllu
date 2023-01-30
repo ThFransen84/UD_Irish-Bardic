@@ -1173,7 +1173,7 @@
 18	so	seo	PRON	_	PronType=Dem	17	det	_	_
 19	dhíobhse	de	ADP	_	Number=Plur|Person=2|PronType=Emp	14	obl:prep	_	_
 20	a	i	ADP	_	_	21	case	_	_
-21	ndeireadh	deireadh	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	14	obl:tmod	_	_
+21	ndeireadh	deireadh	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	14	obl	_	_
 22	mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	23	nmod:poss	_	_
 23	thermo	téarma	NOUN	_	Case=Gen|Definite=Def|Form=Len|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
