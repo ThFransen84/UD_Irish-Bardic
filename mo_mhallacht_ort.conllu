@@ -1132,12 +1132,12 @@
 5	ó	ó	ADP	_	_	6	case	_	_
 6	thoil	toil	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	3	obl	_	_
 7	i	i	ADP	_	_	8	case	_	_
-8	cclú	clú	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	3	obl	_	_
+8	cclú	clú	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	6	conj	_	_
 9	i	i	ADP	_	_	10	case	_	_
-10	máoin	maoin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	_
+10	máoin	maoin	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
 11	na	ná	CCONJ	_	_	13	cc	_	_
 12	tre	trí	ADP	_	_	13	case	_	_
-13	sgannoil	scannal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+13	sgannoil	scannal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
 14	déna	déan	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 15	aisiog	aiseag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obj	_	_
 16	ann	i	ADP	_	Gender=Masc|Number=Sing|Person=3	14	obl:prep	_	_
