@@ -1018,7 +1018,7 @@
 4	anma	anam	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
 5	gach	gach	DET	_	Definite=Def	6	det	_	_
 6	am	am	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	obl:tmod	_	_
-7	diabhal	diabhal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No
+7	diabhal	diabhal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	saoghal	saol	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
