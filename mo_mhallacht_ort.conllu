@@ -524,7 +524,7 @@
 14	budh	is	AUX	_	Tense=Past|VerbForm=Cop	15	cop	_	_
 15	mo	mór	ADJ	_	Degree=Cmp,Sup	0	root	_	_
 16	sgél	scéal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
-17	braon	braon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	parataxis	_	_
+17	braon	braon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	appos	_	_
 18	don	de	ADP	_	Number=Sing|PronType=Art	19	case	_	_
 19	fhuil	fuil	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	17	nmod	_	_
 20	do	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	21	obj	_	_
