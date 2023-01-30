@@ -879,7 +879,7 @@
 3	fós	fós	ADV	_	_	1	advmod	_	_
 4	iar	iar	ADP	_	_	6	case	_	_
 5	gach	gach	DET	_	Definite=Def	6	det	_	_
-6	seal	seal	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl:tmod	_	_
+6	seal	seal	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 7	iad	iad	PRON	_	Number=Plur|Person=3	1	obj	_	_
 8	uile	uile	DET	_	PronType=Ind	7	det	_	_
 9	ag	ag	ADP	_	_	10	case	_	_
