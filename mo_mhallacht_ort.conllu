@@ -277,7 +277,7 @@
 12	is	agus	CCONJ	_	_	13	cc	_	_
 13	Crist	Críost	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	_
 14	dar	do	ADP	_	Number=Plur|Person=1|Poss=Yes	15	nmod:poss	_	_
-15	leighes	leigheas	NOUN	_	Definite=Def|VerbForm=Inf	13	acl	_	_
+15	leighes	leigheas	NOUN	_	Definite=Def|VerbForm=Inf	13	xcomp	_	_
 16	or	ó	ADP	_	Number=Plur|Person=1|Poss=Yes	17	case	_	_
 17	ccoir	coir	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	15	obl	_	_
 18-19	'sgan	_	_	_	_	_	_	_	_
