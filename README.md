@@ -1,7 +1,5 @@
 # Summary
 
-This is the Cadhan Aonair UD treebank, consisting of 
-150 sentences randomly sampled from six pre-standard Irish texts. 
 The treebank was subsequently augmented with a late Early Modern Irish syllabic poem consisting of 42 quatrains, described in a [separate section below](https://github.com/UniversalDependencies/UD_Irish-Cadhan#bardic-segment).
 
 # Introduction
