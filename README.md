@@ -20,7 +20,9 @@ Some of the annotation decisions made are undoubtedly somewhat arbitrary. Echoin
 
 * Thanks to Teresa Lynn for her many years of work on the Irish treebank,
 without which none of this research would be possible.
-* The treebank maintainer would like to acknowledge the CLS INFRA scheme (EU Horizon 2020 grant agreement No 101004984) and the invaluable help and advice received from his mentor Dr [Silvie Cinková](https://ufal.mff.cuni.cz/silvie-cinkova) during his fellowship at ÚFAL, Charles University, Prague. He is grateful to his collaborator Prof. Kevin Scannell for generating a first version of the “bardic” treebank using his projecting parser (Scannell, 2022) in addition to providing both technical and linguistic assistance. Dr Elaine Uí Dhonnchadha and Dr Eoin Mac Cárthaigh, both of Trinity College Dublin and the bardic@tcd project (https://www.tcd.ie/Irish/research/bardic.php), generously shared manually checked corpus files annotated with PAROLE tags, while Dr Mac Cárthaigh additionally elucidated various philological and linguistic matters related to the “bardic” poem _Mo mhallacht ort, a shaoghail_.
+* The treebank maintainer would like to acknowledge the CLS INFRA scheme (EU Horizon 2020 grant agreement No 101004984) and the invaluable help and advice received from his mentor Dr [Silvie Cinková](https://ufal.mff.cuni.cz/silvie-cinkova) during his fellowship at ÚFAL, Charles University, Prague. 
+* He is also grateful to his collaborator Prof. Kevin Scannell for generating a first version of the “bardic” treebank using his projecting parser (Scannell, 2022) in addition to providing both technical and linguistic assistance. 
+* Dr Elaine Uí Dhonnchadha and Dr Eoin Mac Cárthaigh, both of Trinity College Dublin and the bardic@tcd project (https://www.tcd.ie/Irish/research/bardic.php), generously shared manually checked corpus files annotated with PAROLE tags, while Dr Mac Cárthaigh additionally elucidated various philological and linguistic matters related to the “bardic” poem _Mo mhallacht ort, a shaoghail_.
 
 ## References
 
