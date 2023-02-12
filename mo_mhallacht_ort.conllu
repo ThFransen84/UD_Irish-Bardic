@@ -352,7 +352,7 @@
 5	i	i	ADP	_	_	6	case	_	_
 6	leabhraibh	leabhar	NOUN	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur	4	xcomp:pred	_	_
 7	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	monairc-si	monarc	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Emp	4	parataxis	_	_
+8	monairc-si	monarc	NOUN	_	Case=Nom|Definite=Def|Form=Emp|Gender=Masc|Number=Plur	4	parataxis	_	_
 9	a	a	PART	_	PartType=Voc	10	case:voc	_	_
 10	Thoirrdhealbhaidh	Traolach	PROPN	_	Case=Voc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	4	vocative	_	_
 11	ni	is	AUX	_	Polarity=Neg|Tense=Pres|VerbForm=Cop	12	cop	_	_
@@ -711,7 +711,7 @@
 6	cceann	ceann	NOUN	_	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing|PrepForm=Cmpd	4	fixed	_	_
 7	urmhór	formhór	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	_
 8	chúig	cúig	NUM	_	Form=Len|NumType=Card	9	nummod	_	_
-9	ccóigidh	cúige	NOUN	_	Case=Gen|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plural	7	nmod	_	_
+9	ccóigidh	cúige	NOUN	_	Case=Gen|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plur	7	nmod	_	_
 10	Eireann	Éire	PROPN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 11	da	do	ADP	_	Number=Plur|Person=3|Poss=Yes	12	case	_	_
 12	ndíden	dídean	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	2	parataxis	_	_
@@ -1087,7 +1087,7 @@
 16	tan	tan	NOUN	_	_	13	obl:tmod	_	_
 17-18	'sa	_	_	_	_	_	_	_	_
 17	's	agus	SCONJ	_	_	18	cc	_	_
-18	a	a	PRON	_	Form=Indirect|PartType=Vb|PronType=Rel	12	conj	_	_
+18	a	a	PRON	_	PronType=Rel	12	conj	_	_
 19	ndearnais	déan	VERB	_	Form=Ecl|Mood=Ind|Number=Sing|Person=2|Tense=Past	18	acl:relcl	_	_
 20	ris	le	ADP	_	Gender=Masc|Number=Sing|Person=3	19	obl:prep	_	_
 21	san	i	ADP	_	Number=Sing|PronType=Art	22	case	_	_
@@ -1115,7 +1115,7 @@
 16	choir	cor	NOUN	_	Case=Nom|Form=Len|Gender=Fem|Number=Sing	11	obl	_	_
 17	na	an	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	mílti	míle	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	obj	_	_
-19	crecht	créacht	NOUN	_	Case=Gen|Gender=Fem|NounType=Weak|Number=Plural	18	nmod	_	_
+19	crecht	créacht	NOUN	_	Case=Gen|Gender=Fem|NounType=Weak|Number=Plur	18	nmod	_	_
 20-21	tréd	_	_	_	_	_	_	_	_
 20	tré	trí	ADP	_	_	22	case	_	_
 21	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	22	nmod:poss	_	_
@@ -1184,4 +1184,3 @@
 1	Mo	mo	DET	_	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
 2	mhallacht	mallacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	...	...	PUNCT	_	_	2	punct	_	SpacesAfter=\n
-
