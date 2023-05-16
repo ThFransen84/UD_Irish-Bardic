@@ -1,6 +1,6 @@
 # Summary
 
-This repository contains a [Universal Dependencies](https://universaldependencies.org/) (UD) treebank of a late Early Modern Irish syllabic poem consisting of 42 quatrains. The treebank is in the process of being integrated with the [Cadhan Aonair](https://github.com/UniversalDependencies/UD_Irish-Cadhan) UD corpus of pre-standard Irish texts, created and maintained by Prof. Kevin Scannell.
+This repository contains a [Universal Dependencies](https://universaldependencies.org/) (UD) treebank of a late Early Modern Irish syllabic poem consisting of 42 quatrains. The treebank was integrated with the [Cadhan Aonair](https://github.com/UniversalDependencies/UD_Irish-Cadhan) corpus of pre-standard Irish texts, created and maintained by Prof. Kevin Scannell, as part of UD v2.12 (2023-05-15).
 
 # Background
 
